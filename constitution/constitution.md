@@ -384,7 +384,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 # Acknowledgements
 
-## v1.0
+## v1.1
 
 **Authors:** Jack Laing
 
