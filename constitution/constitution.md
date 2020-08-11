@@ -1,6 +1,6 @@
 # Mission Statement
 
-We, the Contributors to Pocket Network, are united together in the mission to build censorship-resistant technology that will lay the foundation for reorganizing the world’s institutions towards a more equitable, hyper-connected, interplanetary future.
+We, the Contributors to Pocket Network and Pocket Technologies, are united together in the mission to build censorship-resistant technology that will lay the foundation for reorganizing the world’s institutions towards a more equitable, hyper-connected, interplanetary future.
 
 # Principles
 
@@ -10,7 +10,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 4. **Freedom of Movement:** Entry to Pocket Network should be accessible to both Apps and Nodes. Equally, all Pocket Network stakeholders should enjoy the right to exit.
 5. **Optionality:** Operating a Node should incur no more costs than the cost of operation. All other responsibilities, e.g. participation in the Council, should be optional.
 6. **Agnosticism:** Pocket Network should maintain neutrality as a middleware protocol. While the governance of Pocket Network may be reliant from time to time on other networks or tools, the system itself should retain a level of modularity that facilitates switching out components with minimal friction.
-7. **Cross-Chain Diplomacy:** Pocket Network is a middleware protocol, which means our community will come from a wide range of blockchain communities. DAO participants must leave tribalism at the door; they should refrain from engaging in political debates that are not directly relevant to improving the service that Pocket Network provides.
+7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community will come from a wide range of blockchain communities. DAO participants must leave tribalism at the door; they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
 8. **Consensual Collaboration:** While the Pocket Network Council is relatively permissionless, this does not mean anyone is entitled to work. Proposals will be assessed on their merits alone, including Contributors’ fitness to fulfill the proposal. Likewise, Contributors are not required to let any other Contributor work with them, unless the Council has approved a proposal to that effect.
 
 * The Principles are ranked in order of priority.
@@ -19,7 +19,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 * Lower-ranking Principles should only be sacrificed in favor of higher-ranking Principles if a Pareto optimal state has been achieved, i.e. it is not possible to improve one Principle without making another Principle worse off. Until then, the Council shall seek to make only Pareto improvements, where Principles are improved without making any other Principles worse off.
 * Once it is no longer possible to optimize any Principle without sacrificing another, this Constitution should be amended to introduce minimum satisfaction thresholds on each Principle.
 * Stakeholder rights at any given moment, as defined by the values of On-Chain parameters, may justifiably be sacrificed in the furtherance of the Principles, because it is intended that the Principles, if achieved, will ensure maximum utility to maximum stakeholders.
-* The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of Pocket Network, which is defined in the first line of this Constitution.
+* The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of the Pocket Technologies and Pocket Network stated under "Mission Statement" above.
 
 # Statutes
 
@@ -49,11 +49,11 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 ### Counterparts
 
-2.6. This Constitution may be executed in one or more counterparts, all of which shall be considered one and the same instrument and shall become effective when one or more counterparts have been signed by each of the Parties hereto and delivered to the other Parties hereto (or as published by the DAO on the Designated Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently); it being understood and agreed that all Parties hereto need not sign the same counterpart. A signature may be electronic, provided that it complies with the U.S. federal ESIGN Act of 2000. All of the counterparts will together constitute one and the same instrument and each counterpart will constitute an original of this Constitution.
+2.6. This Constitution may be executed in one or more counterparts, all of which shall be considered one and the same instrument and shall become effective when one or more counterparts have been signed by each of the Parties hereto and delivered to the other Parties hereto (or as published by the DAO on the Pocket Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently); it being understood and agreed that all Parties hereto need not sign the same counterpart. A signature may be electronic, provided that it complies with the U.S. federal ESIGN Act of 2000. All of the counterparts will together constitute one and the same instrument and each counterpart will constitute an original of this Constitution.
 
 ### Notice
 
-2.7. Any notice required or permitted by this Constitution will be deemed sufficient when published on the Designated Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently.
+2.7. Any notice required or permitted by this Constitution will be deemed sufficient when published on the Pocket Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently.
 
 ## 3. Arbitration
 
@@ -111,9 +111,9 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 ##### The Role of the Foundation
 
 4.11. The Foundation's objectives are to:
-  * Steward Pocket Network
+  * Steward the Pocket Technologies and Pocket Network
   * Hold legal custodianship of Pocket Core
-  * Request funds from the Council for specific projects that have strategic value to the Pocket Network ecosystem, by submitting PEPs.
+  * Request funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
 
 ##### The Council’s Control of the Foundation
 
@@ -133,7 +133,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 ##### Right to Refuse
 
-4.15. The Directors and Supervisors of the Foundation can refuse the Council's decisions subject to the limitations imposed on them by the law and their duty to steward Pocket Network. If they refuse without cause, the Council may remove them.
+4.15. The Directors and Supervisors of the Foundation can refuse the Council's decisions subject to the limitations imposed on them by the law and their duty to steward the Pocket Technologies and Pocket Network. If they refuse without cause, the Council may remove them.
 
 ##### Qualified Code Deference and the Foundation's Custodial Rights & Responsibilities
 
@@ -152,7 +152,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
   * Describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief;
   * Containing a representation by the Sending Party, made to and for the benefit of the Foundation with the understanding that the Foundation will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
 
-4.19. If the Foundation disputes the existence of a MAEE, then the Foundation shall promptly deliver a written notice of such non-acceptance, an "Exception Response Notice", to the Sending Party. The Exception Response Notice shall include the same categories of information, statements, evidence and representations and warranties as would be required for an Exception Notice, mutatis mutandis. The Sending Party may then lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of Pocket Network.
+4.19. If the Foundation disputes the existence of a MAEE, then the Foundation shall promptly deliver a written notice of such non-acceptance, an "Exception Response Notice", to the Sending Party. The Exception Response Notice shall include the same categories of information, statements, evidence and representations and warranties as would be required for an Exception Notice, mutatis mutandis. The Sending Party may then lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
 4.20. If the Foundation agrees with the contents of the Exception Notice, upon receiving an Exception Notice, the Foundation shall deposit the DAO's funds into a multi-signature account owned by all of the Directors of the Foundation, to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the DAO, until the Council enters into an Exception Handling Addendum.
 
@@ -167,19 +167,19 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 4.23. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signalled approval of the Proposal, represented by at least 50% of Stakeholders from the previous On-Chain DAO Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
 
-4.24. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of Pocket Network.
+4.24. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
-4.25. If the Council disputes the existence of a MAEE, or does not wish to accept all or any part of the Foundation's Exception Handling Proposal, then the Council may simply abstain from depositing a Governance Stake into the Foundation's custodial trust account. If after 14 days at least 50% of the Council has neglected to signal support of the Proposal, and the Foundation refuses to return the DAO's funds to the original account, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of Pocket Network.
+4.25. If the Council disputes the existence of a MAEE, or does not wish to accept all or any part of the Foundation's Exception Handling Proposal, then the Council may simply abstain from depositing a Governance Stake into the Foundation's custodial trust account. If after 14 days at least 50% of the Council has neglected to signal support of the Proposal, and the Foundation refuses to return the DAO's funds to the original account, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
 #### Access Control List (ACL)
 
 ##### Extensibility, Automation & the Signaling Era
 
-4.26. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between Pocket Network and the Council's Aragon Agent (or a similar smart contract representative). The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era.
+4.26. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between the Pocket Network and the Council's Aragon Agent (or a similar smart contract representative). The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era.
 
 ##### Executive Veto During & After the Signaling Era
 
-4.27. During the Signaling Era, the Foundation will retain a veto on all Governance Transactions as a failsafe. This veto falls within their Right to Refuse as part of their duty to steward Pocket Network.
+4.27. During the Signaling Era, the Foundation will retain a veto on all Governance Transactions as a failsafe. This veto falls within their Right to Refuse as part of their duty to steward the Pocket Network.
 
 4.28. After the Signaling Era, the Foundation will still retain the right to veto (and the responsibility to sign) Governance Transactions that may involve parties who have not consented to this Constitution per ‘Informed Consent’. Before the Signaling Era officially ends, mechanisms must be developed that enable the Foundation to execute their custodial responsibilities in response to MAEEs, per ‘Qualified Code Deference and the Foundation's Custodial Rights & Responsibilities’.
 
@@ -193,7 +193,7 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 ### Citizens
 
-4.31. As the actors responsible for transaction finalization in Pocket Core, Validator Nodes have the power to overthrow the government apparatus of Pocket Network (outlined as the above Legislature, Executive, and Judiciary functions). They are trusted to represent the citizenry (Users) of Pocket Network because their Block Reward is tied directly to the number of relays being processed for developers (i.e. User usage). The Council must never approve Protocol Upgrades that would decouple this incentive alignment.
+4.31. As the actors responsible for transaction finalization in Pocket Core, Validator Nodes have the power to overthrow the government apparatus of the Pocket Network (outlined as the above Legislature, Executive, and Judiciary functions). They are trusted to represent the citizenry (Users) of the Pocket Network because their Block Reward is tied directly to the number of relays being processed for developers (i.e. User usage). The Council must never approve Protocol Upgrades that would decouple this incentive alignment.
 
 ## 5. Liability
 
@@ -316,24 +316,24 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Aragon Agent:** a smart contract representative of an Aragon organization, enabling the organization to interact as one entity with external smart contracts and protocols
 * **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the DAO
-* **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to Pocket Network
+* **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
 * **Block Reward:** POKT minted every time a block is successfully validated in Pocket Core
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
 * **Constitution:** this binding agreement around which the Pocket Network DAO coordinates
-* **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem, such as proposal recipients, bounty recipients, and protocol developers
+* **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
-* **Decentralization Day:** a legal milestone for the decentralization of Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
-* **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
+* **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
+* **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Stake:** a POKT deposit that a Pocket Network account sends to the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation) to signal their consent and desire to participate in the Council, where the deposit only qualifies as an active Governance Stake if it has completed the Maturation Period and meets the following criteria:
   * **Trusted Stake:** the account-holder has achieved an Elite level in the Pocket Community Game, or has been vouched for by a Champion, and the stake is at least 1,000 POKT
   * **Trust-minimized Stake:** the stake is at least equal to the number of POKT in the on-chain DAO treasury at the time of the stake divided by the number of Voters at the time of the stake
-* **Governance Upgrades:** any amendment to the government apparatus of Pocket Network
+* **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
@@ -349,7 +349,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
 * **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
-* **Pocket Blockchain:** ” at each time, the blockchain that at least a majority of nodes running Pocket Core on the Pocket Network recognize as having the "chain_id" of "mainnet" on the Pocket Network at such time.
+* **Pocket Blockchain:** ” at each time, the blockchain that at least a majority of nodes running Pocket Core on the Pocket Network recognize as having "id:0001" on the Pocket Network at such time.
 * **Pocket Community Game:** a series of gamified Pocket Network community quests with levels that can be achieved by completing a set of tasks
 * **Pocket Ecosystem Proposal (PEP):** proposals to distribute funds to or form agreements with Contributors to the Pocket Network ecosystem. PEP categories include:
   * **Imbursements:** paying Contributors to fund future work
@@ -357,15 +357,16 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * **Bounties:** funding work that has yet to be claimed by Contributors
   * **Transfers:** transferring funds to addresses that facilitate the above
   * **Agreements:** formal understandings of Contributor relationships, including non-financial in nature
-* **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of Pocket Network, including Protocol Upgrades and Governance Upgrades
+* **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of the Pocket Network, including Protocol Upgrades and Governance Upgrades
 * **Pocket Core:** the Official Golang Implementation of the Pocket Network Protocol (aka "Pocket Core") available at the master branch of https://github.com/pokt-network/pocket-core, as it may be updated from time to time. [NOTE TO DRAFT: to be checked with team whether referring to the master branch is correct or if tying to "official releases" would be more appropriate]
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
-* **Pocket Network:** the suite of technologies and service providers that provide decentralized infrastructure for Users
+* **Pocket Network:** at each time, the network recognized as having "netid: mainnet" by a majority of nodes running the Pocket Core at such time.
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
 * **Pocket Protocol:** /placeholder/
+* **Pocket Technologies:** /placeholder/
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
-* **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using Pocket Network versus competing services
+* **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
@@ -374,7 +375,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards for Nodes, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
-* **User:** any Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  Pocket Core or any other software client implementing or purporting to implement the Pocket Protocol on the Pocket Network; or (ii) the Pocket Network.
+* **User:** any Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  Pocket Core or any other software client implementing or purporting to implement the Pocket Protocol on the Pocket Network; or (ii) any of the Pocket Technologies.
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
 * **Vote:** a transaction within the Council by a Voter to approve a proposed action
 * **Voter:** a Stakeholder who has successfully claimed a Voting Token, which means they are now a voting member of the Council
