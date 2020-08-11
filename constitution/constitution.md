@@ -199,13 +199,13 @@ We, the Contributors to Pocket Network, are united together in the mission to bu
 
 5.2. Users shall be liable for losses caused by false or misleading attestations, such as fraudulent relay proofs, and shall forfeit any stake thereby according to the consensus rules of Pocket Core.
 
-5.3. Software developers (such as Pocket Network Inc) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes decisions through their use of the blockchain per 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
+5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes decisions through their use of the blockchain per 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
 
 ## 6. Proposals
 
 6.1. Proposers may initiate Signaling or Executive Votes for their proposal. They must specify which type of vote they are initiating.
 
-6.2. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of Pocket Network Inc will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
+6.2. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of the Pocket Development Company will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
 
 ### PIPs
 
@@ -357,10 +357,10 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * **Agreements:** formal understandings of Contributor relationships, including non-financial in nature
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of Pocket Network, including Protocol Upgrades and Governance Upgrades
 * **Pocket Core:** the blockchain that coordinates Pocket Network
+* **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
 * **Pocket Network:** the suite of technologies and service providers that provide decentralized infrastructure for Users
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
-* **Pocket Network Inc (PNI):** a Delaware LLC contracted by the Foundation to build Pocket Core and develop the Pocket Network ecosystem
 * **Pocket Protocol:** /placeholder/
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using Pocket Network versus competing services
