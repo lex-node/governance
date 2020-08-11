@@ -328,7 +328,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
 * **Decentralization Day:** a legal milestone for the decentralization of Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
-* **Designated Blockchain:** Pocket Core
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Stake:** a POKT deposit that a Pocket Network account sends to the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation) to signal their consent and desire to participate in the Council, where the deposit only qualifies as an active Governance Stake if it has completed the Maturation Period and meets the following criteria:
@@ -350,6 +349,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
 * **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
+* **Pocket Blockchain:** ” at each time, the blockchain that at least a majority of nodes running Pocket Core on the Pocket Network recognize as having the "chain_id" of "mainnet" on the Pocket Network at such time.
 * **Pocket Community Game:** a series of gamified Pocket Network community quests with levels that can be achieved by completing a set of tasks
 * **Pocket Ecosystem Proposal (PEP):** proposals to distribute funds to or form agreements with Contributors to the Pocket Network ecosystem. PEP categories include:
   * **Imbursements:** paying Contributors to fund future work
@@ -358,7 +358,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * **Transfers:** transferring funds to addresses that facilitate the above
   * **Agreements:** formal understandings of Contributor relationships, including non-financial in nature
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of Pocket Network, including Protocol Upgrades and Governance Upgrades
-* **Pocket Core:** the Official Golang Implementation of the Pocket Network Protocol (aks "Pocket Core") available at the master branch of https://github.com/pokt-network/pocket-core, as it may be updated from time to time. [NOTE TO DRAFT: to be checked with team whether referring to the master branch is correct or if tying to "official releases" would be more appropriate]
+* **Pocket Core:** the Official Golang Implementation of the Pocket Network Protocol (aka "Pocket Core") available at the master branch of https://github.com/pokt-network/pocket-core, as it may be updated from time to time. [NOTE TO DRAFT: to be checked with team whether referring to the master branch is correct or if tying to "official releases" would be more appropriate]
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
 * **Pocket Network:** the suite of technologies and service providers that provide decentralized infrastructure for Users
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
