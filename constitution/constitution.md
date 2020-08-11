@@ -16,22 +16,22 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 * The Principles are ranked in order of priority.
 * Decisions must be made according to their furtherance of the Principles. 
 * When deciding between alternatives, these alternatives shall be prioritized according to the ordering of the Principles listed above, with higher-ranking Principles to always take priority over lower-ranking Principles. 
-* Lower-ranking Principles should only be sacrificed in favor of higher-ranking Principles if a Pareto optimal state has been achieved, i.e. it is not possible to improve one Principle without making another Principle worse off. Until then, the Council shall seek to make only Pareto improvements, where Principles are improved without making any other Principles worse off.
+* Lower-ranking Principles should only be sacrificed in favor of higher-ranking Principles if a Pareto optimal state has been achieved, i.e. it is not possible to improve one Principle without making another Principle worse off. Until then, the Council shall seek to make only Pareto improvements, where Principles are improved without making any other Principles worse off.3
 * Once it is no longer possible to optimize any Principle without sacrificing another, this Constitution should be amended to introduce minimum satisfaction thresholds on each Principle.
 * Stakeholder rights at any given moment, as defined by the values of On-Chain parameters, may justifiably be sacrificed in the furtherance of the Principles, because it is intended that the Principles, if achieved, will ensure maximum utility to maximum stakeholders.
 * The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of the Pocket Technologies and Pocket Network stated under "Mission Statement" above.
 
-# Statutes
+# Binding Articles
 
 ## 1. Interpretation
 
-1.1. This Constitution does not take precedence over the consensus rules defined by Pocket Core. If there is any conflict or inconsistency between this Constitution and the consensus rules, the consensus rules shall prevail.
+1.1. This Constitution does not take precedence over the Pocket Protocol. If there is any conflict or inconsistency between this Constitution and the Pocket Protocol, the Pocket Protocol shall prevail.
 
-1.2. This constitution shall be enforced according to de jure interpretations of the Statutes (the letter of the constitution), except in the case of amendments to the Constitution or Pocket Core’s consensus rules, in which case they shall be enforced according to de facto interpretations of the Principles (the spirit of the constitution).
+1.2. The Mission Statement and Principles are non-binding recitals provided for informational purposes only; provided, however, that in the event of any ambiguity in the interpretation of the plain language of the Binding Articles, the resolution of such ambiguity shall take into account the Mission Statement and Principles.
 
-1.3. Where it concerns de jure interpretations of the Statutes, any rule of construction to the effect that ambiguities are to be resolved shall not be applied in the construction or interpretation of this Constitution. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, between the Parties with respect to the subject matter hereof.
+1.3. Any rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be applied in the construction or interpretation of this Constitution. 
 
-## 2. Enforceability
+## 2. Binding Nature of Constitution
 
 ### Informed Consent
 
@@ -43,13 +43,13 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 2.4. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
 
+### Entire Agreement
+
+2.5. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the Parties (or any of them) with respect to the subject matter hereof.
+
 ### Severability
 
-2.5. In the event any one or more of the provisions of this Constitution is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Constitution operate or would prospectively operate to invalidate this Constitution, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Constitution and the remaining provisions of this Constitution will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
-
-### Counterparts
-
-2.6. This Constitution may be executed in one or more counterparts, all of which shall be considered one and the same instrument and shall become effective when one or more counterparts have been signed by each of the Parties hereto and delivered to the other Parties hereto (or as published by the DAO on the Pocket Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently); it being understood and agreed that all Parties hereto need not sign the same counterpart. A signature may be electronic, provided that it complies with the U.S. federal ESIGN Act of 2000. All of the counterparts will together constitute one and the same instrument and each counterpart will constitute an original of this Constitution.
+2.6. In the event any one or more of the provisions of this Constitution is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Constitution operate or would prospectively operate to invalidate this Constitution, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Constitution and the remaining provisions of this Constitution will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
 
 ### Notice
 
