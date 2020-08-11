@@ -1,3 +1,5 @@
+# Mission Statement
+
 We, the Contributors to Pocket Network, are united together in the mission to build censorship-resistant technology that will lay the foundation for reorganizing the world’s institutions towards a more equitable, hyper-connected, interplanetary future.
 
 # Principles
