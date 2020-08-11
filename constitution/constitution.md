@@ -349,7 +349,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
 * **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
-* **Pocket Blockchain:** ” at each time, the blockchain that at least a majority of nodes running Pocket Core on the Pocket Network recognize as having "id:0001" on the Pocket Network at such time.
+* **Pocket Blockchain:** ” at each time, the blockchain that at least a majority of [nodes] [NOTE TO DRAFT: potentially limit to Validator Nodes? (& add defined term for Validator Node?) This definition perhaps has more justification to refer to this narrower subset of nodes] running Pocket Core on the Pocket Network recognize as having "id:0001" on the Pocket Network at such time.
 * **Pocket Community Game:** a series of gamified Pocket Network community quests with levels that can be achieved by completing a set of tasks
 * **Pocket Ecosystem Proposal (PEP):** proposals to distribute funds to or form agreements with Contributors to the Pocket Network ecosystem. PEP categories include:
   * **Imbursements:** paying Contributors to fund future work
@@ -360,11 +360,11 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of the Pocket Network, including Protocol Upgrades and Governance Upgrades
 * **Pocket Core:** the Official Golang Implementation of the Pocket Network Protocol (aka "Pocket Core") available at the master branch of https://github.com/pokt-network/pocket-core, as it may be updated from time to time. [NOTE TO DRAFT: to be checked with team whether referring to the master branch is correct or if tying to "official releases" would be more appropriate]
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
-* **Pocket Network:** at each time, the network recognized as having "netid: mainnet" by a majority of nodes running the Pocket Core at such time.
+* **Pocket Network:** at each time, the network recognized as having "netid: mainnet" by a majority of [nodes] [NOTE TO DRAFT: potentially should refer to both Validator Nodes and Seed Nodes even if "Pocket Blockchain" definition only refers to Validator Nodes? This definition perhaps has more justification to refer to the broader set of nodes] running Pocket Core at such time.
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
 * **Pocket Protocol:** /placeholder/
-* **Pocket Technologies:** /placeholder/
+* **Pocket Technologies:** /placeholder/ [NOTE TO DRAFT: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
