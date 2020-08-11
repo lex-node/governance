@@ -371,7 +371,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards for Nodes, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
-* **User:** any Person or organization of Person(s) who maintain(s) direct use of Pocket Network’s services through staking or transactions or indirect access to Pocket Network’s services through relationships with third-party Pocket Network account-holders
+* **User:** any Person who directly or indirectly uses or accesses the Pocket Network.
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
 * **Vote:** a transaction within the Council by a Voter to approve a proposed action
 * **Voter:** a Stakeholder who has successfully claimed a Voting Token, which means they are now a voting member of the Council
