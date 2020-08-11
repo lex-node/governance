@@ -358,7 +358,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * **Transfers:** transferring funds to addresses that facilitate the above
   * **Agreements:** formal understandings of Contributor relationships, including non-financial in nature
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of Pocket Network, including Protocol Upgrades and Governance Upgrades
-* **Pocket Core:** the blockchain that coordinates Pocket Network
+* **Pocket Core:** the Official Golang Implementation of the Pocket Network Protocol (aks "Pocket Core") available at the master branch of https://github.com/pokt-network/pocket-core, as it may be updated from time to time. [NOTE TO DRAFT: to be checked with team whether referring to the master branch is correct or if tying to "official releases" would be more appropriate]
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
 * **Pocket Network:** the suite of technologies and service providers that provide decentralized infrastructure for Users
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
