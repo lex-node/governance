@@ -363,7 +363,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Pocket Network:** at each time, the network recognized as having "netid: mainnet" by a majority of [nodes] [NOTE TO DRAFT: potentially should refer to both Validator Nodes and Seed Nodes even if "Pocket Blockchain" definition only refers to Validator Nodes? This definition perhaps has more justification to refer to the broader set of nodes] running Pocket Core at such time.
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
-* **Pocket Protocol:** /placeholder/
+* **Pocket Protocol:** the consensus rules and other protocol rules and features embodied in Pocket Core as operated on the Pocket Network.
 * **Pocket Technologies:** /placeholder/ [NOTE TO DRAFT: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
