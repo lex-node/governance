@@ -328,7 +328,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the DAO
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
-* **Block Reward:** POKT minted every time a block is successfully validated in Pocket Core
+* **Block Reward:** the POKT that minted in accordance with the Pocket Protocol every time a block is successfully validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
@@ -352,7 +352,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
 * **Maturation Period:** the period of 30,240 blocks (~21 days) that must elapse before a Governance Stake is valid
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
-* **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is operating on the Pocket Network, synced with the Pocket Blockchain (on a reasonably current basis) and receiving and propagating transactions from other Nodes on the Pocket Network. 
+* **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network. 
 * **On-Chain:** any activity that takes place on Pocket Core
 * **On-Chain DAO Treasury:** an account which holds the DAO’s common funds on Pocket Core, funded by Pocket Core’s Block Reward, and whose control is determined by the ACL
 * **Ownerless Foundation:** a foundation which has no members and thus no-one with a legal right to its assets, with the intent of maintaining a lean Executive
@@ -360,7 +360,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
 * **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
-* **Pocket Blockchain:** at each time, the blockchain that at least a majority of [nodes] [NOTE TO DRAFT: potentially limit to Validator Nodes? (& add defined term for Validator Node?) This definition perhaps has more justification to refer to this narrower subset of nodes] running Pocket Core on the Pocket Network recognize as having "id:0001" on the Pocket Network at such time.
+* **Pocket Blockchain:** at each time, the blockchain recognized as having "id:0001" that has been most recently validated by the Validator Nodes on the Pocket Network in accordance with the Pocket Protocol.
 * **Pocket Community Game:** a series of gamified Pocket Network community quests with levels that can be achieved by completing a set of tasks
 * **Pocket Ecosystem Proposal (PEP):** proposals to distribute funds to or form agreements with Contributors to the Pocket Network ecosystem. PEP categories include:
   * **Imbursements:** paying Contributors to fund future work
@@ -369,14 +369,14 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * **Transfers:** transferring funds to addresses that facilitate the above
   * **Agreements:** formal understandings of Contributor relationships, including non-financial in nature
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of the Pocket Network, including Protocol Upgrades and Governance Upgrades
-* **Pocket Core:** the Official Golang Implementation of the Pocket Network Protocol (aka "Pocket Core") available at the master branch of https://github.com/pokt-network/pocket-core, as it may be updated from time to time. [NOTE TO DRAFT: to be checked with team whether referring to the master branch is correct or if tying to "official releases" would be more appropriate]
+* **Pocket Core:** the Official Golang Implementation of the Pocket Network Protocol available at the master branch of https://github.com/pokt-network/pocket-core, as it may be updated from time to time. [NOTE TO DRAFT: to be checked with team whether referring to the master branch is correct or if tying to "official releases" would be more appropriate]
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
 * **Pocket Network:** at each time, the network recognized as having "netid: mainnet" by a majority of [nodes] [NOTE TO DRAFT: potentially should refer to both Validator Nodes and Seed Nodes even if "Pocket Blockchain" definition only refers to Validator Nodes? This definition perhaps has more justification to refer to the broader set of nodes] running Pocket Core at such time.
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
-* **Pocket Protocol:** the consensus rules and other protocol rules and features embodied in Pocket Core as operated on the Pocket Network.
+* **Pocket Protocol:** the consensus and coordination rules and other rules and procedures embodied in Pocket Core as operated by Nodes running Pocket Core on the Pocket Network.
 * **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
-* **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
+* **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Seed Node:** a Node (other than a Valiadtor Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
@@ -386,7 +386,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Stakeholder:** any Person who has had an active Governance Stake for more than 30,240 blocks (~21 days)
 * **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
-* **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards for Nodes, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
+* **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
 * **User:** has the definition set forth in Article 2.1.
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
