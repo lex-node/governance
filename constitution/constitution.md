@@ -390,7 +390,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
 * **User:** has the definition set forth in Article 2.1.
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
-* **Validator Node:** a Node that: (a) validates, services and dispatches relay requests, relays and other transactions on the Pocket Network and validates the inclusion of such transactions in blocks to be added to the Pocket Blockchain; and (b) has staked at least the current minimum amount of POKT required by the Pocket Protocol to perform such functions on the Pocket Network. 
+* **Validator Node:** a Node that: (a) validates, services and dispatches relay requests, relays and other transactions on the Pocket Network, is eligible to be randomly selected as a "block proposer" for the Pocket Blockchain and validates the blocks proposed by other such Nodes; and (b) maintains staked at least the current minimum amount of POKT required by the Pocket Protocol to perform such functions on the Pocket Network. 
 * **Vote:** a transaction within the Council by a Voter to approve a proposed action
 * **Voter:** a Stakeholder who has successfully claimed a Voting Token, which means they are now a voting member of the Council
 * **Voter Distribution:** the demographic of Voting Token holders
