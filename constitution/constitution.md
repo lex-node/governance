@@ -1,6 +1,6 @@
 # THE POCKET NETWORK CONSTITUTION
 
-This Pocket Network Constitution (this **Constitution** ) is a legally binding agreement governing the Pocket Network, andPocket Blockchain and the use of the Pocket Technologies in connection therewith. 
+This Pocket Network Constitution (this **Constitution** ) is a legally binding agreement governing the Pocket Network and Pocket Blockchain and the use of the Pocket Technologies in connection therewith. 
 
 # Mission Statement
 
@@ -45,9 +45,9 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Persons Bound by Constitution
 
-2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  the Pocket Network (whether through Pocket Core or any other software); (ii) the Pocket Blockchain; or (iii) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constiution.
+2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  the Pocket Network (whether through Pocket Core or any other software); (ii) the Pocket Blockchain; or (iii) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constitution.
 
-2.2. Entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
+2.2. Without limiting the generality of Section 2.1, entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
 
 2.3. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
 
@@ -338,10 +338,9 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
-* **Governance Stake:** POKT deposited with the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited. Such a deposit of POKT signals the consent and intention on the part of all Persons who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council. A Governance Stake shall become active (and may be utilized to participate in the Council) if and only if all of the following conditions precedent are satisfied with respect thereto, and shall cease to be active upon any one or more of such conditions ceasing to be satisfied:
-  * **Maturation Period:** the Maturation Period with respect to such Governance Stake has elapsed;
-  * **Trusted Account Holder:** the holder of the account  has achieved (and at each relevant time, maintains) an Elite level in the Pocket Community Game, or has been vouched for by a Champion (which voucher has not been revoked); and
-  * **Trust-Minimized Stake:** at each relevant time, such Governance Stake comprises a number of POKT at least equal to the greater of: (a) 1,000 POKT; or (b) (i) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) at such time ([including/excluding][???] such Governance Stake) divided by (ii) the number of Voters at such time. 
+* **Governance Stake:** POKT deposited with the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited. Such a deposit of POKT signals the consent and intention on the part of all Persons who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council. A Governance Stake shall become active (and may be utilized to participate in the Council) if and only if the Maturation Period with respect to such Governance Stake has elapsed and at least one of the following conditions precedent is satisfied with respect thereto[, and shall cease to be active at any time when none of the following conditions precedent is satisfied with respect thereto][Note to self: might not be true due to VOTE minting mechanic, more research required]:
+  * **Trusted Account Holder:** the holder of the account has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]; or
+  * **Trust-Minimized Stake:** [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (a) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) at such time ([including/excluding][???] such Governance Stake); divided by (b) the number of Voters at such time. 
 * **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
