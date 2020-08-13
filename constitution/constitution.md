@@ -328,7 +328,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the DAO
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
-* **Block Reward:** the POKT that minted in accordance with the Pocket Protocol every time a block is successfully validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
+* **Block Reward:** the POKT that is automatically minted in accordance with the Pocket Protocol every time a proposed block is validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
@@ -371,10 +371,13 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of the Pocket Network, including Protocol Upgrades and Governance Upgrades
 * **Pocket Core:** at each relevant time, the most up-to-date official release of the Official Golang Implementation of the Pocket Network Protocol available at  https://github.com/pokt-network/pocket-core, without any modification thereto. 
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
-* **Pocket Network:** at each time, the network recognized as having "netid: mainnet" by a majority of [nodes] [NOTE TO DRAFT: potentially should refer to both Validator Nodes and Seed Nodes even if "Pocket Blockchain" definition only refers to Validator Nodes? This definition perhaps has more justification to refer to the broader set of nodes] running Pocket Core at such time.
+* **Pocket Network:** the network recognized as having "netid: mainnet" by [any of][at least a majority of] the following seed nodes:     
+    * b3d86cd8ab4aa0cb9861cb795d8d154e685a94cf@seed1.testnet.pokt.network:26656 
+    * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
+    * f99386c6d7cd42a486c63ccd80f5fbea68759cd7@seed3.testnet.pokt.network:26656
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
-* **Pocket Protocol:** the consensus and coordination rules and other rules and procedures embodied in Pocket Core as run by Nodes on the Pocket Network.
+* **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
 * **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
