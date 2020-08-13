@@ -67,11 +67,14 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 3.1. Unless otherwise stated in this Constitution, any controversy between members of the Council arising out of or in connection with this Constitution shall be submitted to Aragon Court for resolution under its public arbitration rules, as amended from time to time.
 
-3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, meaning they are made disputable by Aragon Agreements, must be submitted before the action executes; if not, the controversy shall be deemed resolved in favor of the action.
+3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, meaning they are made disputable by Aragon Agreements, must be submitted before the action executes; if not, the controversy shall be deemed resolved in favor of the action. [?]
 
-3.3. In the event that Aragon Court is not accessible, the Foundation shall refer the dispute to the International Chamber of Commerce for arbitration according to their rules.
+3.3. In the event that Aragon Court is not accessible, the Foundation shall refer the dispute to the International Chamber of Commerce for arbitration according to their rules. 
 
 3.4. By consenting to this Constitution, all Parties waive their right to resolve any controversy in any manner other than defined in this Constitution. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR RELATING TO THIS CONSTITUTION, THE DAO, OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
+
+[NOTE TO SELF: CHOICE OF LAW?]
+[NOTE TO SELF: BEEF UP ARBITRATION PROVISIONS ('final, binding and determinative resolution' etc.)]
 
 ## 4. Powers
 
@@ -329,7 +332,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
-* **Constitution:** this binding agreement around which the Pocket Network DAO coordinates
+* **Constitution:** has the meaning set forth in the Preamble
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
@@ -357,7 +360,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
 * **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
-* **Pocket Blockchain:** ” at each time, the blockchain that at least a majority of [nodes] [NOTE TO DRAFT: potentially limit to Validator Nodes? (& add defined term for Validator Node?) This definition perhaps has more justification to refer to this narrower subset of nodes] running Pocket Core on the Pocket Network recognize as having "id:0001" on the Pocket Network at such time.
+* **Pocket Blockchain:** at each time, the blockchain that at least a majority of [nodes] [NOTE TO DRAFT: potentially limit to Validator Nodes? (& add defined term for Validator Node?) This definition perhaps has more justification to refer to this narrower subset of nodes] running Pocket Core on the Pocket Network recognize as having "id:0001" on the Pocket Network at such time.
 * **Pocket Community Game:** a series of gamified Pocket Network community quests with levels that can be achieved by completing a set of tasks
 * **Pocket Ecosystem Proposal (PEP):** proposals to distribute funds to or form agreements with Contributors to the Pocket Network ecosystem. PEP categories include:
   * **Imbursements:** paying Contributors to fund future work
@@ -379,7 +382,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
-* **Stakeholder:** any Party who has had an active Governance Stake for more than 30,240 blocks (~21 days)
+* **Stakeholder:** any Person who has had an active Governance Stake for more than 30,240 blocks (~21 days)
 * **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards for Nodes, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
