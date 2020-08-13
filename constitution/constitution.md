@@ -374,7 +374,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Pocket Network:** at each time, the network recognized as having "netid: mainnet" by a majority of [nodes] [NOTE TO DRAFT: potentially should refer to both Validator Nodes and Seed Nodes even if "Pocket Blockchain" definition only refers to Validator Nodes? This definition perhaps has more justification to refer to the broader set of nodes] running Pocket Core at such time.
 * **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
-* **Pocket Protocol:** the consensus and coordination rules and other rules and procedures embodied in Pocket Core as operated by Nodes running Pocket Core on the Pocket Network.
+* **Pocket Protocol:** the consensus and coordination rules and other rules and procedures embodied in Pocket Core as run by Nodes on the Pocket Network.
 * **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
