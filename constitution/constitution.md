@@ -212,7 +212,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 5.2. Users shall be liable for losses caused by false or misleading attestations, such as fraudulent relay proofs, and shall forfeit any stake thereby according to the consensus rules of Pocket Core.
 
-5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes decisions through their use of the blockchain per 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
+5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes'decisions through their use of the blockchain in accordance with Article 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
 
 ## 6. Proposals
 
@@ -352,7 +352,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
 * **Maturation Period:** the period of 30,240 blocks (~21 days) that must elapse before a Governance Stake is valid
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
-* **Nodes:** Pocket Network accounts that stake to process relays submitted by Apps and validate blocks in Pocket Core
+* **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is operating on the Pocket Network, synced with the Pocket Blockchain (on a reasonably current basis) and receiving and propagating transactions from other Nodes on the Pocket Network. 
 * **On-Chain:** any activity that takes place on Pocket Core
 * **On-Chain DAO Treasury:** an account which holds the DAO’s common funds on Pocket Core, funded by Pocket Core’s Block Reward, and whose control is determined by the ACL
 * **Ownerless Foundation:** a foundation which has no members and thus no-one with a legal right to its assets, with the intent of maintaining a lean Executive
@@ -379,6 +379,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
+* **Seed Node:** a Node (other than a Valiadtor Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
@@ -389,6 +390,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
 * **User:** has the definition set forth in Article 2.1.
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
+* **Validator Node:** a Node that: (a) validates, services and dispatches relay requests, relays and other transactions on the Pocket Network and validates the inclusion of such transactions in blocks to be added to the Pocket Blockchain; and (b) has staked at least the current minimum amount of POKT required by the Pocket Protocol to perform such functions on the Pocket Network. 
 * **Vote:** a transaction within the Council by a Voter to approve a proposed action
 * **Voter:** a Stakeholder who has successfully claimed a Voting Token, which means they are now a voting member of the Council
 * **Voter Distribution:** the demographic of Voting Token holders
