@@ -9,12 +9,12 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 # Principles
 
 1. **Credible Neutrality:** No one User should be favored over any other within their demographic. For example, Protocol Upgrades which favor Nodes over Apps are neutral, but Protocol Upgrades which favor specific App types (e.g. exchanges) or specific Apps (e.g. Binance) are not neutral.
-2. **Sustainable Decentralization:** Pocket Network should optimize for as many sovereign Nodes as possible, because this reinforces the resilience and censorship-resistance of the service, but this should not be rushed at the cost of the sustainable growth of Pocket Network.
-3. **User-Centrism:** Pocket Network is specialized to provide reliable decentralized infrastructure to Users. We must therefore continue to optimize for 1) User adoption and 2) the qualities that contribute to reliable infrastructure: network redundancy, robust data integrity, data sovereignty, minimal latency, minimal downtime, and minimalist engineering.
-4. **Freedom of Movement:** Entry to Pocket Network should be accessible to both Apps and Nodes. Equally, all Pocket Network stakeholders should enjoy the right to exit.
+2. **Sustainable Decentralization:** The Pocket Network should optimize for as many unaffiliated and autonomous Nodes as possible, because this reinforces the resilience and censorship-resistance of the service, but this should not be rushed at the cost of the sustainable growth of Pocket Network.
+3. **User-Centrism:** The Pocket Network is specialized to provide reliable decentralized infrastructure to Users. We must therefore continue to optimize for 1) User adoption and 2) the qualities that contribute to reliable infrastructure: network redundancy, robust data integrity, data sovereignty, minimal latency, minimal downtime, and minimalist engineering.
+4. **Freedom of Movement:** The Pocket Network should be accessible to both Apps and Nodes. Equally, all Pocket Network stakeholders or participants should enjoy the right to exit.
 5. **Optionality:** Operating a Node should incur no more costs than the cost of operation. All other responsibilities, e.g. participation in the Council, should be optional.
 6. **Agnosticism:** Pocket Network should maintain neutrality as a middleware protocol. While the governance of Pocket Network may be reliant from time to time on other networks or tools, the system itself should retain a level of modularity that facilitates switching out components with minimal friction.
-7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community will come from a wide range of blockchain communities. DAO participants must leave tribalism at the door; they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
+7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community members will come from a wide range of blockchain communities. DAO participants should leave tribalism at the door; they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
 8. **Consensual Collaboration:** While the Pocket Network Council is relatively permissionless, this does not mean anyone is entitled to work. Proposals will be assessed on their merits alone, including Contributors’ fitness to fulfill the proposal. Likewise, Contributors are not required to let any other Contributor work with them, unless the Council has approved a proposal to that effect.
 
 * The Principles are ranked in order of priority.
@@ -25,11 +25,11 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 * Stakeholder rights at any given moment, as defined by the values of On-Chain parameters, may justifiably be sacrificed in the furtherance of the Principles, because it is intended that the Principles, if achieved, will ensure maximum utility to maximum stakeholders.
 * The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of the Pocket Technologies and Pocket Network stated under "Mission Statement" above.
 
-# Binding Articles
+# Articles
 
 ## 1. Interpretation
 
-1.1. This Constitution does not take precedence over the Pocket Protocol. If there is any conflict or inconsistency between this Constitution and the Pocket Protocol, the Pocket Protocol shall prevail, except if such conflict or inconsistency arises as a result of a Material Adverse Exception Event. Material Adverse Exception Event (MAEE) means: 
+1.1. This Constitution does not take precedence over the Pocket Protocol. If there is any conflict or inconsistency between this Constitution and the Pocket Protocol with respect to any matter, the Pocket Protocol shall prevail, govern and control such matter, except if such conflict or inconsistency arises as a result of a Material Adverse Exception Event. Material Adverse Exception Event (MAEE) means: 
   * the DAO having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the DAO or any other smart contract or oracle program on which the DAO depends for any of the Legislature, Judiciary, or Executive functions, having become inoperable, inaccessible or unusable or having itself suffered a MAEE, mutatis mutandis;
   * a material and adverse effect on the use, functionality or performance of the DAO as the result of any bug, defect or error in the DAO or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause, a bug, defect or error will be deemed material only if it results in the unauthorized use of accounts within the Legislature, Judiciary, or Executive functions (which therefore have power over Governance Transactions), or the unauthorized alteration of the permissions/powers (e.g. voting weights) of the aforementioned accounts);
   * any unauthorized use of an administrative function or privilege of the DAO, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by the permission holder or representative of the permission holder (including Foundation Directors and their proxies);
@@ -37,7 +37,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
   * the DAO or the Foundation (as the DAO's executor) being subject to a Legal Order that prohibits the DAO (or that, if the DAO were a Person, would prohibit the DAO) from executing any function or operation it would otherwise reasonably be expected to execute; or
   * any other unforeseen events resulting in unauthorized or unintended alterations to the checks and balances outlined in '4. Powers'.
 
-1.2. The Mission Statement and Principles are non-binding recitals provided for informational purposes only; provided, however, that in the event of any ambiguity in the interpretation of the plain language of the Binding Articles, the resolution of such ambiguity shall take into account the Mission Statement and Principles.
+1.2. The Mission Statement and Principles are non-binding recitals provided for informational purposes only; provided, however, that in the event of any ambiguity in the interpretation of the plain language of the Articles, the resolution of such ambiguity shall take into account the Mission Statement and Principles.
 
 1.3. Any rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be applied in the construction or interpretation of this Constitution. 
 
@@ -45,7 +45,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Persons Bound by Constitution
 
-2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  Pocket Core or any other software client implementing or purporting to implement the Pocket Protocol, in each case, on the Pocket Network; (ii) the Pocket Blockchain; or (iii) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constiution.
+2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  the Pocket Network (whether through Pocket Core or any other software); (ii) the Pocket Blockchain; or (iii) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constiution.
 
 2.2. Entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
 
