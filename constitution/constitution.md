@@ -334,7 +334,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
-* **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
+* **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote pursuant to Article 9.1. 
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
