@@ -1,3 +1,7 @@
+# THE POCKET NETWORK CONSTITUTION
+
+This Constitution is a legally binding agreement governing the Pocket Network, Pocket Blockchain and the use of the Pocket Technologies in connection therewith. 
+
 # Mission Statement
 
 We, the Contributors to Pocket Network and Pocket Technologies, are united together in the mission to build censorship-resistant technology that will lay the foundation for reorganizing the world’s institutions towards a more equitable, hyper-connected, interplanetary future.
@@ -25,7 +29,13 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ## 1. Interpretation
 
-1.1. This Constitution does not take precedence over the Pocket Protocol. If there is any conflict or inconsistency between this Constitution and the Pocket Protocol, the Pocket Protocol shall prevail.
+1.1. This Constitution does not take precedence over the Pocket Protocol. If there is any conflict or inconsistency between this Constitution and the Pocket Protocol, the Pocket Protocol shall prevail, except if such conflict or inconsistency arises as a result of a Material Adverse Exception Event. Material Adverse Exception Event (MAEE) means: 
+  * the DAO having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the DAO or any other smart contract or oracle program on which the DAO depends for any of the Legislature, Judiciary, or Executive functions, having become inoperable, inaccessible or unusable or having itself suffered a MAEE, mutatis mutandis;
+  * a material and adverse effect on the use, functionality or performance of the DAO as the result of any bug, defect or error in the DAO or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause, a bug, defect or error will be deemed material only if it results in the unauthorized use of accounts within the Legislature, Judiciary, or Executive functions (which therefore have power over Governance Transactions), or the unauthorized alteration of the permissions/powers (e.g. voting weights) of the aforementioned accounts);
+  * any unauthorized use of an administrative function or privilege of the DAO, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by the permission holder or representative of the permission holder (including Foundation Directors and their proxies);
+  * reasonable suspicion that any smart contract or oracle on which the DAO depends, for any of the Legislature, Judiciary, or Executive functions, e.g. Aragon Court, is incentive-compromised, evidenced by the presence of all of the following factors: the total value of assets securing that smart contract or oracle (e.g. stakes) being surpassed by the value of the DAO's treasury or Pocket Network’s market cap, an abnormal (and unreversed) change in the total value of assets (or ownership distribution of assets) of that smart contract or oracle, and the submission of a proposal that alters the Constitution or Pocket Core’s consensus rules;
+  * the DAO or the Foundation (as the DAO's executor) being subject to a Legal Order that prohibits the DAO (or that, if the DAO were a Person, would prohibit the DAO) from executing any function or operation it would otherwise reasonably be expected to execute; or
+  * any other unforeseen events resulting in unauthorized or unintended alterations to the checks and balances outlined in '4. Powers'.
 
 1.2. The Mission Statement and Principles are non-binding recitals provided for informational purposes only; provided, however, that in the event of any ambiguity in the interpretation of the plain language of the Binding Articles, the resolution of such ambiguity shall take into account the Mission Statement and Principles.
 
@@ -33,27 +43,25 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ## 2. Binding Nature of Constitution
 
-### Informed Consent
+### Persons Bound by Constitution
 
-2.1. Use of Pocket Core shall constitute consent to the terms of its consensus rules, including the mechanisms by which Validator Nodes, on behalf of all Users, accept Governance Transactions made by the Council and/or the Foundation in accordance with the processes outlined in this Constitution.
+2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  Pocket Core or any other software client implementing or purporting to implement the Pocket Protocol, in each case, on the Pocket Network; (ii) the Pocket Blockchain; or (iii) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constiution.
 
 2.2. Entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
 
-2.3. In the event that an attempt is made by the Council or the Foundation to modify this Constitution or Pocket Core's consensus rules, consent may be revoked through exiting or forking, but will be immediately reinstated upon continued use of the blockchain, unless such use is required to facilitate exiting or forking.
-
-2.4. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
+2.3. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
 
 ### Entire Agreement
 
-2.5. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the Parties (or any of them) with respect to the subject matter hereof.
+2.4. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the Parties (or any of them) with respect to the subject matter hereof.
 
 ### Severability
 
-2.6. In the event any one or more of the provisions of this Constitution is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Constitution operate or would prospectively operate to invalidate this Constitution, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Constitution and the remaining provisions of this Constitution will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
+2.5. In the event any one or more of the provisions of this Constitution is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Constitution operate or would prospectively operate to invalidate this Constitution, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Constitution and the remaining provisions of this Constitution will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
 
 ### Notice
 
-2.7. Any notice required or permitted by this Constitution will be deemed sufficient when published on the Pocket Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently.
+2.6. Any notice required or permitted by this Constitution will be deemed sufficient when published on the Pocket Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently.
 
 ## 3. Arbitration
 
@@ -375,7 +383,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards for Nodes, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
-* **User:** any Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  Pocket Core or any other software client implementing or purporting to implement the Pocket Protocol on the Pocket Network; or (ii) any of the Pocket Technologies.
+* **User:** has the definition set forth in Article 2.1.
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
 * **Vote:** a transaction within the Council by a Voter to approve a proposed action
 * **Voter:** a Stakeholder who has successfully claimed a Voting Token, which means they are now a voting member of the Council
