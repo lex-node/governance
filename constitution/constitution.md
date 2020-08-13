@@ -329,7 +329,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
-* **Constitution:** this binding agreement around which the Pocket Network DAO coordinates
+* **Constitution:** has the definition set forth in the Preamble
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
