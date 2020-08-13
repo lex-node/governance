@@ -1,6 +1,6 @@
 # THE POCKET NETWORK CONSTITUTION
 
-This Constitution is a legally binding agreement governing the Pocket Network, Pocket Blockchain and the use of the Pocket Technologies in connection therewith. 
+This Pocket Network Constitution (this **Constitution:** ) is a legally binding agreement governing the Pocket Network, andPocket Blockchain and the use of the Pocket Technologies in connection therewith. 
 
 # Mission Statement
 
@@ -14,11 +14,11 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4. **Freedom of Movement:** The Pocket Network should be accessible to both Apps and Nodes. Equally, all Pocket Network stakeholders or participants should enjoy the right to exit.
 5. **Optionality:** Operating a Node should incur no more costs than the cost of operation. All other responsibilities, e.g. participation in the Council, should be optional.
 6. **Agnosticism:** Pocket Network should maintain neutrality as a middleware protocol. While the governance of Pocket Network may be reliant from time to time on other networks or tools, the system itself should retain a level of modularity that facilitates switching out components with minimal friction.
-7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community members will come from a wide range of blockchain communities. DAO participants should leave tribalism at the door; they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
+7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community members will come from a wide range of blockchain communities. DAO participants should leave tribalism at the door: i.e., they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
 8. **Consensual Collaboration:** While the Pocket Network Council is relatively permissionless, this does not mean anyone is entitled to work. Proposals will be assessed on their merits alone, including Contributors’ fitness to fulfill the proposal. Likewise, Contributors are not required to let any other Contributor work with them, unless the Council has approved a proposal to that effect.
 
 * The Principles are ranked in order of priority.
-* Decisions must be made according to their furtherance of the Principles. 
+* Decisions [of???] must be made according to their furtherance of the Principles. 
 * When deciding between alternatives, these alternatives shall be prioritized according to the ordering of the Principles listed above, with higher-ranking Principles to always take priority over lower-ranking Principles. 
 * Lower-ranking Principles should only be sacrificed in favor of higher-ranking Principles if a Pareto optimal state has been achieved, i.e. it is not possible to improve one Principle without making another Principle worse off. Until then, the Council shall seek to make only Pareto improvements, where Principles are improved without making any other Principles worse off.3
 * Once it is no longer possible to optimize any Principle without sacrificing another, this Constitution should be amended to introduce minimum satisfaction thresholds on each Principle.
@@ -329,12 +329,12 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
-* **Constitution:** has the definition set forth in the Preamble
+* **Constitution:** this binding agreement around which the Pocket Network DAO coordinates
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
-* **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote pursuant to Article 9.1. 
+* **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
@@ -373,6 +373,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
 * **Pocket Protocol:** the consensus rules and other protocol rules and features embodied in Pocket Core as operated on the Pocket Network.
 * **Pocket Technologies:** /placeholder/ [NOTE TO DRAFT: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
+* **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
