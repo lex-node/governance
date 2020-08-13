@@ -1,6 +1,6 @@
 # THE POCKET NETWORK CONSTITUTION
 
-This Pocket Network Constitution (this **Constitution:** ) is a legally binding agreement governing the Pocket Network, andPocket Blockchain and the use of the Pocket Technologies in connection therewith. 
+This Pocket Network Constitution (this **Constitution** ) is a legally binding agreement governing the Pocket Network, andPocket Blockchain and the use of the Pocket Technologies in connection therewith. 
 
 # Mission Statement
 
