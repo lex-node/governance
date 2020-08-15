@@ -347,15 +347,15 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
-* **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
+* **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy
 * **Legislature:** the functions of the DAO responsible for decision-making
 * **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
-* **Maturation Period:** the period of 30,240 blocks (~21 days) that must elapse before a Governance Stake is valid
+* **Maturation Period:** the period of 30,240 blocks (~21 days) that must elapse before a Governance Stake may become active
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
-* **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network. 
-* **On-Chain:** any activity that takes place on Pocket Core
+* **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network
+* **On-Chain:** any activity that is directly or indirectly reflected in information included in the Pocket Blockhain
 * **On-Chain DAO Treasury:** an account which holds the DAO’s common funds on Pocket Core, funded by Pocket Core’s Block Reward, and whose control is determined by the ACL
-* **Ownerless Foundation:** a foundation which has no members and thus no-one with a legal right to its assets, with the intent of maintaining a lean Executive
+* **Ownerless Foundation:** a foundation which has no members, shareholders or other equity holders 
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
 * **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
@@ -386,7 +386,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
-* **Stakeholder:** any Person who has had an active Governance Stake for more than 30,240 blocks (~21 days)
+* **Stakeholder:** any Person who validly acquires and controls any Voting Tokens in accordance with this Constitution. 
 * **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
