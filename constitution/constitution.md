@@ -87,7 +87,9 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Legislature / Council
 
-4.2. The legislative function of the Pocket Network is performed by the Pocket Network Council. 
+4.2. The "legislative" function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Voters. The Council: (a) administers the 
+
+Except as otherwise provided in this Pact in connection with a Material Adverse Exception Event, the Members shall utilize and cause the Org to utilize the Designated Smart Contracts as the exclusive method of (i) holding. allocating among the Members and spending or otherwise distributing any Tokens that are Org Property, (ii) creating and assigning Membership Interests, (iii) minting and issuing Shares and Loot and of holding and (iv) making Proposals and recording votes of the Members on Proposals. The Members may also utilize the Designated Smart Contracts to administer and facilitate certain other arrangements and transactions involving the Org, the Members and/or third parties, as approved by the Members from time to time pursuant to Proposals
 
 #### Governance Stake
 
@@ -345,9 +347,9 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
-* **Council:** the unincorporated association of Voters, also known as "The Pocket Network Council".
-* **Council Smart Contract:** : (a) shall initially be the source code at [______] as deployed to 0x[_______] on the Ethereum Blockchain; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time. . 
-* **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract. 
+* **Council:** the unincorporated nonprofit association of Voters, also known as "The Pocket Network Council"
+* **Council Smart Contract:** : (a) shall initially be the source code at [______] as deployed to 0x[_______] on the Ethereum Blockchain; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time. 
+* **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
