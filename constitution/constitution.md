@@ -345,6 +345,9 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
+* **Council:** the unincorporated association of Voters, also known as "The Pocket Network Council".
+* **Council Smart Contract:** : (a) shall initially be the source code at [______] as deployed to 0x[_______] on the Ethereum Blockchain; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time. . 
+* **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract. 
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
@@ -383,10 +386,8 @@ For outgoing payments to recipients who may have not consented to this Constitut
     * b3d86cd8ab4aa0cb9861cb795d8d154e685a94cf@seed1.testnet.pokt.network:26656 
     * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
     * f99386c6d7cd42a486c63ccd80f5fbea68759cd7@seed3.testnet.pokt.network:26656
-* **Pocket Network Council (Council):** the unincorporated association of Stakeholders.
 * **Pocket Network Foundation** or **Foundation**: the Pocket Network Foundation, a Cayman Islands foundation company limited by guarantee
-* **Stakeholder:** any Party who has had a Governance Stake for at least the Maturation Period.
-* **Stakeholder:** any Person who validly acquires and controls any Voting Tokens in accordance with this Constitution.
+* **Stakeholder:** any Party who has had a Governance Stake for at least the Maturation Period. []
 * **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
 * **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
@@ -404,7 +405,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **USDRelayTargetRange:** an off-chain pricing parameter, enabling the Council to signal what they believe the rough long-term price range (in USD) should be for relays, to ensure Pocket Network’s service is competitive enough to attract new Apps
 * **Validator Node:** a Node that: (a) validates, services and dispatches relay requests, relays and other transactions on the Pocket Network, is eligible to be randomly selected as a "block proposer" for the Pocket Blockchain and validates the blocks proposed by other such Nodes; and (b) maintains staked at least the current minimum amount of POKT required by the Pocket Protocol to perform such functions on the Pocket Network. 
 * **Vote:** a transaction within the Council by a Voter to approve a proposed action
-* **Voter:** a Stakeholder who has successfully claimed a Voting Token, which means they are now a voting member of the Council
+* **Voter:** a Stakeholder who has validly acquired and controls any Voting Tokens in accordance with this Constitution and the Council Protocol.
 * **Voter Distribution:** the demographic of Voting Token holders
 * **Voting Token:** a blockchain token representing the owner’s right to submit Vote transactions [NOTE TO TEAM: do outstanding Voting Tokens cease to function within the Council if one of the conditions precedent re: the underlying Governance Stake ceases to be satisfied (e.g., the relevant Governance Stake dips below the required minimum amount of POKT based on # deposited POKT / number of Voters?]
 
