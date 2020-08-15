@@ -45,7 +45,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Persons Bound by Constitution
 
-2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i)  the Pocket Network (whether through Pocket Core or any other software); (ii) the Pocket Blockchain; or (iii) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constitution.
+2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (i) the Pocket Network (whether through Pocket Core or any other software); (ii) the Pocket Blockchain; or (iii) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constitution.
 
 2.2. Without limiting the generality of Section 2.1, entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
 
@@ -87,13 +87,13 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Legislature / Council
 
-4.2. THe legislative function of the Pocket Network is performed by the Pocket Network Council. 
+4.2. The legislative function of the Pocket Network is performed by the Pocket Network Council. 
 
 #### Governance Stake
 
-4.1. All voting rights in the Council must be tied to a Governance Stake in Pocket Core, meaning that the claimant of voting rights is a verified Stakeholder.
+4.3. All voting rights in the Council must be tied to a Governance Stake in Pocket Core, meaning that the claimant of voting rights is a verified Stakeholder.
 
-4.2. If a Pocket Network account does not attempt to claim their voting rights (Voting Token) within 14 days of the end of the Maturation Period of their Governance Stake, the Foundation will return the POKT less transaction fees.
+4.4. If a Pocket Network account does not attempt to claim their voting rights (Voting Token) within 14 days of the end of the Maturation Period of their Governance Stake, the Foundation will return the POKT less transaction fees.
 
 #### Claiming Voting Permissions
 
@@ -385,6 +385,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
     * f99386c6d7cd42a486c63ccd80f5fbea68759cd7@seed3.testnet.pokt.network:26656
 * **Pocket Network Council (Council):** the unincorporated association of Stakeholders.
 * **Pocket Network Foundation** or **Foundation**: the Pocket Network Foundation, a Cayman Islands foundation company limited by guarantee
+* **Stakeholder:** any Party who has had a Governance Stake for at least the Maturation Period.
 * **Stakeholder:** any Person who validly acquires and controls any Voting Tokens in accordance with this Constitution.
 * **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
 * **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
