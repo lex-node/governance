@@ -76,9 +76,18 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 [NOTE TO SELF: CHOICE OF LAW?]
 [NOTE TO SELF: BEEF UP ARBITRATION PROVISIONS ('final, binding and determinative resolution' etc.)]
 
-## 4. Powers
+## 4. Pocket Network Governance
 
-### Legislature
+4.1. Governance of the Pocket Network is an emergent phenomenon arising from the decisionmaking and activities of a variety of User demographics and other Persons, including: 
+* the Pocket Network Foundation;
+* the Pocket Network Council and Council Voters; 
+* the Pocket Development Company and other developers of Pocket Core and other Pocket Technologies; 
+* POKT holders; and
+* Node operators.
+
+### Legislature / Council
+
+4.2. THe legislative function of the Pocket Network is performed by the Pocket Network Council. 
 
 #### Governance Stake
 
@@ -122,8 +131,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 ##### The Role of the Foundation
 
 4.11. The Foundation's objectives are to:
-  * Steward the Pocket Technologies and Pocket Network
-  * Hold legal custodianship of Pocket Core
+  * Steward the Pocket Technologies and Pocket Network, including Pocket Core
   * Request funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
 
 ##### The Council’s Control of the Foundation
@@ -343,7 +351,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Stake:** POKT deposited with the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited. Such a deposit of POKT signals the consent and intention on the part of all Persons who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council. A Governance Stake shall become active (and may be utilized to participate in the Council by minting Voting Tokens) if and only if the Maturation Period with respect to such Governance Stake has elapsed and at least one of the following conditions precedent is satisfied with respect thereto[, and shall cease to be active at any time when none of the following conditions precedent is satisfied with respect thereto][NOTE TO SELF: might not be true due to VOTE minting mechanic, more research required]:
   * **Trusted Account Holder:** the holder of the account has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]; or
-  * **Trust-Minimized Stake:** [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (a) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to which Voting Tokens have been minted and remain outstanding at such time; divided by (b) the number of Voters at such time. 
+  * **Trust-Minimized Stake:** [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (a) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (b) the number of Voters at such time. 
 * **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
@@ -375,8 +383,9 @@ For outgoing payments to recipients who may have not consented to this Constitut
     * b3d86cd8ab4aa0cb9861cb795d8d154e685a94cf@seed1.testnet.pokt.network:26656 
     * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
     * f99386c6d7cd42a486c63ccd80f5fbea68759cd7@seed3.testnet.pokt.network:26656
-* **Pocket Network Council (Council):** an unincorporated association of Stakeholders, represented by their ownership of Voting Tokens, who perform the Legislative function of the DAO
-* **Pocket Network Foundation (Foundation):** the Ownerless Foundation domiciled in the Cayman Islands, controlled by the Council to perform Executive functions
+* **Pocket Network Council (Council):** the unincorporated association of Stakeholders.
+* **Pocket Network Foundation** or **Foundation**: the Pocket Network Foundation, a Cayman Islands foundation company limited by guarantee
+* **Stakeholder:** any Person who validly acquires and controls any Voting Tokens in accordance with this Constitution.
 * **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
 * **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
@@ -386,7 +395,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
-* **Stakeholder:** any Person who validly acquires and controls any Voting Tokens in accordance with this Constitution. 
 * **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
@@ -398,6 +406,8 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Voter:** a Stakeholder who has successfully claimed a Voting Token, which means they are now a voting member of the Council
 * **Voter Distribution:** the demographic of Voting Token holders
 * **Voting Token:** a blockchain token representing the owner’s right to submit Vote transactions [NOTE TO TEAM: do outstanding Voting Tokens cease to function within the Council if one of the conditions precedent re: the underlying Governance Stake ceases to be satisfied (e.g., the relevant Governance Stake dips below the required minimum amount of POKT based on # deposited POKT / number of Voters?]
+
+
 
 # Acknowledgements
 
