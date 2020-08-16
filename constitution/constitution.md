@@ -93,7 +93,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 #### Council Smart Contract
 
-4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
+4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council and Council members shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
 
 #### Council Membership
 
@@ -117,14 +117,13 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
             each Voter deemed to make certain reps/warranties and if untrue Voting Tokens can be burned 
         ]
 
-4.7. The POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens or (b) an inactive Governance Stake may be returned (but shall not be required to be returned) to the depositing address by or on behalf of the Council, less applicable transaction fees and setoffs. The Council may also take any other action or inaction with respect to such POKT permitted or required by applicable law, including treating such POKT in accordance with the laws of property escheatment. 
-
+4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be considered abandoned. In the sole and absolute discretion of the Council, abandoned POKT may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordace with any applicable laws of property escheatment; (iii) left indefinintely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 
 #### Council Proposals
 
-4.7. To submit any proposal in the Council, accounts must be Stakeholders and sign this Constitution.
+4.8. Proposals to be voted upon by the Council must be submitted solely by Council members. Nothing set forth in the immediately preceding sentence shall be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperationn with another User or User demographic. 
 
-4.8. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
+4.9. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
 
 #### Removing Voters
 
@@ -145,7 +144,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.13. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
 
-### Executive
+### Executive / Foundationn
 
 #### Pocket Network Foundation (Foundation)
 
