@@ -95,7 +95,29 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
 
-#### Council Governance Stakes & Voting Tokens
+#### Council Membership
+
+4.4. A Person shall be deemed to be a Council member if and only if such Person is a Voter. 
+
+4.5. A Person shall be deemed a Voter if and only if: (a) such Person has deposited POKT into the Council Smart Contract to create a Governance Stake; (b) such Governance Stake is active; and (c) such Person has minted and continues to hold and control one or more Voting Tokens with respect to such Governance Stake. 
+
+4.6. The Governance Stake of a Person shall be deemed active if and only if: 
+    (a) the Maturation Period with respect to such Governance Stake has elapsed; and 
+    (b) at least one of the following conditions precedent is satisfied with respect thereto:
+        (i) Such Person is a ***Trusted Account Holder** *(i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]); or
+        (ii) such Governance Stake is a * **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Voters at such time). 
+
+4.7 
+
+[NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threhold)?]
+
+[notepad/save for later: 
+    who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council.
+
+    POKT of which such Person is the sole beneficial, record and titular owner into the Council Smart Contract to create a Governance Stake
+
+    each Voter deemed to make certain reps/warranties and if untrue Voting Tokens can be burned 
+]
 
 4.4. All voting rights in the Council must be tied to a Governance Stake in Pocket Core, meaning that the claimant of voting rights is a verified Stakeholder.
 
@@ -356,9 +378,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
-* **Governance Stake:** POKT deposited with the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited. Such a deposit of POKT signals the consent and intention on the part of all Persons who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council. A Governance Stake shall become active (and may be utilized to participate in the Council by minting Voting Tokens) if and only if the Maturation Period with respect to such Governance Stake has elapsed and at least one of the following conditions precedent is satisfied with respect thereto[, and shall cease to be active at any time when none of the following conditions precedent is satisfied with respect thereto][NOTE TO SELF: might not be true due to VOTE minting mechanic, more research required]:
-  * **Trusted Account Holder:** the holder of the account has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]; or
-  * **Trust-Minimized Stake:** [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (a) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (b) the number of Voters at such time. 
+* **Governance Stake:** POKT deposited with the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited.  
 * **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
