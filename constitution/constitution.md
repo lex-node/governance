@@ -87,23 +87,23 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Legislature / Council
 
-4.2. The "legislative" function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Voters. The Council: (a) administers the 
+#### Nature & Functions of Council
+
+4.2. The "legislative" function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Voters [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Article [] hereof; (b) receives, holds and governs the Pocket Development Fund; (c)
 
 Except as otherwise provided in this Pact in connection with a Material Adverse Exception Event, the Members shall utilize and cause the Org to utilize the Designated Smart Contracts as the exclusive method of (i) holding. allocating among the Members and spending or otherwise distributing any Tokens that are Org Property, (ii) creating and assigning Membership Interests, (iii) minting and issuing Shares and Loot and of holding and (iv) making Proposals and recording votes of the Members on Proposals. The Members may also utilize the Designated Smart Contracts to administer and facilitate certain other arrangements and transactions involving the Org, the Members and/or third parties, as approved by the Members from time to time pursuant to Proposals
 
-#### Governance Stake
+#### Council Governance Stakes & Voting Tokens
 
 4.3. All voting rights in the Council must be tied to a Governance Stake in Pocket Core, meaning that the claimant of voting rights is a verified Stakeholder.
 
 4.4. If a Pocket Network account does not attempt to claim their voting rights (Voting Token) within 14 days of the end of the Maturation Period of their Governance Stake, the Foundation will return the POKT less transaction fees.
 
-#### Claiming Voting Permissions
+4.5. Council membership is permissive; no approval is required from existing Voters to become a Voter. Voting rights (Voting Tokens) can be claimed by any Aragon account subject to the requirement in 4.1.
 
-4.3. Council membership is permissive; no approval is required from existing Voters to become a Voter. Voting rights (Voting Tokens) can be claimed by any Aragon account subject to the requirement in 4.1.
+#### Council Proposals
 
-#### Submitting Actions
-
-4.4. To submit any action in the Council, accounts must be Stakeholders and sign this Constitution.
+4.4. To submit any proposal in the Council, accounts must be Stakeholders and sign this Constitution.
 
 4.5. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
 
@@ -158,7 +158,7 @@ Except as otherwise provided in this Pact in connection with a Material Adverse 
 
 ##### Qualified Code Deference and the Foundation's Custodial Rights & Responsibilities
 
-4.16. The Foundation shall serve as a custodial entity for Pocket Network, deferring decision-making to the Council in all cases except Material Adverse Exception Events (MAEEs), i.e. crises resulting from incomplete contracts and unforeseen events.
+4.16. The Foundation shall serve as [a custodial] entity for Pocket Network, deferring decision-making to the Council in all cases except Material Adverse Exception Events (MAEEs), i.e. crises resulting from incomplete contracts and unforeseen events.
 
 4.17. MAEEs may include:
   * the DAO having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the DAO or any other smart contract or oracle program on which the DAO depends for any of the Legislature, Judiciary, or Executive functions, having become inoperable, inaccessible or unusable or having itself suffered a MAEE, mutatis mutandis;
@@ -338,7 +338,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the DAO
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
-* **Block Reward:** the POKT that is automatically minted in accordance with the Pocket Protocol every time a proposed block is validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
@@ -382,8 +381,9 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * **Transfers:** transferring funds to addresses that facilitate the above
   * **Agreements:** formal understandings of Contributor relationships, including non-financial in nature
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of the Pocket Network, including Protocol Upgrades and Governance Upgrades
-* **Pocket Core:** at each relevant time, the most up-to-date official release of the Official Golang Implementation of the Pocket Network Protocol available at  https://github.com/pokt-network/pocket-core, without any modification thereto. 
+* **Pocket Core:** at each relevant time, the most up-to-date official release of the Official Golang Implementation of the Pocket Network Protocol available at  https://github.com/pokt-network/pocket-core, without any modification thereto 
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
+* **Pocket Development Fund:** the aggregate amount of POKT DevFund Awards on deposit with and controlled by the Council Smart Contract
 * **Pocket Network:** the network recognized as having "netid: mainnet" by [any of][at least a majority of] the following seed nodes:     
     * b3d86cd8ab4aa0cb9861cb795d8d154e685a94cf@seed1.testnet.pokt.network:26656 
     * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
@@ -392,7 +392,9 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Stakeholder:** any Party who has had a Governance Stake for at least the Maturation Period. []
 * **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
 * **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
-* **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain. 
+* **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain 
+* **POKT Block Reward:** the POKT that is automatically minted in accordance with the Pocket Protocol every time a proposed block is validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
+* **POKT DevFund Award:** the portion of each POKT Block Reward that is [automatically] allocated to the Council [Smart Contract] [NOTE TO DRAFT: mechanics of how POKT rewards get controlled by Council to be discussed given cross-chain dynamics etc.]
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Seed Node:** a Node (other than a Valiadtor Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
