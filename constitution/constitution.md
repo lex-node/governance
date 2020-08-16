@@ -93,40 +93,40 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 #### Council Smart Contract
 
-4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens, (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
+4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
 
 #### Council Governance Stakes & Voting Tokens
 
-4.3. All voting rights in the Council must be tied to a Governance Stake in Pocket Core, meaning that the claimant of voting rights is a verified Stakeholder.
+4.4. All voting rights in the Council must be tied to a Governance Stake in Pocket Core, meaning that the claimant of voting rights is a verified Stakeholder.
 
-4.4. If a Pocket Network account does not attempt to claim their voting rights (Voting Token) within 14 days of the end of the Maturation Period of their Governance Stake, the Foundation will return the POKT less transaction fees.
+4.5. If a Pocket Network account does not attempt to claim their voting rights (Voting Token) within 14 days of the end of the Maturation Period of their Governance Stake, the Foundation will return the POKT less transaction fees.
 
-4.5. Council membership is permissive; no approval is required from existing Voters to become a Voter. Voting rights (Voting Tokens) can be claimed by any Aragon account subject to the requirement in 4.1.
+4.6. Council membership is permissive; no approval is required from existing Voters to become a Voter. Voting rights (Voting Tokens) can be claimed by any Aragon account subject to the requirement in 4.1.
 
 #### Council Proposals
 
-4.4. To submit any proposal in the Council, accounts must be Stakeholders and sign this Constitution.
+4.7. To submit any proposal in the Council, accounts must be Stakeholders and sign this Constitution.
 
-4.5. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
+4.8. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
 
 #### Removing Voters
 
-4.6. Voters can be removed for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
+4.9. Voters can be removed for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
   * **settlements** = 0.5 violations
   * **lost Aragon Court rulings** = 1 violation
   * **violation of Principles** = 2 violations, where an action will qualify as violating the Principles if it is successfully challenged on such grounds by any other member of the Council using Aragon Agreements, and a vote in favor of an action will retroactively qualify as violating the Principles if deemed so by Supermajority Approval in a Signaling Vote.
 
-4.7. Voters who were removed per 4.6 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote.
+4.10. Voters who were removed per 4.6 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote.
 
 #### Right to Exit
 
-4.8. While the barrier to entering the Council is intended to provide a robust defense against time-based attack vectors such as vote renting, the barrier to exit is intentionally minimal. Any Voter can exit the Council at any time by burning their Voting Token, unless a proposal to burn their token is already pending.
+4.11. While the barrier to entering the Council is intended to provide a robust defense against time-based attack vectors such as vote renting, the barrier to exit is intentionally minimal. Any Voter can exit the Council at any time by burning their Voting Token, unless a proposal to burn their token is already pending.
 
 #### Redeeming/Burning Governance Stakes
 
-4.9. If a Voter burns their own token, their Governance Stake will be redeemed; if a Voter has their token burned by the Council, their Governance Stake will be forfeited (burned).
+4.12. If a Voter burns their own token, their Governance Stake will be redeemed; if a Voter has their token burned by the Council, their Governance Stake will be forfeited (burned).
 
-4.10. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
+4.13. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
 
 ### Executive
 
