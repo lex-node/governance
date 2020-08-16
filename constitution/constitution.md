@@ -107,23 +107,18 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
         (i) Such Person is a ***Trusted Account Holder** *(i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]); or
         (ii) such Governance Stake is a * **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Voters at such time). 
 
-4.7 
+        [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threhold)?]
 
-[NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threhold)?]
+        [notepad/save for later: 
+            who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council.
 
-[notepad/save for later: 
-    who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council.
+            POKT of which such Person is the sole beneficial, record and titular owner into the Council Smart Contract to create a Governance Stake
 
-    POKT of which such Person is the sole beneficial, record and titular owner into the Council Smart Contract to create a Governance Stake
+            each Voter deemed to make certain reps/warranties and if untrue Voting Tokens can be burned 
+        ]
 
-    each Voter deemed to make certain reps/warranties and if untrue Voting Tokens can be burned 
-]
+4.7. The POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens or (b) an inactive Governance Stake may be returned (but shall not be required to be returned) to the depositing address by or on behalf of the Council, less applicable transaction fees and setoffs. The Council may also take any other action or inaction with respect to such POKT permitted or required by applicable law, including treating such POKT in accordance with the laws of property escheatment. 
 
-4.4. All voting rights in the Council must be tied to a Governance Stake in Pocket Core, meaning that the claimant of voting rights is a verified Stakeholder.
-
-4.5. If a Pocket Network account does not attempt to claim their voting rights (Voting Token) within 14 days of the end of the Maturation Period of their Governance Stake, the Foundation will return the POKT less transaction fees.
-
-4.6. Council membership is permissive; no approval is required from existing Voters to become a Voter. Voting rights (Voting Tokens) can be claimed by any Aragon account subject to the requirement in 4.1.
 
 #### Council Proposals
 
