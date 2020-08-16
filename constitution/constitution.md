@@ -1,3 +1,24 @@
+[DRAFTING NOTES:
+
+    1. waiting for feedback from team, btu I likely need to revise the new  code deference provisions re: Council smart contract since they are currently using rinkleby smart contract with manual approval of vote minting, etc.; possibly will bifurcate between current and future arrangement and provide code-deference structure for the latter that kicks in if/when activated by council 
+
+    2. fix clause / section numbering periodically
+
+    3. each counil voter should be deemed to be making certain reps, warranties and covenants (e.g., that they own the POKT for the governance stake or are duly authorized by whoever does own the POKT to vote on such owner's behalf, that they are not OFAC SDN list, etc.)
+
+    4. should have section on nodes and providing that persons operating nodes consent to being slashed (can also later repurpose some of that language re: slashing for Constitutional violations if that eventually becomes a thing)
+
+    5. discuss/research possibilities re: Council as unincorporated nonprofit association and best jurisdiction (some U.S. states provide limited liability for members of such an association)
+
+    6. get feedback from team re: what happens with voting tokens when a governance stake that formerly satisfied criteria for minting voting tokens beome un-satisfied (e.g., due to large aggregate council-wide governance stake increase after voting tokens minted on basis of lower aggregate governance stake)
+
+
+
+
+
+]
+
+
 # THE POCKET NETWORK CONSTITUTION
 
 This Pocket Network Constitution (this **Constitution** ) is a legally binding agreement governing the Pocket Network and Pocket Blockchain and the use of the Pocket Technologies in connection therewith. 
@@ -27,48 +48,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 # Articles
 
-## 1. Interpretation
 
-1.1. This Constitution does not take precedence over the Pocket Protocol. If there is any conflict or inconsistency between this Constitution and the Pocket Protocol with respect to any matter, the Pocket Protocol shall prevail, govern and control such matter, except if such conflict or inconsistency arises as a result of a Material Adverse Exception Event. Material Adverse Exception Event (MAEE) means: 
-
-1.2. The Mission Statement and Principles are non-binding recitals provided for informational purposes only; provided, however, that in the event of any ambiguity in the interpretation of the plain language of the Articles, the resolution of such ambiguity shall take into account the Mission Statement and Principles.
-
-1.3. Any rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be applied in the construction or interpretation of this Constitution. 
-
-## 2. Binding Nature of Constitution
-
-### Persons Bound by Constitution
-
-2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (a) the Pocket Network (whether through Pocket Core or any other software); (b) the Pocket Blockchain; or (c) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constitution.
-
-2.2. Without limiting the generality of Section 2.1, entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
-
-2.3. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
-
-### Entire Agreement
-
-2.4. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the Parties (or any of them) with respect to the subject matter hereof.
-
-### Severability
-
-2.5. In the event any one or more of the provisions of this Constitution is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Constitution operate or would prospectively operate to invalidate this Constitution, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Constitution and the remaining provisions of this Constitution will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
-
-### Notice
-
-2.6. Any notice required or permitted by this Constitution will be deemed sufficient when published on the Pocket Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently.
-
-## 3. Arbitration
-
-3.1. Unless otherwise stated in this Constitution, any controversy between members of the Council arising out of or in connection with this Constitution shall be submitted to Aragon Court for resolution under its public arbitration rules, as amended from time to time.
-
-3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, meaning they are made disputable by Aragon Agreements, must be submitted before the action executes; if not, the controversy shall be deemed resolved in favor of the action. [?]
-
-3.3. In the event that Aragon Court is not accessible, the Foundation shall refer the dispute to the International Chamber of Commerce for arbitration according to their rules. 
-
-3.4. By consenting to this Constitution, all Parties waive their right to resolve any controversy in any manner other than defined in this Constitution. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR RELATING TO THIS CONSTITUTION, THE DAO, OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
-
-[NOTE TO SELF: CHOICE OF LAW?]
-[NOTE TO SELF: BEEF UP ARBITRATION PROVISIONS ('final, binding and determinative resolution' etc.)]
 
 ## 4. Pocket Network Governance
 
@@ -131,14 +111,6 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
         (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Voters at such time). 
 
         [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threhold)?]
-
-        [notepad/save for later: 
-            who own or have any other right, entitlement, power, privilege or claim with respect to such POKT or the transmitting account to render such POKT eligible for participation in the Council.
-
-            POKT of which such Person is the sole beneficial, record and titular owner into the Council Smart Contract to create a Governance Stake
-
-            each Voter deemed to make certain reps/warranties and if untrue Voting Tokens can be burned 
-        ]
 
 4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordace with any applicable laws of property escheatment; (iii) left indefinintely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 
@@ -368,6 +340,50 @@ For outgoing payments to recipients who may have not consented to this Constitut
 9.4. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
 9.5. The Champion option for the Trusted Stake will be in place at least until the Pocket Community Game has been in operation for one full season, after which the Council will hold a majority vote on whether to keep it.
+
+## Interpretation, Dispute Resolution, Etc. 
+
+### Interpretation
+
+1.1. This Constitution does not take precedence over the Pocket Protocol. If there is any conflict or inconsistency between this Constitution and the Pocket Protocol with respect to any matter, the Pocket Protocol shall prevail, govern and control such matter, except if such conflict or inconsistency arises as a result of a Material Adverse Exception Event. Material Adverse Exception Event (MAEE) means: 
+
+1.2. The Mission Statement and Principles are non-binding recitals provided for informational purposes only; provided, however, that in the event of any ambiguity in the interpretation of the plain language of the Articles, the resolution of such ambiguity shall take into account the Mission Statement and Principles.
+
+1.3. Any rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be applied in the construction or interpretation of this Constitution. 
+
+### Binding Nature of Constitution
+
+2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (a) the Pocket Network (whether through Pocket Core or any other software); (b) the Pocket Blockchain; or (c) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constitution.
+
+2.2. Without limiting the generality of Section 2.1, entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
+
+2.3. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
+
+### Entire Agreement
+
+2.4. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the Parties (or any of them) with respect to the subject matter hereof.
+
+### Severability
+
+2.5. In the event any one or more of the provisions of this Constitution is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Constitution operate or would prospectively operate to invalidate this Constitution, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Constitution and the remaining provisions of this Constitution will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
+
+### Notices
+
+2.6. Any notice required or permitted by this Constitution will be deemed sufficient when published on the Pocket Blockchain or through other electronic means reasonably sufficient to notify each and all of the Parties hereto concurrently.
+
+### Arbitration
+
+3.1. Unless otherwise stated in this Constitution, any controversy between members of the Council arising out of or in connection with this Constitution shall be submitted to Aragon Court for resolution under its public arbitration rules, as amended from time to time.
+
+3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, meaning they are made disputable by Aragon Agreements, must be submitted before the action executes; if not, the controversy shall be deemed resolved in favor of the action. [?]
+
+3.3. In the event that Aragon Court is not accessible, the Foundation shall refer the dispute to the International Chamber of Commerce for arbitration according to their rules. 
+
+3.4. By consenting to this Constitution, all Parties waive their right to resolve any controversy in any manner other than defined in this Constitution. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR RELATING TO THIS CONSTITUTION, THE DAO, OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
+
+[NOTE TO SELF: CHOICE OF LAW?]
+[NOTE TO SELF: BEEF UP ARBITRATION PROVISIONS ('final, binding and determinative resolution' etc.)]
+
 
 # Definitions
 
