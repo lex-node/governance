@@ -104,8 +104,8 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4.6. The Governance Stake of a Person shall be deemed active if and only if: 
     (a) the Maturation Period with respect to such Governance Stake has elapsed; and 
     (b) at least one of the following conditions precedent is satisfied with respect thereto:
-        (i) Such Person is a ***Trusted Account Holder** *(i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]); or
-        (ii) such Governance Stake is a * **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Voters at such time). 
+        (i) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]); or
+        (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Voters at such time). 
 
         [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threhold)?]
 
@@ -119,11 +119,13 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordace with any applicable laws of property escheatment; (iii) left indefinintely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 
+4.8. Each Council member shall vote his, her or its Voting Shares and otherwise exercise the rights, powers and perquisites of a Council member on a reasonably informed basis and in good faith, taking into account the Pocket Principles. Each Council member shall not sell his, her or its Voting Shares or any of the other rights, powers and perquisites of being a Council member or accept any compensation, reward, reimbursement or incentive for voting such Council Member's Voting Shares or using such rights, powers and perquisites. 
+
 #### Council Proposals
 
-4.8. Proposals to be voted upon by the Council must be submitted solely by Council members. Nothing set forth in the immediately preceding sentence shall be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperationn with another User or User demographic. 
+4.9. Proposals to be voted upon by the Council must be submitted solely by Council members. Nothing set forth in the immediately preceding sentence shall be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Article 4.8. 
 
-4.9. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
+4.10. Additional fees or staking requirements may be approved by the Council at any time, such as in connection with Aragon Agreements.
 
 #### Removing Voters
 
