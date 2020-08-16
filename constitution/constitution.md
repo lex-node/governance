@@ -89,7 +89,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 #### Nature & Functions of Council
 
-4.2. The legislative function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Voters [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Article [] hereof; (b) holds and governs the Council Development Fund, which is the aggregate of all unspent POKT DevFund Awards allocated from POKT Block Awards; and (c) considers, holds votes with respect to and approves or denies Pocket Improvement Proposals (PIPs), Pocket Ecosystem Proposals (PEPs) and Parameter Update Proposals (PUPs). 
+4.2. The legislative function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Council members [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Article [] hereof; (b) holds and governs the Council Development Fund, which is the aggregate of all unspent POKT DevFund Awards allocated from POKT Block Awards; and (c) considers, holds votes with respect to and approves or denies Pocket Improvement Proposals (PIPs), Pocket Ecosystem Proposals (PEPs) and Parameter Update Proposals (PUPs). 
 
 #### Council Smart Contract
 
@@ -117,7 +117,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
             each Voter deemed to make certain reps/warranties and if untrue Voting Tokens can be burned 
         ]
 
-4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be considered abandoned. In the sole and absolute discretion of the Council, abandoned POKT may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordace with any applicable laws of property escheatment; (iii) left indefinintely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
+4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordace with any applicable laws of property escheatment; (iii) left indefinintely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 
 #### Council Proposals
 
@@ -127,22 +127,22 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 #### Removing Voters
 
-4.9. Voters can be removed for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
+4.10. Voters can be removed for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
   * **settlements** = 0.5 violations
   * **lost Aragon Court rulings** = 1 violation
   * **violation of Principles** = 2 violations, where an action will qualify as violating the Principles if it is successfully challenged on such grounds by any other member of the Council using Aragon Agreements, and a vote in favor of an action will retroactively qualify as violating the Principles if deemed so by Supermajority Approval in a Signaling Vote.
 
-4.10. Voters who were removed per 4.6 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote.
+4.11. Voters who were removed per 4.6 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote.
 
 #### Right to Exit
 
-4.11. While the barrier to entering the Council is intended to provide a robust defense against time-based attack vectors such as vote renting, the barrier to exit is intentionally minimal. Any Voter can exit the Council at any time by burning their Voting Token, unless a proposal to burn their token is already pending.
+4.12. While the barrier to entering the Council is intended to provide a robust defense against time-based attack vectors such as vote renting, the barrier to exit is intentionally minimal. Any Voter can exit the Council at any time by burning their Voting Token, unless a proposal to burn their token is already pending.
 
 #### Redeeming/Burning Governance Stakes
 
-4.12. If a Voter burns their own token, their Governance Stake will be redeemed; if a Voter has their token burned by the Council, their Governance Stake will be forfeited (burned).
+4.13. If a Voter burns their own token, their Governance Stake will be redeemed; if a Voter has their token burned by the Council, their Governance Stake will be forfeited (burned).
 
-4.13. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
+4.14. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
 
 ### Executive / Foundationn
 
