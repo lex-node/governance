@@ -125,17 +125,17 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 #### Council Proposals
 
-4.10. Proposals to be voted upon by the Council must be submitted solely by Council members. Nothing set forth in the immediately preceding sentence shall be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Article 4.8. 
+4.10. Proposals to be voted upon by the Council must be submitted solely by Council members. The immediately preceding sentence shall not be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Article 4.8. 
 
 
 #### Removing Voters
 
-4.11. Voters can be removed for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
+4.11. Voters can be removed by the Council for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
   * **settlements** = 0.5 violations
   * **lost Aragon Court rulings** = 1 violation
   * **violation of Principles** = 2 violations, where an action will qualify as violating the Principles if it is successfully challenged on such grounds by any other member of the Council using Aragon Agreements, and a vote in favor of an action will retroactively qualify as violating the Principles if deemed so by Supermajority Approval in a Signaling Vote.
 
-4.12. Voters who were removed per 4.6 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote.
+4.12. Voters who were removed pursuant to the preceding Article 4.11 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote.
 
 #### Right to Exit
 
