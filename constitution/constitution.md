@@ -95,6 +95,16 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council and Council members shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
 
+4.4 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, among the Council members (or any of them), the results of operation of the Council Smart Contract shall be determinative of the rights and obligations of, and shall be final, binding upon and not permitted to be contested or disputed by, the Council and each of the Council members with respect to the Council and all matters relating to the Council or the Council members in their capacities as such, and shall not be contested (in a Legal Proceeding or otherwise) by any of them. The immediately preceding sentence shall not prohibit or limit any Legal Proceeding brought by or on behalf of the Council or any Council member(s) (the “Plaintiff(s)”) against the Council, any other Council member(s) or any other Person(s) (the “Defendant(s)”) to the extent that: 
+    (a)	a prohibition or limitation of such Legal Proceeding would be illegal or unenforceable under any applicable law; or
+    (b)	such Legal Proceeding satisfies the condition set forth in the following clause “(i)” and the condition set forth in the following clause “(ii)”: 
+        (i)	such Legal Proceeding is based on or arises from a Material Adverse Exception Event that either: 
+            (A)	resulted directly or indirectly, in whole or in part, from the fraud, willful misconduct or knowing violation of any applicable Legal Requirement or applicable Order by the Defendant(s); or 
+            (B)	resulted directly ro indirectly in an improper personal benefit to the Defendant(s); and
+        (ii) Plaintiff(s) suffered or incurred Damages as a result of such Material Adverse Exception Event.
+        
+The provisions of this Article 4.4 shall continue to apply to a Person who was a Council member after such Person is no longer a Member.
+
 #### Council Membership
 
 4.4. A Person shall be deemed to be a Council member if and only if such Person is a Voter. 
