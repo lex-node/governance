@@ -12,7 +12,7 @@
 
     6. get feedback from team re: what happens with voting tokens when a governance stake that formerly satisfied criteria for minting voting tokens beome un-satisfied (e.g., due to large aggregate council-wide governance stake increase after voting tokens minted on basis of lower aggregate governance stake)
 
-
+    7. tighten up contract boilerplate, arbitration provisions (class action waiver), choice of law question, etc. 
 
 
 
@@ -174,9 +174,9 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 ##### Qualified Code Deference and the Foundation's Custodial Rights & Responsibilities
 
-4.21. The Foundation shall serve as [a custodial] entity for Pocket Network, deferring decision-making to the Council in all cases except Material Adverse Exception Events (MAEEs), i.e. crises resulting from incomplete contracts and unforeseen events.
+4.21. The Foundation shall serve as a fiduciary agent of the Council, to serve at the pleasure of the Council until such agency is revoked by the Council.
 
-4.22.
+4.22. 
 
 4.23. If any User becomes aware that there is a MAEE, such User (the "Sending Party") shall deliver to the Foundation a notice (an "Exception Notice") signed by such User:
   * Certifying that the Sending Party believes in good faith that there is a MAEE;
