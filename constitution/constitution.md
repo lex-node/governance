@@ -89,7 +89,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 #### Nature & Functions of Council
 
-4.2. The "legislative" function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Voters [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Article [] hereof; (b) receives, holds and governs the Pocket Development Fund; (c)
+4.2. The "legislative" function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Voters [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Article [] hereof; (b) holds and governs the Council Development Fund, which is the aggregate of all unspent POKT DevFund Awards allocated from POKT Block Awards; (c)
 
 Except as otherwise provided in this Pact in connection with a Material Adverse Exception Event, the Members shall utilize and cause the Org to utilize the Designated Smart Contracts as the exclusive method of (i) holding. allocating among the Members and spending or otherwise distributing any Tokens that are Org Property, (ii) creating and assigning Membership Interests, (iii) minting and issuing Shares and Loot and of holding and (iv) making Proposals and recording votes of the Members on Proposals. The Members may also utilize the Designated Smart Contracts to administer and facilitate certain other arrangements and transactions involving the Org, the Members and/or third parties, as approved by the Members from time to time pursuant to Proposals
 
@@ -347,6 +347,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
 * **Council:** the unincorporated nonprofit association of Voters, also known as "The Pocket Network Council"
+* **Council Development Fund:** the aggregate amount of POKT DevFund Awards [on deposit with and] controlled by the Council [Smart Contract]
 * **Council Smart Contract:** : (a) shall initially be the source code at [______] as deployed to 0x[_______] on the Ethereum Blockchain; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time. 
 * **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
@@ -383,7 +384,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of the Pocket Network, including Protocol Upgrades and Governance Upgrades
 * **Pocket Core:** at each relevant time, the most up-to-date official release of the Official Golang Implementation of the Pocket Network Protocol available at  https://github.com/pokt-network/pocket-core, without any modification thereto 
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation. 
-* **Pocket Development Fund:** the aggregate amount of POKT DevFund Awards on deposit with and controlled by the Council Smart Contract
 * **Pocket Network:** the network recognized as having "netid: mainnet" by [any of][at least a majority of] the following seed nodes:     
     * b3d86cd8ab4aa0cb9861cb795d8d154e685a94cf@seed1.testnet.pokt.network:26656 
     * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
