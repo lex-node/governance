@@ -1,6 +1,6 @@
 [DRAFTING NOTES:
 
-    1. waiting for feedback from team, btu I likely need to revise the new  code deference provisions re: Council smart contract since they are currently using rinkleby smart contract with manual approval of vote minting, etc.; possibly will bifurcate between current and future arrangement and provide code-deference structure for the latter that kicks in if/when activated by council 
+    1. waiting for feedback from team, but I likely need to revise the new  code deference provisions re: Council smart contract since they are currently using rinkleby smart contract with manual approval of vote minting, etc.; possibly will bifurcate between current and future arrangement and provide code-deference structure for the latter that kicks in if/when activated by council 
 
     2. fix clause / section numbering periodically
 
@@ -47,8 +47,6 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 * The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of the Pocket Technologies and Pocket Network stated under "Mission Statement" above.
 
 # Articles
-
-
 
 ## 4. Pocket Network Governance
 
@@ -142,15 +140,21 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 4.15. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
 
-### Executive / Foundationn
+### Executive / Foundation
 
-#### Pocket Network Foundation (Foundation)
+#### Nature & Functions of Foundation
 
-##### The Role of the Foundation
+4.x. The executive function of the Pocket Network is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf. 
 
-4.16. The Foundation's objectives are to:
-  * Steward the Pocket Technologies and Pocket Network, including Pocket Core
-  * Request funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
+The following is only a summary of certain provisions of the Articles and is subordinated in its entirety to the full text of the Articles; in the event of any conflict or inconsistency between this Constitution and the Articles, the actual text of the Articles shall prevail: 
+* The Articles refer to the Council as the "DAO" and require the Council's approval of substantially all actions of the Foundation, including the appointment of Foundation "directors" and "supervisors".  
+* The Articles require the Foundation directors to observe, implement, carry out and execute with best efforts any and all resolutions of the Council, except as otherwise required by their fiduciary duties and applicable law. 
+* The Articles require the Foundation directors to provide the Council with notices and other information concerning the Foundation's business and affairs, the directors' discharge of their duties and exercise of their powers and such other information as may be erquired by the Council. 
+
+4.x. Without limiting the generality of the immediately preceding Article [4.x], the Foundation's objectives include the following:
+  * serving as a fiduciary agent of the Council
+  * stewarding the Pocket Technologies and Pocket Network, including Pocket Core
+  * requesting funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
 
 ##### The Council’s Control of the Foundation
 
@@ -160,7 +164,7 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
   * Supervisors ensure that Directors comply with the articles
   * No Supervisor decision is valid without Council approval.
 
-4.18. New Directors/Supervisors will be appointed/removed according to PIPs approved by the Council.
+4.18. New Directors/Supervisors will be appointed/removed according to PIPs approved by the Council. 
 
 ##### Transparency
 
@@ -176,7 +180,6 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 4.21. The Foundation shall serve as a fiduciary agent of the Council, to serve at the pleasure of the Council until such agency is revoked by the Council.
 
-4.22. 
 
 4.23. If any User becomes aware that there is a MAEE, such User (the "Sending Party") shall deliver to the Foundation a notice (an "Exception Notice") signed by such User:
   * Certifying that the Sending Party believes in good faith that there is a MAEE;
