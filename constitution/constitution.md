@@ -101,11 +101,11 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 4.5  The following are Material Adverse Exception Events (**MAEEs**):
     
-    (a)	a Consensus Attack adversely affecting the results or operations of the Council Smart Contract;
+    (a)	a Consensus Attack that adversely affects or could reasonably be expeted to adversely affect the results or operations of the Council Smart Contract;
     
-    (b)	a change to the Council Blockchain (or node software client or network referenced in defining the Council Blockchain) that could reasonably be expected to adversely affect the results or operations of the Council Blockchain or to result in a persistent contentious "hard fork” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain;
+    (b)	a change to the Council Blockchain (or node software client or network referenced in defining the Council Blockchain) that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Blockchain or to result in a persistent contentious "hard fork” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain;
     
-    (c)	a “chain reorganization” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain that could reasonably be expected to adversely affect the results or operations of the Council Smart Contract;
+    (c)	a “chain reorganization” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Smart Contract;
     
     (d)	the Council Smart Contract having become inoperable, inaccessible or unusable, or any tokens under the control of such Designated Smart Contract having become permanently “frozen,” “stuck” or non-transferable, including as the result of any code library or repository incorporated by reference into such Designated Smart Contract or any other smart contract or oracle on which such Designated Smart Contract depends in whole or in part having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event--without limiting the foregoing, a cirumstance shall be deemed “permanent” if such condition would persist except in the event of a hardfork or chain reorganization that is not reasonably expected to occur in the near future;
     
