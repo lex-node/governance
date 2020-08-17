@@ -75,7 +75,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
     (a) the Maturation Period with respect to such Governance Stake has elapsed; and 
     (b) at least one of the following conditions precedent is satisfied with respect thereto:
         (i) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]); or
-        (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain DAO Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Voters at such time). 
+        (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain Council Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Voters at such time). 
 
         [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threhold)?]
 
@@ -106,7 +106,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.14. If a Voter burns their own token, their Governance Stake will be redeemed; if a Voter has their token burned by the Council, their Governance Stake will be forfeited (burned).
 
-4.15. Whichever account has the On-Chain DAO Treasury permissions will be responsible for executing redemptions/burning.
+4.15. Whichever account has the On-Chain Council Treasury permissions will be responsible for executing redemptions/burning.
 
 ### Executive / Foundation
 
@@ -183,9 +183,9 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 7.1. Contributors agree to pay taxes on all DAO-related income in whichever jurisdiction they reside. The DAO will not be held liable for any neglect in this matter.
 
 7.2. The DAO will only accept incoming payments to its treasury in the form of Governance Stakes and the Pocket Network Block Reward.
-For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the On-Chain DAO Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
+For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the On-Chain Council Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
 
-7.3. It is forbidden to propose or approve unconditional general distributions of the On-Chain DAO Treasury to token holders, which may be misconstrued as dividends.
+7.3. It is forbidden to propose or approve unconditional general distributions of the On-Chain Council Treasury to token holders, which may be misconstrued as dividends.
 
 7.4. The Foundation may on the Council's behalf exchange POKT for another cryptocurrency or token for the purpose of using external blockchains.
 
@@ -301,7 +301,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 # Definitions
 
-* **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the On-Chain DAO Treasury, burning funds in the On-Chain DAO Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
+* **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the On-Chain Council Treasury, burning funds in the On-Chain Council Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
 * **Aragon Agent:** a smart contract representative of an Aragon organization, enabling the organization to interact as one entity with external smart contracts and protocols
 * **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the DAO
@@ -321,12 +321,12 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Council Smart Contract:** : (a) shall initially be the source code at [______] as deployed to 0x[_______] on the Ethereum Blockchain; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time
 * **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
-* **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain DAO Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
+* **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the On-Chain Council Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
-* **Governance Stake:** POKT deposited with the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited.  
+* **Governance Stake:** POKT deposited with the On-Chain Council Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited.  
 * **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network, including the appointment or removal of directors or supervisors. 
-* **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
+* **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain Council Treasury funds, and/or changing parameters
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy
 * **Legal Proceeding:** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
@@ -336,7 +336,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
 * **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network
 * **On-Chain:** any activity that is directly or indirectly reflected in information included in the Pocket Blockhain
-* **On-Chain DAO Treasury:** the account designated by the Council to hold POKT DevFund Awards. The initial On-Chain DAO Treasury is address 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. 
+* **On-Chain Council Treasury:** the account designated by the Council to hold POKT DevFund Awards. The initial On-Chain Council Treasury is address 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. 
 * **Ownerless Foundation:** a foundation which has no members, shareholders or other equity holders 
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
@@ -449,7 +449,7 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
   * Publish an Exception Handling Proposal that excludes exploitable details, to be followed by publication of such details only when the fix is ready to be deployed;
   * Secretly deploy fixes to the MAEE, only if such fixes do not amend Pocket Core’s consensus rules or undermine practical adherence to this Constitution, and under the understanding that such fixes may be replaced by the Council once the MAEE has been resolved.
 
-4.27. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signalled approval of the Proposal, represented by at least 50% of Stakeholders from the previous On-Chain DAO Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
+4.27. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signalled approval of the Proposal, represented by at least 50% of Stakeholders from the previous On-Chain Council Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
 
 4.28. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
