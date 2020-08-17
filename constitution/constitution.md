@@ -89,6 +89,40 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.10. Proposals to be voted upon by the Council must be submitted solely by Council members. The immediately preceding sentence shall not be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Article 4.8. 
 
+4.11 Proposals are of three main types: 
+(a) Pocket Improvement Proposals (PIPs), which are proposals to improve Pocket Core or the other Pocket Technologies or the Pocket Network or Pocket Blockchain or governance procedures, including Protocol Upgrades and Governance Upgrades.
+(b) Pocket Ecosystem Proposals (PEPs), which are proposals to provide funding out of the On-Chain Council Treasury to or form agreements with contributors to the Pocket Network ecosystem. 
+(c) Parameter Update Proposals (PUPs), which are proposals to change the value of a given parameter of the Council Smart Contract
+
+4.12 Each proposal shall be made by any Council member initiating Signaling or an Executive Vote with respect to such proposal, properly identified as a PIP, PEP or PUP. 
+
+6.2. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of the Pocket Development Company will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
+
+### PIPs
+
+6.3. PIPs will not be permissible if they contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This is in place to prevent omnibus proposals, whereby unpopular proposals are pushed through by bundling them with popular proposals.
+
+6.4. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
+
+6.5. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
+
+### PEPs
+
+6.6. Where a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
+
+6.7. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
+
+### PUPs
+
+6.8. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
+
+6.9. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council in 6.8: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
+
+6.10. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Voters. The Foundation will add Network IDs to the whitelist if 5% of Voters have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
+
+6.11. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
+
+
 #### Removing Voters
 
 4.11. Voters can be removed by the Council for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
@@ -127,7 +161,9 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Judiciary
 
-4.34. Any Voter can challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
+4.x. The judiciary functions of the Pocket Network are performed by Aragon Court. 
+
+4.x. Any Voter can challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
 ### Diplomatic & Regulatory / Nodes
 
@@ -148,35 +184,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes'decisions through their use of the blockchain in accordance with Article 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
 
-## 6. Proposals
 
-6.1. Proposers may initiate Signaling or Executive Votes for their proposal. They must specify which type of vote they are initiating.
-
-6.2. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of the Pocket Development Company will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
-
-### PIPs
-
-6.3. PIPs will not be permissible if they contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This is in place to prevent omnibus proposals, whereby unpopular proposals are pushed through by bundling them with popular proposals.
-
-6.4. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
-
-6.5. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
-
-### PEPs
-
-6.6. Where a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
-
-6.7. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
-
-### PUPs
-
-6.8. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
-
-6.9. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council in 6.8: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
-
-6.10. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Voters. The Foundation will add Network IDs to the whitelist if 5% of Voters have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
-
-6.11. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
 
 ## 7. Finances
 
@@ -310,7 +318,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Champion:** a trusted Voter who has been voted in by existing Champions via Supermajority Approval to vouch for new Voters, enabling trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game
 * **Constitution:** has the meaning set forth in the Preamble
-* **Consensus Attack:** an attack that: (a) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Council Blockchain Network; and (b) has the actual or intended effect of: (1) reversing any transaction made to or by the Council Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (2) preventing inclusion in blocks or Confirmation of any transaction made to or by the Council Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect.
+* **Consensus Attack:** an attack that: (a) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Council Blockchain Network; and (b) has the actual or intended effect of: (1) reversing any transaction made to or by the Council Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (2) preventing inclusion in blocks or Confirmation of any transaction made to or by the Council Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
@@ -326,7 +334,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Governance Stake:** POKT deposited with the On-Chain Council Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited.  
 * **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network, including the appointment or removal of directors or supervisors. 
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain Council Treasury funds, and/or changing parameters
-* **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy
 * **Legal Proceeding:** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
 * **Legislature:** the functions of the DAO responsible for decision-making
