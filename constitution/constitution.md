@@ -65,39 +65,6 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.2. The legislative function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Council members [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Article [] hereof; (b) holds and governs the Council Development Fund, which is the aggregate of all unspent POKT DevFund Awards allocated from POKT Block Awards; and (c) considers, holds votes with respect to and approves or denies Pocket Improvement Proposals (PIPs), Pocket Ecosystem Proposals (PEPs) and Parameter Update Proposals (PUPs). 
 
-#### Council Smart Contract
-
-4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council and Council members shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
-
-4.4 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, among the Council members, the results of operation of the Council Smart Contract shall be determinative of the rights and obligations of, and shall be final, binding upon and not permitted to be contested or disputed by, the Council and each of the Council members with respect to the Council and all matters relating to the Council or the Council members in their capacities as such, and shall not be contested (in a Legal Proceeding or otherwise) by any of them. The immediately preceding sentence shall not prohibit or limit any Legal Proceeding brought by or on behalf of the Council or any Council member(s) (the **Plaintiff(s)**) against the Council, any other Council member(s) or any other Person(s) (the **Defendant(s)**) to the extent that: 
-    (a)	a prohibition or limitation of such Legal Proceeding would be illegal or unenforceable under any applicable law; or
-    (b)	such Legal Proceeding: 
-        (i)	is based on or arises from a Material Adverse Exception Event that either: 
-            (A)	resulted directly or indirectly, in whole or in part, from the fraud, willful misconduct or knowing violation of any applicable Legal Requirement or applicable Order by the Defendant(s); or 
-            (B)	resulted directly ro indirectly in an improper personal benefit to the Defendant(s); and
-        (ii) Plaintiff(s) suffered or incurred Damages as a result of such Material Adverse Exception Event.
-        
-The provisions of this Article 4.4 shall continue to apply to a Person who was a Council member after such Person is no longer a Member.
-
-4.5  The following are Material Adverse Exception Events (**MAEEs**):
-    
-    (a)	a Consensus Attack that adversely affects or could reasonably be expeted to adversely affect the results or operations of the Council Smart Contract;
-    
-    (b)	a change to the Council Blockchain (or node software client or network referenced in defining the Council Blockchain) that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Blockchain or to result in a persistent contentious "hard fork” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain;
-    
-    (c)	a “chain reorganization” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Smart Contract;
-    
-    (d)	the Council Smart Contract having become inoperable, inaccessible or unusable, or any tokens under the control of such Designated Smart Contract having become permanently “frozen,” “stuck” or non-transferable, including as the result of any code library or repository incorporated by reference into such Designated Smart Contract or any other smart contract or oracle on which such Designated Smart Contract depends in whole or in part having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event--without limiting the foregoing, a cirumstance shall be deemed “permanent” if such condition would persist except in the event of a hardfork or chain reorganization that is not reasonably expected to occur in the near future;
-    
-    (e)	a material adverse effect on the use, functionality or performance of the Council Smart Contract as the result of a clear and manifest bug, defect or error in the source code of the Designated Smart Contract or a clear and manifest bug, defect or error in the compilation of such source code to bytecode, in each case, as evidenced by the failure of the Council Smart Contract to function in accordance with provisions of this Constitution that expressly pertain to the Council Smart Contract or by documentation or other evidence prepared contemporaneously with the Council Smart Contract source code demonstrating that the intended functioning of the Council Smart Contract differs materially from the actual functioning of the Council Smart Contract as a result of such bug, defect or error;
-    
-    (f)	any unauthorized use of an administrative function or privilege of the Council Smart Contract, including: (1) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (2) any unauthorized use of an administrative function or privilege by a Person who ordinarily is authorized to use such administrative function or privilege but in a single instance or series of instance exceeds such Person’s authority to use such administrative function or privilege; or
-
-    (g)	
-        (i) (A) the Council Smart Contract or any of Governance Stake or Council Development Fund or any other tokens held in or controlled by the Council Smart Contract becomes subject to an Order or applicable Legal Requirement that permanently or temporarily prohibits or restrains the Council Smart Contract (or that, if the Council Smart Contract were a Person, would prohibit or restrain the Council Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute in accordance with the Order or Legal Requirement or (B) permanently or temporarily orders or directs the Council Smart Contract (or that, if the Council Smart Contract were a Person, would order or direct the Council Smart Contract) to take an action or bring about a circumstance it would otherwise not reasonably be expected to take or bring about in accordance with the Order or Legal Requirement; or 
-        
-        (ii) the Council or any Council member becomes subject to an Order or applicable Legal Requirement requiring the Council or such Council member to cause the Council Smart contract to take or refrain from taking any action or requiring the Council or such Council member to take or refrain from taking any action with respect to any Governance Stake, Council Development Fund or other tokens held in or controlled by the Council Smart Contract, in each case, which it is not within the power of the Council or such Council member to comply with due to features of the Council Smart Contract or the Council Smart Contract Blockchain (alone or in combination with any other event or circumstance).
-
 #### Council Membership
 
 4.4. A Person shall be deemed to be a Council member if and only if such Person is a Voter. 
@@ -122,7 +89,6 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 4.10. Proposals to be voted upon by the Council must be submitted solely by Council members. The immediately preceding sentence shall not be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Article 4.8. 
 
-
 #### Removing Voters
 
 4.11. Voters can be removed by the Council for 5 violations of this Constitution. A Voter’s violation count is inclusive of:
@@ -146,84 +112,31 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 #### Nature & Functions of Foundation
 
-4.x. The executive function of the Pocket Network is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf. Without limiting the generality of the immediately following Article [4.x], the Foundation's objectives include the following:
+4.x. The executive function of the Pocket Network is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf (the **Foundation Articles**). Without limiting the generality of the immediately following Article [4.x], the Foundation's objectives include:
   * serving as a fiduciary agent of the Council
   * stewarding the Pocket Technologies and Pocket Network, including Pocket Core
   * requesting funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
 
-The following is only a summary of certain provisions of the Articles and is subordinated in its entirety to the full text of the Articles; in the event of any conflict or inconsistency between this Constitution and the Articles, the actual text of the Articles shall prevail: 
-    * The Articles refer to the Council as the "DAO" and require the Council's approval of substantially all actions of the Foundation, including the appointment and removal of Foundation directors and supervisor
-    * The Articles require the Foundation directors not to hold any administrative or other position in the Council (other than the position of geenral Council member by vritue of being a Voter) and to observe, implement, carry out and execute with best efforts any and all resolutions of the Council, except as otherwise required by their fiduciary duties and applicable law. 
-    * The Articles require the Foundation directors to provide the Council with notices and other information concerning the Foundation's business and affairs, the directors' discharge of their duties and exercise of their powers and such other information as may be erquired by the Council. 
+4.x.  The following is only a summary of certain provisions of the Articles and is subordinated in its entirety to the full text of the Articles; in the event of any conflict or inconsistency between this Constitution and the Articles, the actual text of the Articles shall prevail: 
+* The Articles refer to the Council as the "DAO" and require the Council's approval of substantially all actions of the Foundation, including the appointment and removal of Foundation directors and supervisor
+* The Articles require the Foundation directors not to hold any administrative or other position in the Council (other than the position of geenral Council member by vritue of being a Voter) and to observe, implement, carry out and execute with best efforts any and all resolutions of the Council, except as otherwise required by their fiduciary duties and applicable law. 
+* The Articles require the Foundation directors to provide the Council with notices and other information concerning the Foundation's business and affairs, the appointment/remove of alternate directors or secretaries, any resignations of directors or supervisors, the directors' discharge of their duties and exercise of their powers and such other information as may be required by the Council.
 
-4.x. 
-
-##### The Council’s Control of the Foundation
-
-4.18. New Directors/Supervisors will be appointed/removed according to PIPs approved by the Council. 
-
-##### Transparency
-
-4.19. The Foundation's Articles compel the agents of the Foundation to give full notice to the Council concerning:
-  * Any appointment/removal of Alternate Directors and/or Secretaries
-  * Any resignations of Directors and/or Supervisors
-
-##### Right to Refuse
-
-4.20. The Directors and Supervisors of the Foundation can refuse the Council's decisions subject to the limitations imposed on them by the law and their duty to steward the Pocket Technologies and Pocket Network. If they refuse without cause, the Council may remove them.
-
-##### Qualified Code Deference and the Foundation's Custodial Rights & Responsibilities
-
-4.21. The Foundation shall serve as a fiduciary agent of the Council, to serve at the pleasure of the Council until such agency is revoked by the Council.
-
-
-4.23. If any User becomes aware that there is a MAEE, such User (the "Sending Party") shall deliver to the Foundation a notice (an "Exception Notice") signed by such User:
-  * Certifying that the Sending Party believes in good faith that there is a MAEE;
-  * Describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief;
-  * Containing a representation by the Sending Party, made to and for the benefit of the Foundation with the understanding that the Foundation will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
-
-4.24. If the Foundation disputes the existence of a MAEE, then the Foundation shall promptly deliver a written notice of such non-acceptance, an "Exception Response Notice", to the Sending Party. The Exception Response Notice shall include the same categories of information, statements, evidence and representations and warranties as would be required for an Exception Notice, mutatis mutandis. The Sending Party may then lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
-
-4.25. If the Foundation agrees with the contents of the Exception Notice, upon receiving an Exception Notice, the Foundation shall deposit the DAO's funds into a multi-signature account owned by all of the Directors of the Foundation, to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the DAO, until the Council enters into an Exception Handling Addendum.
-
-4.25. After depositing the funds into the trust, the Foundation must then within 14 days (unless 4.22 applies) publish a planned response to the MAEE (an "Exception Handling Proposal"):
-  * Describing in reasonable detail a proposal by the Foundation of the actions to be taken, the agreements to be entered into, and the remedies to be sought by the Users involved;
-  * Including copies of any written evidence or other material written information, and summaries of any other evidence, relevant to, and material for the consideration of, the MAEE and the other matters referred to in the Exception Notice.
-
-4.26. If the Foundation fears that details of the MAEE may be exploited and cause further harm to Users, they may do any of the following:
-  * Publish their Exception Handling Proposal to a private channel containing only Voters;
-  * Publish an Exception Handling Proposal that excludes exploitable details, to be followed by publication of such details only when the fix is ready to be deployed;
-  * Secretly deploy fixes to the MAEE, only if such fixes do not amend Pocket Core’s consensus rules or undermine practical adherence to this Constitution, and under the understanding that such fixes may be replaced by the Council once the MAEE has been resolved.
-
-4.27. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signalled approval of the Proposal, represented by at least 50% of Stakeholders from the previous On-Chain DAO Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
-
-4.28. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
-
-4.29. If the Council disputes the existence of a MAEE, or does not wish to accept all or any part of the Foundation's Exception Handling Proposal, then the Council may simply abstain from depositing a Governance Stake into the Foundation's custodial trust account. If after 14 days at least 50% of the Council has neglected to signal support of the Proposal, and the Foundation refuses to return the DAO's funds to the original account, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
-
-#### Access Control List (ACL)
-
-##### Extensibility, Automation & the Signaling Era
-
-4.30. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between the Pocket Network and the Council's Aragon Agent (or a similar smart contract representative). The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era.
-
-##### Executive Veto During & After the Signaling Era
-
-4.31. During the Signaling Era, the Foundation will retain a veto on all Governance Transactions as a failsafe. This veto falls within their Right to Refuse as part of their duty to steward the Pocket Network.
-
-4.32. After the Signaling Era, the Foundation will still retain the right to veto (and the responsibility to sign) Governance Transactions that may involve parties who have not consented to this Constitution per ‘Informed Consent’. Before the Signaling Era officially ends, mechanisms must be developed that enable the Foundation to execute their custodial responsibilities in response to MAEEs, per ‘Qualified Code Deference and the Foundation's Custodial Rights & Responsibilities’.
-
-##### Transaction Batching
-
-4.33. By default, the Foundation will batch Governance Transactions on a weekly basis, unless an alternative schedule is specified in this Constitution.
 
 ### Judiciary
 
 4.34. Any Voter can challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
-### Citizens
+### Diplomatic & Regulatory / Nodes
 
-4.35. As the actors responsible for transaction finalization in Pocket Core, Validator Nodes have the power to overthrow the government apparatus of the Pocket Network (outlined as the above Legislature, Executive, and Judiciary functions). They are trusted to represent the citizenry (Users) of the Pocket Network because their Block Reward is tied directly to the number of relays being processed for developers (i.e. User usage). The Council must never approve Protocol Upgrades that would decouple this incentive alignment.
+4.2. The diplomatic and regulatory functions of the Pocket Network are performed by the Nodes. Nodes receive, transmit and propagate transactions and data through the Pocket Network, between the Pocket Network and other blockchain networks and between applications and the Pocket Network and other blockchain networks. Validator Nodes enforce the Pocket Protocol and ensure the Pocket Blockchain conforms to its rules by proposing blocks and validating the blocks proposed by other Validator Nodes. 
+
+4.x Each Node, solely by connecting to the Pocket Network, shall be deemed to consent in all respects to the Pocket Protocol, the results of operations of which shall be final and binding upon each Node. Without limiting the foregoing, each Validator Node shall be deemed to consent in all respects to the slashing of such Validator Node's staked POKT in accordance with the Pocket Protocol and hereby waives, relinquishes and releases any and all claim against any Person arising from the loss of staked POKT in accordance with the Pocket Protocol. 
+
+### Citizens / Users
+
+4.x The citizenry of the Pocket Network are end-Users in their capacities as such. End-Users utilize, rely upon and ejoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. End-Users may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Poket Network or its Nodes. 
+
 
 ## 5. Liability
 
@@ -410,7 +323,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Stake:** POKT deposited with the On-Chain DAO Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited.  
-* **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network
+* **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network, including the appointment or removal of directors or supervisors. 
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring On-Chain DAO Treasury funds, and/or changing parameters
 * **Judiciary:** the functions of the DAO responsible for enforcing the rules encoded in this Constitution
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy
@@ -479,3 +392,85 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * The comments of Michael O’Rourke, Dermot O’Riordan, Nelson Ryan, Stéphane Gosselin, Adam Liposky, Gabriel Shapiro, Lawrence Lundy-Bryan, Philippe Honigman, Louis Giraux, Felix Machart, Xule Lin, and John Light.
 * The legal advice of Ryan Williams and Ashok Ayyar of Ashbury Legal, and Michael Robinson and Bradley Kruger of Ogier, in designing the Pocket Network Foundation (Foundation).
 * Parts of the Statutes have leveraged a Qualified Code Deference template by Gabriel Shapiro, but this does not constitute an attorney-client relationship.
+
+
+
+[cache: 
+#### Council Smart Contract
+
+4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council and Council members shall utilize the Council Smart Contract as the exclusive method of: (a) holding and governing the Council Development Fund, (b) admitting and expelling Council members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
+
+4.4 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, among the Council members, the results of operation of the Council Smart Contract shall be determinative of the rights and obligations of, and shall be final, binding upon and not permitted to be contested or disputed by, the Council and each of the Council members with respect to the Council and all matters relating to the Council or the Council members in their capacities as such, and shall not be contested (in a Legal Proceeding or otherwise) by any of them. The immediately preceding sentence shall not prohibit or limit any Legal Proceeding brought by or on behalf of the Council or any Council member(s) (the **Plaintiff(s)**) against the Council, any other Council member(s) or any other Person(s) (the **Defendant(s)**) to the extent that: 
+    (a)	a prohibition or limitation of such Legal Proceeding would be illegal or unenforceable under any applicable law; or
+    (b)	such Legal Proceeding: 
+        (i)	is based on or arises from a Material Adverse Exception Event that either: 
+            (A)	resulted directly or indirectly, in whole or in part, from the fraud, willful misconduct or knowing violation of any applicable Legal Requirement or applicable Order by the Defendant(s); or 
+            (B)	resulted directly ro indirectly in an improper personal benefit to the Defendant(s); and
+        (ii) Plaintiff(s) suffered or incurred Damages as a result of such Material Adverse Exception Event.
+        
+The provisions of this Article 4.4 shall continue to apply to a Person who was a Council member after such Person is no longer a Member.
+
+4.5  The following are Material Adverse Exception Events (**MAEEs**):
+    
+    (a)	a Consensus Attack that adversely affects or could reasonably be expeted to adversely affect the results or operations of the Council Smart Contract;
+    
+    (b)	a change to the Council Blockchain (or node software client or network referenced in defining the Council Blockchain) that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Blockchain or to result in a persistent contentious "hard fork” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain;
+    
+    (c)	a “chain reorganization” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Smart Contract;
+    
+    (d)	the Council Smart Contract having become inoperable, inaccessible or unusable, or any tokens under the control of such Designated Smart Contract having become permanently “frozen,” “stuck” or non-transferable, including as the result of any code library or repository incorporated by reference into such Designated Smart Contract or any other smart contract or oracle on which such Designated Smart Contract depends in whole or in part having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event--without limiting the foregoing, a cirumstance shall be deemed “permanent” if such condition would persist except in the event of a hardfork or chain reorganization that is not reasonably expected to occur in the near future;
+    
+    (e)	a material adverse effect on the use, functionality or performance of the Council Smart Contract as the result of a clear and manifest bug, defect or error in the source code of the Designated Smart Contract or a clear and manifest bug, defect or error in the compilation of such source code to bytecode, in each case, as evidenced by the failure of the Council Smart Contract to function in accordance with provisions of this Constitution that expressly pertain to the Council Smart Contract or by documentation or other evidence prepared contemporaneously with the Council Smart Contract source code demonstrating that the intended functioning of the Council Smart Contract differs materially from the actual functioning of the Council Smart Contract as a result of such bug, defect or error;
+    
+    (f)	any unauthorized use of an administrative function or privilege of the Council Smart Contract, including: (1) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (2) any unauthorized use of an administrative function or privilege by a Person who ordinarily is authorized to use such administrative function or privilege but in a single instance or series of instance exceeds such Person’s authority to use such administrative function or privilege; or
+
+    (g)	
+        (i) (A) the Council Smart Contract or any of Governance Stake or Council Development Fund or any other tokens held in or controlled by the Council Smart Contract becomes subject to an Order or applicable Legal Requirement that permanently or temporarily prohibits or restrains the Council Smart Contract (or that, if the Council Smart Contract were a Person, would prohibit or restrain the Council Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute in accordance with the Order or Legal Requirement or (B) permanently or temporarily orders or directs the Council Smart Contract (or that, if the Council Smart Contract were a Person, would order or direct the Council Smart Contract) to take an action or bring about a circumstance it would otherwise not reasonably be expected to take or bring about in accordance with the Order or Legal Requirement; or 
+        
+        (ii) the Council or any Council member becomes subject to an Order or applicable Legal Requirement requiring the Council or such Council member to cause the Council Smart contract to take or refrain from taking any action or requiring the Council or such Council member to take or refrain from taking any action with respect to any Governance Stake, Council Development Fund or other tokens held in or controlled by the Council Smart Contract, in each case, which it is not within the power of the Council or such Council member to comply with due to features of the Council Smart Contract or the Council Smart Contract Blockchain (alone or in combination with any other event or circumstance).
+
+4.23. If any User becomes aware that there is a MAEE, such User (the "Sending Party") shall deliver to the Foundation a notice (an "Exception Notice") signed by such User:
+  * Certifying that the Sending Party believes in good faith that there is a MAEE;
+  * Describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief;
+  * Containing a representation by the Sending Party, made to and for the benefit of the Foundation with the understanding that the Foundation will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
+
+4.24. If the Foundation disputes the existence of a MAEE, then the Foundation shall promptly deliver a written notice of such non-acceptance, an "Exception Response Notice", to the Sending Party. The Exception Response Notice shall include the same categories of information, statements, evidence and representations and warranties as would be required for an Exception Notice, mutatis mutandis. The Sending Party may then lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
+
+4.25. If the Foundation agrees with the contents of the Exception Notice, upon receiving an Exception Notice, the Foundation shall deposit the DAO's funds into a multi-signature account owned by all of the Directors of the Foundation, to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the DAO, until the Council enters into an Exception Handling Addendum.
+
+4.25. After depositing the funds into the trust, the Foundation must then within 14 days (unless 4.22 applies) publish a planned response to the MAEE (an "Exception Handling Proposal"):
+  * Describing in reasonable detail a proposal by the Foundation of the actions to be taken, the agreements to be entered into, and the remedies to be sought by the Users involved;
+  * Including copies of any written evidence or other material written information, and summaries of any other evidence, relevant to, and material for the consideration of, the MAEE and the other matters referred to in the Exception Notice.
+
+4.26. If the Foundation fears that details of the MAEE may be exploited and cause further harm to Users, they may do any of the following:
+  * Publish their Exception Handling Proposal to a private channel containing only Voters;
+  * Publish an Exception Handling Proposal that excludes exploitable details, to be followed by publication of such details only when the fix is ready to be deployed;
+  * Secretly deploy fixes to the MAEE, only if such fixes do not amend Pocket Core’s consensus rules or undermine practical adherence to this Constitution, and under the understanding that such fixes may be replaced by the Council once the MAEE has been resolved.
+
+4.27. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signalled approval of the Proposal, represented by at least 50% of Stakeholders from the previous On-Chain DAO Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
+
+4.28. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
+
+4.29. If the Council disputes the existence of a MAEE, or does not wish to accept all or any part of the Foundation's Exception Handling Proposal, then the Council may simply abstain from depositing a Governance Stake into the Foundation's custodial trust account. If after 14 days at least 50% of the Council has neglected to signal support of the Proposal, and the Foundation refuses to return the DAO's funds to the original account, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
+
+
+
+
+#### Access Control List (ACL)
+
+##### Extensibility, Automation & the Signaling Era
+
+4.30. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between the Pocket Network and the Council's Aragon Agent (or a similar smart contract representative). The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era.
+
+##### Executive Veto During & After the Signaling Era
+
+4.31. During the Signaling Era, the Foundation will retain a veto on all Governance Transactions as a failsafe. This veto falls within their Right to Refuse as part of their duty to steward the Pocket Network.
+
+4.32. After the Signaling Era, the Foundation will still retain the right to veto (and the responsibility to sign) Governance Transactions that may involve parties who have not consented to this Constitution per ‘Informed Consent’. Before the Signaling Era officially ends, mechanisms must be developed that enable the Foundation to execute their custodial responsibilities in response to MAEEs, per ‘Qualified Code Deference and the Foundation's Custodial Rights & Responsibilities’.
+
+##### Transaction Batching
+
+4.33. By default, the Foundation will batch Governance Transactions on a weekly basis, unless an alternative schedule is specified in this Constitution.
+
+
+]
