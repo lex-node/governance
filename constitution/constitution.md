@@ -352,14 +352,14 @@ For outgoing payments to recipients who may have not consented to this Constitut
   * **Transfers:** transferring funds to addresses that facilitate the above
   * **Agreements:** formal understandings of Contributor relationships, including non-financial in nature
 * **Pocket Improvement Proposal (PIP):** proposals to upgrade any facet of the Pocket Network, including Protocol Upgrades and Governance Upgrades
-* **Pocket Network:** the network recognized as having "netid: mainnet" by [any of][at least a majority of] the following seed nodes:     
+* **Pocket Network:** the network recognized as having "netid: mainnet" by [any of][at least a majority of][NOTE TO TEAM: ANY PREFERENCE?] the following seed nodes:     
     * b3d86cd8ab4aa0cb9861cb795d8d154e685a94cf@seed1.testnet.pokt.network:26656 
     * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
     * f99386c6d7cd42a486c63ccd80f5fbea68759cd7@seed3.testnet.pokt.network:26656
 * **Pocket Network Foundation** or **Foundation**: the Pocket Network Foundation, a Cayman Islands foundation company limited by guarantee
 * **Stakeholder:** any Party who has had a Governance Stake for at least the Maturation Period. []
 * **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
-* **Pocket Technologies:** /placeholder/ [NOTE TO SELF: GLOBAL REVIEW OF "POCKET NETWORK" vs. "POCKET TECHNOLOGIES" and where each is appropriate]
+* **Pocket Technologies:** Pocket Core and the other software and technologies integral to the Pocket Network or Pocket Blockchain, including all software at https://github.com/pokt-network. 
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain 
 * **POKT Block Reward:** the POKT that is automatically minted in accordance with the Pocket Protocol every time a proposed block is validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
 * **POKT DevFund Award:** the portion of each POKT Block Reward that is [automatically] allocated to the Council [Smart Contract] [NOTE TO DRAFT: mechanics of how POKT rewards get controlled by Council to be discussed given cross-chain dynamics etc.]
