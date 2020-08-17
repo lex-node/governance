@@ -117,6 +117,8 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
   * stewarding the Pocket Technologies and Pocket Network, including Pocket Core
   * requesting funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
 
+#### Foundation Articles; Responsibility to Council
+
 4.x.  The following is only a summary of certain provisions of the Articles and is subordinated in its entirety to the full text of the Articles; in the event of any conflict or inconsistency between this Constitution and the Articles, the actual text of the Articles shall prevail: 
 * The Articles refer to the Council as the "DAO" and require the Council's approval of substantially all actions of the Foundation, including the appointment and removal of Foundation directors and supervisor
 * The Articles require the Foundation directors not to hold any administrative or other position in the Council (other than the position of geenral Council member by vritue of being a Voter) and to observe, implement, carry out and execute with best efforts any and all resolutions of the Council, except as otherwise required by their fiduciary duties and applicable law. 
@@ -133,7 +135,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.x Each Node, solely by connecting to the Pocket Network, shall be deemed to consent in all respects to the Pocket Protocol, the results of operations of which shall be final and binding upon each Node. Without limiting the foregoing, each Validator Node shall be deemed to consent in all respects to the slashing of such Validator Node's staked POKT in accordance with the Pocket Protocol and hereby waives, relinquishes and releases any and all claim against any Person arising from the loss of staked POKT in accordance with the Pocket Protocol. 
 
-### Citizens / Users
+### Citizenry / Users
 
 4.x The citizenry of the Pocket Network are end-Users in their capacities as such. End-Users utilize, rely upon and ejoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. End-Users may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Poket Network or its Nodes. 
 
@@ -334,7 +336,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
 * **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network
 * **On-Chain:** any activity that is directly or indirectly reflected in information included in the Pocket Blockhain
-* **On-Chain DAO Treasury:** an account which holds the DAO’s common funds on Pocket Core, funded by Pocket Core’s Block Reward, and whose control is determined by the ACL
+* **On-Chain DAO Treasury:** the account designated by the Council to hold POKT DevFund Awards. The initial On-Chain DAO Treasury is address 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. 
 * **Ownerless Foundation:** a foundation which has no members, shareholders or other equity holders 
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
