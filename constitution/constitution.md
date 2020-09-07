@@ -250,7 +250,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Council Multisig:** the address designated by the Council to hold Governance Stakes during the Signaling Era, which is currently 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. The Council Multisig is controlled by the ACL. 
 * **Council On-Chain Treasury:** the account designated by the Council to hold POKT DevFund Awards. The initial Council On-Chain Treasury is address 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. 
 * **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
-* **Council Smart Contract:** : (a) shall initially be the source code at https://rinkeby.etherscan.io/address/0x954Ef520DD4B969C5fd3709Bbf8b258A871639dd#code as deployed to 0x6581bFd757FF2a3333F9DD2c49C6A5CBb31C5633 as deployed on the Ethereum Rinkelby Testnet; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time
+* **Council Smart Contract:** : (a) shall initially be the source code at https://rinkeby.etherscan.io/address/0x954Ef520DD4B969C5fd3709Bbf8b258A871639dd#code as deployed to 0x6581bFd757FF2a3333F9DD2c49C6A5CBb31C5633 as deployed on the Council Blockchain; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
 * **Executive:** the functions of the Pocket DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
@@ -260,8 +260,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy
 * **Legal Proceeding:** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
 * **Legislature:** the functions of the Pocket DAO responsible for decision-making
-* **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
-* **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
+* **Majority Approval:** 50% Approval and 50% Quorum from Council Members on a proposal. 
 * **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network
 * **On-Chain:** any activity that is directly or indirectly reflected in information included in the Pocket Blockchain
 * **Ownerless Foundation:** a foundation which has no members, shareholders or other equity holders 
@@ -292,13 +291,14 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **POKT Block Reward:** the POKT that is automatically minted in accordance with the Pocket Protocol every time a proposed block is validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
 * **POKT DevFund Award:** the portion of each POKT Block Reward that is allocated to the Council On-Chain Treasury in accordance with the Pocket Protocol. 
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
+* **Quorum:** the minimum percentage of Voting Tokens held by Council Members that must have been voted to approve, reject or abstain on a proposal in order for such proposal to be eligible for approval or rejection.
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Seed Node:** a Node (other than a Validator Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
 * **Stakeholder:** any Party who has a valid Governance Stake.
-* **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
-* **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
+* **Supermajority Approval:** 80% Support and 50% Quorum from Council Members. 
+* **Support:** the minimum percentage of Voting Tokens held by Council Members comprising a Quorum that must have been voted to approve a proposal in order for such proposal to be considered approved.
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
 * **Unbonding Period:** the period of time that an App or Node must wait after revoking their Bonded status to receive their staked POKT
 * **User:** has the definition set forth in Article 2.1.
