@@ -172,20 +172,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 8.1. This Constitution may be amended according to Majority Approval in the PIP process, unless otherwise specified in ‘Immutability’ and ‘Undo’ below.
 
-#### Immutability
-
-8.2. No Constitution amended to modify clauses or definitions marked with a ‡ will be accepted under any circumstance except per 8.6. 
-
-8.3. Constitutions amended to introduce a ‡ will be accepted if they have first received Supermajority Approval by way of a Signaling Vote as part of the PIP process.
-
-8.4. No Constitution amended to modify clauses or definitions marked with a †, or to introduce a †, will be accepted unless the proposed amendment has first received Supermajority Approval by way of a Signaling Vote as part of the PIP process.
-
-8.5. For the avoidance of doubt, uploading the amended Constitution via the Aragon Agreements app initiates an Executive Vote, which will be rejected if not preceded by a successful Signaling Vote.
-
-#### Undo
-
-8.6. At any time, a supermajority vote may reverse the latest constitutional amendment (but no amendment that has been superseded by a new version). This "undo" mechanism shall prevail over the immutability mechanisms.
-
 #### Executing Constitutional Amendments
 
 8.7. All relevant permission holders must act to execute new versions of the Constitution by updating Pocket Core and/or relevant off-chain tools, platforms, or mechanisms, within 7 days, or else they will be removed from the permissions they hold.
