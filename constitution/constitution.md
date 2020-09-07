@@ -109,12 +109,12 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 4.24. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of [Council Members] [SHOULD THIS INSTEAD REFER TO VALIDATOR NODES?]. The Foundation will add Network IDs to the whitelist if 5% of [Council Members] have configured their App or Node to include the Network ID. [HOW DO WE KNOW ALL COUNCIL MEMBERS HAVE AN ‘APP OR NODE’? SEEMS LIKE THIS SHOULD JUST BE DECIDED BY VALIDATOR NODES, NOT NECESSARILY ONES THAT ALSO ARE COUNCIL MEMBERS] PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
 4.25. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
 #### Removing Council Members
-4.11. Council Members can be removed by the Council for 5 violations of this Constitution. A Council Member’s violation count is inclusive of:
+4.11. Council Members can be removed by the Council for [5 violations of this Constitution] [WHY MAKE IT SO CONSTRAINED? I THINK THE COUNCIL SHOULD BE ALLOWED TO REMOVE A COUNCIL MEMBER BY MAJORITY VOTE OR SUPERMAJORITY VOTE (PICK YOUR POISON—I GUESS IT SHOULD MATCH THE RE-ADMITTANCE STANDARD IN THE NEXT SECTION (SO, SUPERMAJORITY VOTE)).]. A Council Member’s violation count is inclusive of:
   * **settlements** = 0.5 violations
   * **lost Aragon Court rulings** = 1 violation
   * **violation of Principles** = 2 violations, where an action will qualify as violating the Principles if it is successfully challenged on such grounds by any other member of the Council using Aragon Agreements, and a vote in favor of an action will retroactively qualify as violating the Principles if deemed so by Supermajority Approval in a Signaling Vote.
 
-4.12. Council Members who were removed pursuant to the preceding Article 4.11 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote.
+4.12. Council Members who were removed pursuant to the preceding Article 4.11 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote. 
 
 #### Right to Exit
 
@@ -122,12 +122,11 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 
 #### Redeeming/Burning Governance Stakes
 
-4.14. If a Council Member burns their own token, their Governance Stake will be redeemed; if a Council Member has their token burned by the Council, their Governance Stake will be forfeited (burned).
+4.14. If a Council Member burns such a Voting Token, the corresponding Governance Stake will be redeemed and returned to such Council Member. If a Council Member has a Voting Token burned by the Council in compliance with this Constitution, the corresponding Governance Stake will be forfeited (burned).
 
 4.15. Whichever account has the Council On-Chain Treasury permissions will be responsible for executing redemptions/burning.
 
 ### Executive / Foundation
-
 #### Nature & Functions of Foundation
 
 4.x. The executive function of the Pocket Network is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf (the **Foundation Articles**). Without limiting the generality of the immediately following Article [4.x], the Foundation's objectives include:
