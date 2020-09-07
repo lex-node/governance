@@ -58,17 +58,13 @@ The members of the Pocket DAO are united together in the mission to build censor
 
 #### Council Membership
 4.4. A Person shall be deemed a **Council Member** if and only if: (a) such Person has deposited POKT into the Council Smart Contract to create a Governance Stake; (b) such Governance Stake is active; and (c) such Person has minted and continues to hold and control one or more Voting Tokens with respect to such Governance Stake. 
-4.5. The Governance Stake of a Person shall be deemed active if and only if: 
-    (a) the Maturation Period with respect to such Governance Stake has elapsed; and 
-    (b) at least one of the following conditions precedent is satisfied with respect thereto:
-        (i) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Council Champion [(which voucher has not been revoked)]); or
-        (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the Council On-Chain Treasury (or the relevant temporary trust, if applicable) with respect to which Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Council Members at such time). 
+4.5. The Governance Stake of a Person shall be deemed active if and only if at least one of the following conditions precedent is satisfied with respect thereto:
+        (a) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Council Champion [(which voucher has not been revoked)]); or
+        (b) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the Council On-Chain Treasury (or the relevant temporary trust, if applicable) with respect to which Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Council Members at such time). 
         [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threshold)?]
 
 4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordance with any applicable laws of property escheatment; (iii) left indefinitely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 4.8. Each Council Member shall vote his, her or its Voting Shares and otherwise exercise the rights, powers and perquisites of a Council Member on a reasonably informed basis and in good faith, taking into account the Pocket Principles. Each Council Member shall not sell his, her or its Voting Shares or any of the other rights, powers and perquisites of being a Council Member or accept any compensation, reward, reimbursement or incentive for voting such Council Member's Voting Shares or using such rights, powers and perquisites. 
-4.9. Additional fees, staking requirements or other conditions or obligations of Council Membership may be approved by the Council at any time, such as in connection with Aragon Agreements.
-
 #### Council Proposals
 
 4.10. Proposals to be voted upon by the Council must be submitted solely by Council Members. The immediately preceding sentence shall not be deemed to limit the right, power or discretion of a Council Member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council Member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Section 4.8. 
@@ -83,8 +79,7 @@ The members of the Pocket DAO are united together in the mission to build censor
 4.16. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
 ### PEPs
 4.17. **Pocket Ecosystem Proposals (PEPs)** are proposals to provide funding out of the Council On-Chain Treasury to or form agreements with other Pocket DAO participants. 
-4.18. If a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
-4.19. Because the Pocket DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
+4.18. Because the Pocket DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
 ### PUPs
 4.20.**Parameter Update Proposals (PUPs)**  are proposals to change the value of a given parameter of the Pocket Blockchain, including proposals to change: 
     (a) the monetary policy of the Pocket Blockchain (i.e., economic parameters such as BaseRelaysPerPOKT and StabilityAdjustment);
@@ -105,11 +100,7 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 4.24. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of [Council Members] [SHOULD THIS INSTEAD REFER TO VALIDATOR NODES?]. The Foundation will add Network IDs to the whitelist if 5% of [Council Members] have configured their App or Node to include the Network ID. [HOW DO WE KNOW ALL COUNCIL MEMBERS HAVE AN ‘APP OR NODE’? SEEMS LIKE THIS SHOULD JUST BE DECIDED BY VALIDATOR NODES, NOT NECESSARILY ONES THAT ALSO ARE COUNCIL MEMBERS] PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
 4.25. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
 #### Removing Council Members
-4.26. Council Members can be removed by the Council for [5 violations of this Constitution] [WHY MAKE IT SO CONSTRAINED? I THINK THE COUNCIL SHOULD BE ALLOWED TO REMOVE A COUNCIL MEMBER BY MAJORITY VOTE OR SUPERMAJORITY VOTE (PICK YOUR POISON—I GUESS IT SHOULD MATCH THE RE-ADMITTANCE STANDARD IN THE NEXT SECTION (SO, SUPERMAJORITY VOTE)).]. A Council Member’s violation count is inclusive of:
-  * **settlements** = 0.5 violations
-  * **lost Aragon Court rulings** = 1 violation
-  * **violation of Principles** = 2 violations, where an action will qualify as violating the Principles if it is successfully challenged on such grounds by any other member of the Council using Aragon Agreements, and a vote in favor of an action will retroactively qualify as violating the Principles if deemed so by Supermajority Approval in a Signaling Vote.
-
+4.26. Council Members can be removed by the Council for [5 violations of this Constitution] [WHY MAKE IT SO CONSTRAINED? I THINK THE COUNCIL SHOULD BE ALLOWED TO REMOVE A COUNCIL MEMBER BY MAJORITY VOTE OR SUPERMAJORITY VOTE (PICK YOUR POISON—I GUESS IT SHOULD MATCH THE RE-ADMITTANCE STANDARD IN THE NEXT SECTION (SO, SUPERMAJORITY VOTE)).]. 
 4.27. Council Members who were removed pursuant to the preceding Article 4.11 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote. 
 
 #### Right to Exit
@@ -136,10 +127,9 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 
 
 ### Judiciary
-
 4.33. The judiciary functions of the Pocket DAO are performed by Aragon Court. 
+4.34. Any Council Member may challenge actions, if they think the action violates this Constitution. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
-4.34. Any Council Member may challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
 ### Diplomatic & Regulatory / Nodes
 
@@ -186,7 +176,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 #### Upgrading the Council
 
-8.10. Until an Aragon Agent (or similar smart contract representative) can own root permissions in the Council's existing platforms, the Foundation will hold these permissions and will therefore be responsible for any Council upgrades that have been approved in the PIP process.
+8.10. The Foundation will hold these permissions and will therefore be responsible for any Council upgrades that have been approved in the PIP process.
 
 8.11. If an upgrade involves introducing a new platform, which may use different addresses, the Foundation will be responsible for configuring the new platform, which Council Members will join by re-staking their Governance Stake with their new addresses in the transaction memo.
 
@@ -205,14 +195,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 ## 9. Initialization
 
 9.1. No decision by the Council shall be legitimate until the founding Council Members have unanimously approved this Constitution. [NOTE: HAS THIS OCCURRED?]
-
-9.2. The following bootstrap measures will be in place until a Majority vote overrules them:
-  * The Council shall use the Ethereum Rinkeby testnet;
-  * All instances of Conviction Voting in the Constitution will be replaced by Majority Approval voting;
-  * In all instances where Council Members enforce this Constitution using Aragon Agreements, PNI will instead take on the responsibility using Aragon Approvals;
-  * To reduce the friction of onboarding the first Council Members, the Maturation Period for Governance Stakes will not be required.
-
-9.3. The Council’s signaling of pricing preferences (6.8) will not begin until Aragon’s Conviction Voting apps are available for operation and the rate of growth of the Block Reward has been negative for a continuous period of 7 days. Until this happens, the Foundation has unbounded discretion in 6.9.
 
 9.4. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
@@ -249,7 +231,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 3.1. Unless otherwise stated in this Constitution, any controversy between members of the Council arising out of or in connection with this Constitution shall be submitted to Aragon Court for resolution under its public arbitration rules, as amended from time to time.
 
-3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, meaning they are made disputable by Aragon Agreements, must be submitted before the action executes; if not, the controversy shall be deemed resolved in favor of the action. [?]
+3.2. Controversies arising out of or in connection with actions that are bound programmatically to this Constitution, must be submitted before the action executes; if not, the controversy shall be deemed resolved in favor of the action. [?]
 
 3.3. In the event that Aragon Court is not accessible, the Foundation shall refer the dispute to the International Chamber of Commerce for arbitration according to their rules. 
 
@@ -262,8 +244,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 # Definitions
 
 * **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the Council On-Chain Treasury, burning funds in the Council On-Chain Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
-* **Aragon Agent:** a smart contract representative of an Aragon organization, enabling the organization to interact as one entity with external smart contracts and protocols
-* **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the Pocket DAO
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
 * **Bonded:** the state of an App or Node that has staked POKT
@@ -271,9 +251,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Constitution:** has the meaning set forth in the Preamble
 * **Consensus Attack:** an attack that: (a) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Council Blockchain Network; and (b) has the actual or intended effect of: (1) reversing any transaction made to or by the Council Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (2) preventing inclusion in blocks or Confirmation of any transaction made to or by the Council Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect
 * **Contributors:** anyone who is doing work in service of the Pocket DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
-* **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
-* **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
-* **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
 * **Council:** the unincorporated nonprofit association of Council Members, also known as "The Pocket Network Council"
 * **Council Blockchain:** the blockchain designated by the Council for deployment of the Council Smart Contract. The initial Council Blockchain is the Ethereum mainnet--i.e., the blockchain with "chainID:1" on "networkID:1" as recognized by a majority of nodes running Go Ethereum, the Official Golang implementation of the Ethereum protocol at https://github.com/ethereum/go-ethereum. There shall be only one Council Blockchain at any given time
 * **Council Champion:** a person who has been voted to become eligible to become a Council Member by a [current] Trusted Account Holder [NOTE: DO THEY HAVE TO CHAMPIONS OR CAN THEY BE ANY COUNCIL MEMBERS?] via Supermajority Approval. The Council Champion designation is intended to enable trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game. 
@@ -291,14 +268,13 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Legal Proceeding:** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
 * **Legislature:** the functions of the Pocket DAO responsible for decision-making
 * **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
-* **Maturation Period:** the period of 30,240 blocks (~21 days) that must elapse before a Governance Stake may become active
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
 * **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network
 * **On-Chain:** any activity that is directly or indirectly reflected in information included in the Pocket Blockchain
 * **Ownerless Foundation:** a foundation which has no members, shareholders or other equity holders 
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
-* **Permission Holders:** Pocket DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
+* **Permission Holders:** Pocket DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform designated for such purpose.
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
 * **Pocket Blockchain:** at each time, the blockchain with "id:0001" that has been most recently validated by the Validator Nodes on the Pocket Network in accordance with the Pocket Protocol.
 * **Pocket Community Game:** a series of gamified Pocket DAO community quests with levels that can be achieved by completing a set of tasks
@@ -317,7 +293,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
     * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
     * f99386c6d7cd42a486c63ccd80f5fbea68759cd7@seed3.testnet.pokt.network:26656
 * **Pocket Network Foundation** or **Foundation**: the Pocket Network Foundation, a Cayman Islands foundation company limited by guarantee
-* **Stakeholder:** any Party who has had a Governance Stake for at least the Maturation Period. []
+* **Stakeholder:** any Party who has a valid Governance Stake.
 * **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
 * **Pocket Technologies:** Pocket Core and the other software and technologies integral to the Pocket Network or Pocket Blockchain, including all software at https://github.com/pokt-network. 
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain 
@@ -326,7 +302,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Seed Node:** a Node (other than a Validator Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
-* **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
 * **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
@@ -419,7 +394,7 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 ##### Extensibility, Automation & the Signaling Era
 
-4.30. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between the Pocket Network and the Council's Aragon Agent (or a similar smart contract representative). The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era.
+4.30. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between the Pocket Network and a smart contract system to be designated by the Council in the future together with appropriate amendments to this Constitution. The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era.
 
 ##### Executive Veto During & After the Signaling Era
 
