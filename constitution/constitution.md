@@ -1,10 +1,10 @@
 [DRAFTING NOTES:
 
-    1. waiting for feedback from team, but I likely need to revise the new  code deference provisions re: Council smart contract since they are currently using rinkleby smart contract with manual approval of vote minting, etc.; possibly will bifurcate between current and future arrangement and provide code-deference structure for the latter that kicks in if/when activated by council 
+    1. waiting for feedback from team, but I likely need to revise the new  code deference provisions re: Council smart contract since they are currently using Rinkelby smart contract with manual approval of vote minting, etc.; possibly will bifurcate between current and future arrangement and provide code-deference structure for the latter that kicks in if/when activated by council 
 
     2. fix clause / section numbering periodically
 
-    3. each counil voter should be deemed to be making certain reps, warranties and covenants (e.g., that they own the POKT for the governance stake or are duly authorized by whoever does own the POKT to vote on such owner's behalf, that they are not OFAC SDN list, etc.)
+    3. each Council Member should be deemed to be making certain reps, warranties and covenants (e.g., that they own the POKT for the governance stake or are duly authorized by whoever does own the POKT to vote on such owner's behalf, that they are not OFAC SDN list, etc.)
 
     4. should have section on nodes and providing that persons operating nodes consent to being slashed (can also later repurpose some of that language re: slashing for Constitutional violations if that eventually becomes a thing)
 
@@ -16,7 +16,7 @@
 
     8. has the first member of the foundation resigned so that it is in fact ownerless?
 
-    9. has the foundation board passed the resolutionn called for by 1.6(a) of the foundation articles (" a resolution of the board determining that the DAO is operaional and is able to pass DAo resolutions"?)
+    9. has the foundation board passed the resolution called for by 1.6(a) of the foundation articles (" a resolution of the board determining that the DAO is operational and is able to pass DAO resolutions"?)
 
 ]
 
@@ -52,7 +52,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ## 4. Pocket Network Governance
 
-4.1. Governance of the Pocket Network is an emergent phenomenon arising from the decisionmaking and activities of a variety of User demographics and other Persons, including: 
+4.1. Governance of the Pocket Network is an emergent phenomenon arising from the decision-making and activities of a variety of User demographics and other Persons, including: 
 * the Pocket Network Foundation;
 * the Pocket Network Council and Council Members; 
 * the Pocket Development Company and other developers of Pocket Core and other Pocket Technologies; 
@@ -73,11 +73,11 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
     (a) the Maturation Period with respect to such Governance Stake has elapsed; and 
     (b) at least one of the following conditions precedent is satisfied with respect thereto:
         (i) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]); or
-        (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain Council Treasury (or the relevant temporary trust, if applicable) with respect to whi]ch Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Council Members at such time). 
+        (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain Council Treasury (or the relevant temporary trust, if applicable) with respect to which Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Council Members at such time). 
 
-        [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threhold)?]
+        [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threshold)?]
 
-4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordace with any applicable laws of property escheatment; (iii) left indefinintely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
+4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordance with any applicable laws of property escheatment; (iii) left indefinitely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 
 4.8. Each Council Member shall vote his, her or its Voting Shares and otherwise exercise the rights, powers and perquisites of a Council Member on a reasonably informed basis and in good faith, taking into account the Pocket Principles. Each Council Member shall not sell his, her or its Voting Shares or any of the other rights, powers and perquisites of being a Council Member or accept any compensation, reward, reimbursement or incentive for voting such Council Member's Voting Shares or using such rights, powers and perquisites. 
 
@@ -171,7 +171,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ### Citizenry / Users
 
-4.x The citizenry of the Pocket Network are end-Users in their capacities as such. End-Users utilize, rely upon and ejoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. End-Users may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Poket Network or its Nodes. 
+4.x The citizenry of the Pocket Network are end-Users in their capacities as such. End-Users utilize, rely upon and enjoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. End-Users may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Pocket Network or its Nodes. 
 
 
 ## 5. Liability
@@ -180,7 +180,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 5.2. Users shall be liable for losses caused by false or misleading attestations, such as fraudulent relay proofs, and shall forfeit any stake thereby according to the consensus rules of Pocket Core.
 
-5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes'decisions through their use of the blockchain in accordance with Article 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
+5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes' decisions through their use of the blockchain in accordance with Article 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
 
 
 
@@ -341,7 +341,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Maturation Period:** the period of 30,240 blocks (~21 days) that must elapse before a Governance Stake may become active
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
 * **Node:** an instance of Pocket Core (or another software client embodying the Pocket Protocol) that is online and operating on the Pocket Network, synced on a reasonably current basis with the Pocket Blockchain and receiving and propagating transactions from other Nodes on the Pocket Network
-* **On-Chain:** any activity that is directly or indirectly reflected in information included in the Pocket Blockhain
+* **On-Chain:** any activity that is directly or indirectly reflected in information included in the Pocket Blockchain
 * **On-Chain Council Treasury:** the account designated by the Council to hold POKT DevFund Awards. The initial On-Chain Council Treasury is address 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. 
 * **Ownerless Foundation:** a foundation which has no members, shareholders or other equity holders 
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
@@ -372,7 +372,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **POKT DevFund Award:** the portion of each POKT Block Reward that is [automatically] allocated to the Council [Smart Contract] [NOTE TO DRAFT: mechanics of how POKT rewards get controlled by Council to be discussed given cross-chain dynamics etc.]
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
-* **Seed Node:** a Node (other than a Valiadtor Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
+* **Seed Node:** a Node (other than a Validator Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
 * **Settlement:** a penalty payment that proposers must make to prevent an Aragon Agreements challenge from escalating to Aragon Court
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
@@ -404,27 +404,27 @@ For outgoing payments to recipients who may have not consented to this Constitut
 [cache: 
 #### Council Smart Contract
 
-4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council and Council Members shall utilize the Council Smart Contract as the exclusive method of: (a) governing the On-Chain Council Treasury, (b) admitting and expelling Council Members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Counncil. 
+4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council and Council Members shall utilize the Council Smart Contract as the exclusive method of: (a) governing the On-Chain Council Treasury, (b) admitting and expelling Council Members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Council. 
 
 4.4 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, among the Council Members, the results of operation of the Council Smart Contract shall be determinative of the rights and obligations of, and shall be final, binding upon and not permitted to be contested or disputed by, the Council and each of the Council Members with respect to the Council and all matters relating to the Council or the Council Members in their capacities as such, and shall not be contested (in a Legal Proceeding or otherwise) by any of them. The immediately preceding sentence shall not prohibit or limit any Legal Proceeding brought by or on behalf of the Council or any Council Member(s) (the **Plaintiff(s)**) against the Council, any other Council Member(s) or any other Person(s) (the **Defendant(s)**) to the extent that: 
     (a)	a prohibition or limitation of such Legal Proceeding would be illegal or unenforceable under any applicable law; or
     (b)	such Legal Proceeding: 
         (i)	is based on or arises from a Material Adverse Exception Event that either: 
             (A)	resulted directly or indirectly, in whole or in part, from the fraud, willful misconduct or knowing violation of any applicable Legal Requirement or applicable Order by the Defendant(s); or 
-            (B)	resulted directly ro indirectly in an improper personal benefit to the Defendant(s); and
+            (B)	resulted directly or indirectly in an improper personal benefit to the Defendant(s); and
         (ii) Plaintiff(s) suffered or incurred Damages as a result of such Material Adverse Exception Event.
         
 The provisions of this Article 4.4 shall continue to apply to a Person who was a Council Member after such Person is no longer a Council Member.
 
 4.5  The following are Material Adverse Exception Events (**MAEEs**):
     
-    (a)	a Consensus Attack that adversely affects or could reasonably be expeted to adversely affect the results or operations of the Council Smart Contract;
+    (a)	a Consensus Attack that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Smart Contract;
     
     (b)	a change to the Council Blockchain (or node software client or network referenced in defining the Council Blockchain) that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Blockchain or to result in a persistent contentious "hard fork” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain;
     
     (c)	a “chain reorganization” (as such term is commonly understood and used by software engineers expert in developing blockchain protocol software clients) of the Council Blockchain that adversely affects or could reasonably be expected to adversely affect the results or operations of the Council Smart Contract;
     
-    (d)	the Council Smart Contract having become inoperable, inaccessible or unusable, or any tokens under the control of such Designated Smart Contract having become permanently “frozen,” “stuck” or non-transferable, including as the result of any code library or repository incorporated by reference into such Designated Smart Contract or any other smart contract or oracle on which such Designated Smart Contract depends in whole or in part having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event--without limiting the foregoing, a cirumstance shall be deemed “permanent” if such condition would persist except in the event of a hardfork or chain reorganization that is not reasonably expected to occur in the near future;
+    (d)	the Council Smart Contract having become inoperable, inaccessible or unusable, or any tokens under the control of such Designated Smart Contract having become permanently “frozen,” “stuck” or non-transferable, including as the result of any code library or repository incorporated by reference into such Designated Smart Contract or any other smart contract or oracle on which such Designated Smart Contract depends in whole or in part having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event--without limiting the foregoing, a circumstance shall be deemed “permanent” if such condition would persist except in the event of a hardfork or chain reorganization that is not reasonably expected to occur in the near future;
     
     (e)	a material adverse effect on the use, functionality or performance of the Council Smart Contract as the result of a clear and manifest bug, defect or error in the source code of the Designated Smart Contract or a clear and manifest bug, defect or error in the compilation of such source code to bytecode, in each case, as evidenced by the failure of the Council Smart Contract to function in accordance with provisions of this Constitution that expressly pertain to the Council Smart Contract or by documentation or other evidence prepared contemporaneously with the Council Smart Contract source code demonstrating that the intended functioning of the Council Smart Contract differs materially from the actual functioning of the Council Smart Contract as a result of such bug, defect or error;
     
@@ -453,7 +453,7 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
   * Publish an Exception Handling Proposal that excludes exploitable details, to be followed by publication of such details only when the fix is ready to be deployed;
   * Secretly deploy fixes to the MAEE, only if such fixes do not amend Pocket Core’s consensus rules or undermine practical adherence to this Constitution, and under the understanding that such fixes may be replaced by the Council once the MAEE has been resolved.
 
-4.27. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signalled approval of the Proposal, represented by at least 50% of Stakeholders from the previous On-Chain Council Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
+4.27. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signaled approval of the Proposal, represented by at least 50% of Stakeholders from the previous On-Chain Council Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
 
 4.28. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
