@@ -55,18 +55,16 @@ The members of the Pocket DAO are united together in the mission to build censor
 ### Legislature / Council
 #### Nature & Functions of Council
 4.2. The legislative function of the Pocket DAO is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Council Members [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Section [] hereof; (b) holds and governs the Council On-Chain Treasury, which is the aggregate of all unspent POKT DevFund Awards allocated from POKT Block Awards; and (c) considers, holds votes with respect to and approves or denies Pocket Improvement Proposals (PIPs), Pocket Ecosystem Proposals (PEPs) and Parameter Update Proposals (PUPs). 
-
 #### Council Membership
-4.4. A Person shall be deemed a **Council Member** if and only if: (a) such Person has deposited POKT into the Council Smart Contract to create a Governance Stake; (b) such Governance Stake is active; and (c) such Person has minted and continues to hold and control one or more Voting Tokens with respect to such Governance Stake. 
+4.4. A Person shall be deemed a **Council Member** if and only if: (a) such Person has deposited POKT to the Council Multisig to create a Governance Stake; (b) such Governance Stake is active; and (c) such Person has minted and continues to hold and control one or more Voting Tokens with respect to such Governance Stake. 
 4.5. The Governance Stake of a Person shall be deemed active if and only if at least one of the following conditions precedent is satisfied with respect thereto:
         (a) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Council Champion [(which voucher has not been revoked)]); or
         (b) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the Council On-Chain Treasury (or the relevant temporary trust, if applicable) with respect to which Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Council Members at such time). 
         [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threshold)?]
 
-4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordance with any applicable laws of property escheatment; (iii) left indefinitely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
+4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordance with any applicable laws of property escheatment; (iii) left indefinitely in the Council Multisig; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 4.8. Each Council Member shall vote his, her or its Voting Shares and otherwise exercise the rights, powers and perquisites of a Council Member on a reasonably informed basis and in good faith, taking into account the Pocket Principles. Each Council Member shall not sell his, her or its Voting Shares or any of the other rights, powers and perquisites of being a Council Member or accept any compensation, reward, reimbursement or incentive for voting such Council Member's Voting Shares or using such rights, powers and perquisites. 
 #### Council Proposals
-
 4.10. Proposals to be voted upon by the Council must be submitted solely by Council Members. The immediately preceding sentence shall not be deemed to limit the right, power or discretion of a Council Member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council Member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Section 4.8. 
 4.11. Proposals are of three main types: Pocket Improvement Proposals (PIPs), Pocket Ecosystem Proposals (PEPs) and Parameter Update Proposals (PUPs), each as defined hereinafter.
 4.12 Each proposal shall be made by any Council Member initiating a Signaling Vote or an Executive Vote with respect to such proposal, properly identified as a PIP, PEP or PUP. 
@@ -124,17 +122,18 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 * The Articles refer to the Council as the "DAO" and require the Council's approval of substantially all actions of the Foundation, including the appointment and removal of Foundation directors and supervisor
 * The Articles require the Foundation directors not to hold any administrative or other position in the Council (other than the position of general Council Member by virtue of being a Council Member) and to observe, implement, carry out and execute with best efforts any and all resolutions of the Council, except as otherwise required by their fiduciary duties and applicable law. 
 * The Articles require the Foundation directors to provide the Council with notices and other information concerning the Foundation's business and affairs, the appointment/remove of alternate directors or secretaries, any resignations of directors or supervisors, the directors' discharge of their duties and exercise of their powers and such other information as may be required by the Council.
+##### Signaling Era; Future Governance Designs
+4.30. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between the Pocket Network and the Council Smart Contract, with appropriate amendments to this Constitution. The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era. During the Signaling Era, the Council may utilize the Council Smart Contract as a convenient method for holding votes or granting Voting Tokens, but the operation and results of operation of the Council remain subject to the good faith interpretation and discretion of the ACL and thus the Foundation. 
+##### Transaction Batching
 
-
+4.33. By default, the Foundation will batch Governance Transactions on a weekly basis, unless an alternative schedule is specified in this Constitution.
 ### Judiciary
 4.33. The judiciary functions of the Pocket DAO are performed by Aragon Court. 
 4.34. Any Council Member may challenge actions, if they think the action violates this Constitution. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
 
 ### Diplomatic & Regulatory / Nodes
-
 4.35. The diplomatic and regulatory functions of the Pocket DAO are performed by the Nodes. Nodes receive, transmit and propagate transactions and data through the Pocket Network, between the Pocket Network and other blockchain networks and between applications and the Pocket Network and other blockchain networks. Validator Nodes enforce the Pocket Protocol and ensure the Pocket Blockchain conforms to its rules by proposing blocks and validating the blocks proposed by other Validator Nodes. 
-
 4.36. Each Node, solely by connecting to the Pocket Network, shall be deemed to consent in all respects to the Pocket Protocol, the results of operations of which shall be final and binding upon each Node. Without limiting the foregoing, each Validator Node shall be deemed to consent in all respects to the slashing of such Validator Node's staked POKT in accordance with the Pocket Protocol and hereby waives, relinquishes and releases any and all claim against any Person arising from the loss of staked POKT in accordance with the Pocket Protocol. 
 
 ### Citizenry / Users
@@ -238,22 +237,21 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 
 # Definitions
-
 * **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the Council On-Chain Treasury, burning funds in the Council On-Chain Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
 * **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the Pocket DAO
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Constitution:** has the meaning set forth in the Preamble
-* **Consensus Attack:** an attack that: (a) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Council Blockchain Network; and (b) has the actual or intended effect of: (1) reversing any transaction made to or by the Council Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (2) preventing inclusion in blocks or Confirmation of any transaction made to or by the Council Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect
 * **Contributors:** anyone who is doing work in service of the Pocket DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
 * **Council:** the unincorporated nonprofit association of Council Members, also known as "The Pocket Network Council"
 * **Council Blockchain:** the blockchain designated by the Council for deployment of the Council Smart Contract. The initial Council Blockchain is the Ethereum mainnet--i.e., the blockchain with "chainID:1" on "networkID:1" as recognized by a majority of nodes running Go Ethereum, the Official Golang implementation of the Ethereum protocol at https://github.com/ethereum/go-ethereum. There shall be only one Council Blockchain at any given time
 * **Council Champion:** a person who has been voted to become eligible to become a Council Member by a [current] Trusted Account Holder [NOTE: DO THEY HAVE TO CHAMPIONS OR CAN THEY BE ANY COUNCIL MEMBERS?] via Supermajority Approval. The Council Champion designation is intended to enable trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game. 
 * **Council Member:** has the definition set forth in Section 4.4.
+* **Council Multisig:** the address designated by the Council to hold Governance Stakes during the Signaling Era, which is currently 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. The Council Multisig is controlled by the ACL. 
 * **Council On-Chain Treasury:** the account designated by the Council to hold POKT DevFund Awards. The initial Council On-Chain Treasury is address 6386713deb27b609daad5e2e32ee6591753e5f4e on the Pocket Network. 
 * **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
-* **Council Smart Contract:** : (a) shall initially be the source code at https://rinkeby.etherscan.io/address/0x954Ef520DD4B969C5fd3709Bbf8b258A871639dd#code as deployed to 0x6581bFd757FF2a3333F9DD2c49C6A5CBb31C5633 on the Ethereum Rinkelby Testnet; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time
+* **Council Smart Contract:** : (a) shall initially be the source code at https://rinkeby.etherscan.io/address/0x954Ef520DD4B969C5fd3709Bbf8b258A871639dd#code as deployed to 0x6581bFd757FF2a3333F9DD2c49C6A5CBb31C5633 as deployed on the Ethereum Rinkelby Testnet; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
 * **Executive:** the functions of the Pocket DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
@@ -289,17 +287,17 @@ For outgoing payments to recipients who may have not consented to this Constitut
     * 17ca63e4ff7535a40512c550dd0267e519cafc1a@seed2.testnet.pokt.network:26656
     * f99386c6d7cd42a486c63ccd80f5fbea68759cd7@seed3.testnet.pokt.network:26656
 * **Pocket Network Foundation** or **Foundation**: the Pocket Network Foundation, a Cayman Islands foundation company limited by guarantee
-* **Stakeholder:** any Party who has a valid Governance Stake.
 * **Pocket Protocol:** the validity, consensus and coordination rules and procedures embodied in Pocket Core.
 * **Pocket Technologies:** Pocket Core and the other software and technologies integral to the Pocket Network or Pocket Blockchain, including all software at https://github.com/pokt-network. 
 * **POKT:** the unit of account recognized as "POKT" by Pocket Core on the Pocket Network and Pocket Blockchain. Balances of POKT are tracked in denominations of "pokt" or "upockt" in the "coins" or "balance" field for each unique address / public key on the Pocket Blockchain. POKT is the native cryptocurrency of the Pocket Network and Pocket Blockchain 
 * **POKT Block Reward:** the POKT that is automatically minted in accordance with the Pocket Protocol every time a proposed block is validated by Validator Nodes on the Pocket Network for inclusion in the Pocket Blockchain
-* **POKT DevFund Award:** the portion of each POKT Block Reward that is [automatically] allocated to the Council [Smart Contract] [NOTE TO DRAFT: mechanics of how POKT rewards get controlled by Council to be discussed given cross-chain dynamics etc.]
+* **POKT DevFund Award:** the portion of each POKT Block Reward that is allocated to the Council On-Chain Treasury in accordance with the Pocket Protocol. 
 * **Protocol Upgrades:** software updates to Pocket Core, approved according to PIPs
 * **ReturnOnInvestmentTarget:** an off-chain pricing parameter, enabling the Council to signal how many days they believe it should take an App to achieve the USD/Relay Target Range, accounting for the opportunity cost of using the Pocket Network versus competing services
 * **Seed Node:** a Node (other than a Validator Node) that: (a) maintains a copy of the 'Node Address Book' for the Pocket Network and engages in the related peer ID discovery and peer ID propagation activities; and (b) dispatches relay requests to Validator Nodes. 
 * **Signaling Era:** the period before automatic cross-chain execution of the Council’s decisions is achieved
 * **Signaling Vote:** a vote that does not have the intent of executing an action upon completion, but is instead used to assess the sentiment of the Council
+* **Stakeholder:** any Party who has a valid Governance Stake.
 * **Supermajority Approval:** 80% Support and 50% Minimum Approval from Voting Token holders
 * **Support:** the percentage of votes on a proposal that the total "Yes" votes (by Voting Token holders) must be greater than for the proposal to pass
 * **SupportedBlockchains:** a whitelist parameter defining which blockchains are permitted to generate Block Rewards, to limit revenue generation capabilities to blockchains with enough traction that they would not facilitate self-dealing by Nodes (wherein they stake as an App and, due to low traction, are matched with their own Node and can thereby process fake relays)
@@ -324,26 +322,3 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * Parts of the Statutes have leveraged a Qualified Code Deference template by Gabriel Shapiro, but this does not constitute an attorney-client relationship.
 
 
-
-[cache: 
-#### Council Smart Contract
-
-4.3 Except as otherwise provided in this Constitution in connection with a Material Adverse Exception Event, the Council and Council Members shall utilize the Council Smart Contract as the exclusive method of: (a) governing the Council On-Chain Treasury, (b) admitting and expelling Council Members, (c) accepting and activating Governance Stakes, (d) minting and revoking Voting Tokens and (e) holding votes with respect to and approving or denying PIPs, PEPs, PUPs and proposals relating to the Foundation. The Council may also utilize the Council Smart Contract to administer and facilitate certain other arrangements and transactions involving the Council. 
-#### Access Control List (ACL)
-
-##### Extensibility, Automation & the Signaling Era
-
-4.30. The Foundation multi-sig will hold all ACL permissions at launch, but the Council may work to automate (and thus disintermediate) the Executive function by building a cross-chain integration between the Pocket Network and a smart contract system to be designated by the Council in the future together with appropriate amendments to this Constitution. The period before automatic cross-chain execution is achieved will be referred to as the Signaling Era.
-
-##### Executive Veto During & After the Signaling Era
-
-4.31. During the Signaling Era, the Foundation will retain a veto on all Governance Transactions as a failsafe. This veto falls within their Right to Refuse as part of their duty to steward the Pocket Network.
-
-4.32. After the Signaling Era, the Foundation will still retain the right to veto (and the responsibility to sign) Governance Transactions that may involve parties who have not consented to this Constitution per 
-
-##### Transaction Batching
-
-4.33. By default, the Foundation will batch Governance Transactions on a weekly basis, unless an alternative schedule is specified in this Constitution.
-
-
-]
