@@ -83,14 +83,10 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4.13. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of the Pocket Development Company will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
 
 ### PIPs
-**Pocket Improvement Proposals (PIPs)** are proposals to improve Pocket Core or the other Pocket Technologies or the Pocket Network or Pocket Blockchain or governance procedures, including Protocol Upgrades and Governance Upgrades.
-
-4.14. PIPs will not be permissible if they contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This is in place to prevent omnibus proposals, whereby unpopular proposals are pushed through by bundling them with popular proposals.
-
+**Pocket Improvement Proposals (PIPs)** are proposals to improve Pocket Core or the other Pocket Technologies or the Pocket Network or Pocket Blockchain or Council governance procedures. Without limiting the generality of the foregoing, PIPs include Protocol Upgrades and Governance Upgrades. 
+4.14. PIPs should not contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This policy is intended  to prevent omnibus proposals whereby unpopular proposals are pushed through by bundling them with popular proposals.
 4.15. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
-
 4.16. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
-
 ### PEPs
 **Pocket Ecosystem Proposals (PEPs)** are proposals to provide funding out of the On-Chain Council Treasury to or form agreements with contributors to the Pocket Network ecosystem. 
 4.17. Where a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
@@ -311,7 +307,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Council Blockchain:** the blockchain designated by the Council for deployment of the Council Smart Contract. The initial Council Blockchain is the Ethereum mainnet--i.e., the blockchain with "chainID:1" on "networkID:1" as recognized by a majority of nodes running Go Ethereum, the Official Golang implementation of the Ethereum protocol at https://github.com/ethereum/go-ethereum. There shall be only one Council Blockchain at any given time
 * **Council Champion:** a person who has been voted to become eligible to become a Council Member by a [current] Trusted Account Holder [NOTE: DO THEY HAVE TO CHAMPIONS OR CAN THEY BE ANY COUNCIL MEMBERS?] via Supermajority Approval. The Council Champion designation is intended to enable trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game. 
 * **Council Member:** has the definition set forth in Section 4.4.
-* **Council Member Distribution:** the demographic of Voting Token holders
 * **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
 * **Council Smart Contract:** : (a) shall initially be the source code at https://rinkeby.etherscan.io/address/0x954Ef520DD4B969C5fd3709Bbf8b258A871639dd#code as deployed to 0x6581bFd757FF2a3333F9DD2c49C6A5CBb31C5633 on the Ethereum Rinkelby Testnet; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
