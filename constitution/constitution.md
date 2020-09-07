@@ -109,34 +109,31 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 4.24. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of [Council Members] [SHOULD THIS INSTEAD REFER TO VALIDATOR NODES?]. The Foundation will add Network IDs to the whitelist if 5% of [Council Members] have configured their App or Node to include the Network ID. [HOW DO WE KNOW ALL COUNCIL MEMBERS HAVE AN ‘APP OR NODE’? SEEMS LIKE THIS SHOULD JUST BE DECIDED BY VALIDATOR NODES, NOT NECESSARILY ONES THAT ALSO ARE COUNCIL MEMBERS] PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
 4.25. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
 #### Removing Council Members
-4.11. Council Members can be removed by the Council for [5 violations of this Constitution] [WHY MAKE IT SO CONSTRAINED? I THINK THE COUNCIL SHOULD BE ALLOWED TO REMOVE A COUNCIL MEMBER BY MAJORITY VOTE OR SUPERMAJORITY VOTE (PICK YOUR POISON—I GUESS IT SHOULD MATCH THE RE-ADMITTANCE STANDARD IN THE NEXT SECTION (SO, SUPERMAJORITY VOTE)).]. A Council Member’s violation count is inclusive of:
+4.26. Council Members can be removed by the Council for [5 violations of this Constitution] [WHY MAKE IT SO CONSTRAINED? I THINK THE COUNCIL SHOULD BE ALLOWED TO REMOVE A COUNCIL MEMBER BY MAJORITY VOTE OR SUPERMAJORITY VOTE (PICK YOUR POISON—I GUESS IT SHOULD MATCH THE RE-ADMITTANCE STANDARD IN THE NEXT SECTION (SO, SUPERMAJORITY VOTE)).]. A Council Member’s violation count is inclusive of:
   * **settlements** = 0.5 violations
   * **lost Aragon Court rulings** = 1 violation
   * **violation of Principles** = 2 violations, where an action will qualify as violating the Principles if it is successfully challenged on such grounds by any other member of the Council using Aragon Agreements, and a vote in favor of an action will retroactively qualify as violating the Principles if deemed so by Supermajority Approval in a Signaling Vote.
 
-4.12. Council Members who were removed pursuant to the preceding Article 4.11 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote. 
+4.27. Council Members who were removed pursuant to the preceding Article 4.11 will not be permitted to re-join unless they first successfully achieve Supermajority Approval in a Signaling Vote. 
 
 #### Right to Exit
 
-4.13. While the barrier to entering the Council is intended to provide a robust defense against time-based attack vectors such as vote renting, the barrier to exit is intentionally minimal. Any Council Member can exit the Council at any time by burning their Voting Token, unless a proposal to burn their token is already pending.
+4.28. While the barrier to entering the Council is intended to provide a robust defense against time-based attack vectors such as vote renting, the barrier to exit is intentionally minimal. Any Council Member can exit the Council at any time by burning their Voting Token, unless a proposal to burn their token is already pending.
 
 #### Redeeming/Burning Governance Stakes
-
-4.14. If a Council Member burns such a Voting Token, the corresponding Governance Stake will be redeemed and returned to such Council Member. If a Council Member has a Voting Token burned by the Council in compliance with this Constitution, the corresponding Governance Stake will be forfeited (burned).
-
-4.15. Whichever account has the Council On-Chain Treasury permissions will be responsible for executing redemptions/burning.
+4.29. If a Council Member burns such a Voting Token, the corresponding Governance Stake will be redeemed and returned to such Council Member. If a Council Member has a Voting Token burned by the Council in compliance with this Constitution, the corresponding Governance Stake will be forfeited (burned).
+4.30. Whichever account has the Council On-Chain Treasury permissions will be responsible for executing redemptions/burning.
 
 ### Executive / Foundation
 #### Nature & Functions of Foundation
-
-4.x. The executive function of the Pocket Network is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf (the **Foundation Articles**). Without limiting the generality of the immediately following Article [4.x], the Foundation's objectives include:
+4.31. The executive function of the Pocket Network is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf (the **Foundation Articles**). Without limiting the generality of the immediately following Article [4.x], the Foundation's objectives include:
   * serving as a fiduciary agent of the Council
   * stewarding the Pocket Technologies and Pocket Network, including Pocket Core
   * requesting funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
 
 #### Foundation Articles; Responsibility to Council
 
-4.x.  The following is only a summary of certain provisions of the Articles and is subordinated in its entirety to the full text of the Articles; in the event of any conflict or inconsistency between this Constitution and the Articles, the actual text of the Articles shall prevail: 
+4.32.  The following is only a summary of certain provisions of the Articles and is subordinated in its entirety to the full text of the Articles; in the event of any conflict or inconsistency between this Constitution and the Articles, the actual text of the Articles shall prevail: 
 * The Articles refer to the Council as the "DAO" and require the Council's approval of substantially all actions of the Foundation, including the appointment and removal of Foundation directors and supervisor
 * The Articles require the Foundation directors not to hold any administrative or other position in the Council (other than the position of general Council Member by virtue of being a Council Member) and to observe, implement, carry out and execute with best efforts any and all resolutions of the Council, except as otherwise required by their fiduciary duties and applicable law. 
 * The Articles require the Foundation directors to provide the Council with notices and other information concerning the Foundation's business and affairs, the appointment/remove of alternate directors or secretaries, any resignations of directors or supervisors, the directors' discharge of their duties and exercise of their powers and such other information as may be required by the Council.
@@ -144,21 +141,19 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 
 ### Judiciary
 
-4.x. The judiciary functions of the Pocket Network are performed by Aragon Court. 
+4.33. The judiciary functions of the Pocket Network are performed by Aragon Court. 
 
-4.x. Any Council Member may challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
+4.34. Any Council Member may challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
 ### Diplomatic & Regulatory / Nodes
 
-4.2. The diplomatic and regulatory functions of the Pocket Network are performed by the Nodes. Nodes receive, transmit and propagate transactions and data through the Pocket Network, between the Pocket Network and other blockchain networks and between applications and the Pocket Network and other blockchain networks. Validator Nodes enforce the Pocket Protocol and ensure the Pocket Blockchain conforms to its rules by proposing blocks and validating the blocks proposed by other Validator Nodes. 
+4.35. The diplomatic and regulatory functions of the Pocket Network are performed by the Nodes. Nodes receive, transmit and propagate transactions and data through the Pocket Network, between the Pocket Network and other blockchain networks and between applications and the Pocket Network and other blockchain networks. Validator Nodes enforce the Pocket Protocol and ensure the Pocket Blockchain conforms to its rules by proposing blocks and validating the blocks proposed by other Validator Nodes. 
 
-4.x Each Node, solely by connecting to the Pocket Network, shall be deemed to consent in all respects to the Pocket Protocol, the results of operations of which shall be final and binding upon each Node. Without limiting the foregoing, each Validator Node shall be deemed to consent in all respects to the slashing of such Validator Node's staked POKT in accordance with the Pocket Protocol and hereby waives, relinquishes and releases any and all claim against any Person arising from the loss of staked POKT in accordance with the Pocket Protocol. 
+4.36. Each Node, solely by connecting to the Pocket Network, shall be deemed to consent in all respects to the Pocket Protocol, the results of operations of which shall be final and binding upon each Node. Without limiting the foregoing, each Validator Node shall be deemed to consent in all respects to the slashing of such Validator Node's staked POKT in accordance with the Pocket Protocol and hereby waives, relinquishes and releases any and all claim against any Person arising from the loss of staked POKT in accordance with the Pocket Protocol. 
 
 ### Citizenry / Users
 
-4.x The citizenry of the Pocket Network are end-Users in their capacities as such. End-Users utilize, rely upon and enjoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. End-Users may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Pocket Network or its Nodes. 
-
-
+4.37. The citizenry of the Pocket Network are End-Users in their capacities as such. End-Users utilize, rely upon and enjoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. **End-Users** may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Pocket Network or its Nodes.   [NOTE: consider just making it *Users*. I think the only delta is that Users would include persons who run Nodes, which seems okay].
 ## 5. Liability
 
 5.1. The Foundation is a distinct legal entity representing the Pocket DAO in various matters. This means the Pocket DAO accepts no liability and all disputes, including claims of tort, must be directed to the Foundation.
