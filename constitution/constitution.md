@@ -47,9 +47,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 * Once it is no longer possible to optimize any Principle without sacrificing another, this Constitution should be amended to introduce minimum satisfaction thresholds on each Principle.
 * Stakeholder rights at any given moment, as defined by the values of On-Chain parameters, may justifiably be sacrificed in the furtherance of the Principles, because it is intended that the Principles, if achieved, will ensure maximum utility to maximum stakeholders.
 * The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of the Pocket Technologies and Pocket Network stated under "Mission Statement" above.
-
-# Articles
-
+# Covenants
 ## 4. Pocket Network Governance
 4.1. Governance of the Pocket Network is an emergent phenomenon arising from the decision-making and activities of a variety of User demographics and other Persons, including: 
 * the Pocket Network Foundation;
@@ -88,16 +86,27 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4.15. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
 4.16. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
 ### PEPs
-**Pocket Ecosystem Proposals (PEPs)** are proposals to provide funding out of the Council On-Chain Treasury to or form agreements with contributors to the Pocket Network ecosystem. 
-4.17. If a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
-4.18. Because the Pocket DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
+4.17. **Pocket Ecosystem Proposals (PEPs)** are proposals to provide funding out of the Council On-Chain Treasury to or form agreements with contributors to the Pocket Network ecosystem. 
+4.18. If a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
+4.19. Because the Pocket DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
 ### PUPs
-**Parameter Update Proposals (PUPs)**  are proposals to change the value of a given parameter of the Council Smart Contract.
-4.19. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
-4.20. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council: BaseRelaysPerPOKT and StabilityAdjustment. 
+4.20.**Parameter Update Proposals (PUPs)**  are proposals to change the value of a given parameter of the Pocket Blockchain, including proposals to change: 
+    (a) the monetary policy of the Pocket Blockchain (i.e., economic parameters such as BaseRelaysPerPOKT and StabilityAdjustment);
+    (b) the whitelist of blockchain networks supported by the Pocket Blockchain (i.e., ____________); and
+    (c) the consensus mechanisms of the Pocket Blockchain (i.e., consensus parameters such as UnstakingTime, MaximumChains and FraudulentRelayBatchPenalty).
+4.21. Each PUP should specify: 
+    (a) Current Value: What is the current value of the parameter? For whitelists, just leave this field blank
+    (b) New Value: What is the proposed value of the parameter? For whitelists, just list the addresses/IDs you wish to add or remove
+    (c) Abstract: a ~200 word description of the parameter value being proposed and why.
+    (d) Motivation: Explain in detail why the new parameter value is better than the current parameter value. What is the intended effect of changing the parameter value?
+    (e) Rationale: Provide detailed justification behind why the specific value was selected
+    (f) Dissenting Opinions: Acknowledge all opinions which disagree with the rationale of this proposal.
+    (g) Analyst(s): Where relevant, provide details of the analyst(s) whose work leads to the recommended value. How are they qualified?
+4.22. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
+4.23. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council: BaseRelaysPerPOKT and StabilityAdjustment. 
 The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation may ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
-4.21. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Council Members. The Foundation will add Network IDs to the whitelist if 5% of Council Members have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
-4.22. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
+4.24. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Council Members. The Foundation will add Network IDs to the whitelist if 5% of Council Members have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
+4.25. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
 
 #### Removing Council Members
 4.11. Council Members can be removed by the Council for 5 violations of this Constitution. A Council Member’s violation count is inclusive of:
