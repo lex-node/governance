@@ -37,7 +37,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4. **Freedom of Movement:** The Pocket Network should be accessible to both Apps and Nodes. Equally, all Pocket Network stakeholders or participants should enjoy the right to exit.
 5. **Optionality:** Operating a Node should incur no more costs than the cost of operation. All other responsibilities, e.g. participation in the Council, should be optional.
 6. **Agnosticism:** Pocket Network should maintain neutrality as a middleware protocol. While the governance of Pocket Network may be reliant from time to time on other networks or tools, the system itself should retain a level of modularity that facilitates switching out components with minimal friction.
-7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community members will come from a wide range of blockchain communities. DAO participants should leave tribalism at the door: i.e., they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
+7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community members will come from a wide range of blockchain communities. Pocket DAO participants should leave tribalism at the door: i.e., they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
 8. **Consensual Collaboration:** While the Pocket Network Council is relatively permissionless, this does not mean anyone is entitled to work. Proposals will be assessed on their merits alone, including Contributors’ fitness to fulfill the proposal. Likewise, Contributors are not required to let any other Contributor work with them, unless the Council has approved a proposal to that effect.
 
 * The Principles are ranked in order of priority.
@@ -90,20 +90,16 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 ### PEPs
 **Pocket Ecosystem Proposals (PEPs)** are proposals to provide funding out of the Council On-Chain Treasury to or form agreements with contributors to the Pocket Network ecosystem. 
 4.17. If a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
-4.18. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
+4.18. Because the Pocket DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
 ### PUPs
-**Parameter Update Proposals (PUPs)**  are proposals to change the value of a given parameter of the Council Smart Contract
+**Parameter Update Proposals (PUPs)**  are proposals to change the value of a given parameter of the Council Smart Contract.
 4.19. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
-
-4.20. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council in 6.8: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
-
+4.20. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council: BaseRelaysPerPOKT and StabilityAdjustment. 
+The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation may ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
 4.21. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Council Members. The Foundation will add Network IDs to the whitelist if 5% of Council Members have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
-
 4.22. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
 
-
 #### Removing Council Members
-
 4.11. Council Members can be removed by the Council for 5 violations of this Constitution. A Council Member’s violation count is inclusive of:
   * **settlements** = 0.5 violations
   * **lost Aragon Court rulings** = 1 violation
@@ -157,19 +153,19 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 ## 5. Liability
 
-5.1. The Foundation is a distinct legal entity representing the DAO in all relationships with parties who have not consented to this Constitution. This means the DAO accepts no liability and all disputes, including claims of tort, must be directed to the Foundation.
+5.1. The Foundation is a distinct legal entity representing the Pocket DAO in various matters. This means the Pocket DAO accepts no liability and all disputes, including claims of tort, must be directed to the Foundation.
 
 5.2. Users shall be liable for losses caused by false or misleading attestations, such as fraudulent relay proofs, and shall forfeit any stake thereby according to the consensus rules of Pocket Core.
 
-5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes' decisions through their use of the blockchain in accordance with Article 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
+5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the Pocket DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes' decisions through their use of the blockchain in accordance with Article 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
 
 
 
 ## 7. Finances
 
-7.1. Contributors agree to pay taxes on all DAO-related income in whichever jurisdiction they reside. The DAO will not be held liable for any neglect in this matter.
+7.1. Contributors agree to pay taxes on all Pocket DAO-related income in whichever jurisdiction they reside. The Pocket DAO will not be held liable for any neglect in this matter.
 
-7.2. The DAO will only accept incoming payments to its treasury in the form of Governance Stakes and the Pocket Network Block Reward.
+7.2. The Pocket DAO will only accept incoming payments to its treasury in the form of Governance Stakes and the Pocket Network Block Reward.
 For outgoing payments to recipients who may have not consented to this Constitution, the DAO will send funds piecemeal from the Council On-Chain Treasury to the Foundation's On-Chain multi-signature wallet for specific PEPs.
 
 7.3. It is forbidden to propose or approve unconditional general distributions of the Council On-Chain Treasury to token holders, which may be misconstrued as dividends.
@@ -291,13 +287,13 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the Council On-Chain Treasury, burning funds in the Council On-Chain Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
 * **Aragon Agent:** a smart contract representative of an Aragon organization, enabling the organization to interact as one entity with external smart contracts and protocols
 * **Aragon Agreements:** an app enabling Aragon organizations to bind programmatic actions to human-readable agreements, which will be enforced according to peer challenges and Aragon Court
-* **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the DAO
+* **Aragon Court:** a decentralized court system that incentivizes internet jurors to rule fairly on subjective disputes and will perform the Judiciary function of the Pocket DAO
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
 * **Constitution:** has the meaning set forth in the Preamble
 * **Consensus Attack:** an attack that: (a) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Council Blockchain Network; and (b) has the actual or intended effect of: (1) reversing any transaction made to or by the Council Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (2) preventing inclusion in blocks or Confirmation of any transaction made to or by the Council Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect
-* **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
+* **Contributors:** anyone who is doing work in service of the Pocket DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
 * **Conviction Voting:** a vote weighting which grows over time according to a half-life decay curve, making it particularly robust against time-based attack vectors
 * **Conviction Signaling:** the use of Conviction Voting by the Council to communicate preferences over some list of proposed options
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
@@ -309,15 +305,14 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
 * **Council Smart Contract:** : (a) shall initially be the source code at https://rinkeby.etherscan.io/address/0x954Ef520DD4B969C5fd3709Bbf8b258A871639dd#code as deployed to 0x6581bFd757FF2a3333F9DD2c49C6A5CBb31C5633 on the Ethereum Rinkelby Testnet; and (b) shall subsequently be any other source code that (i) is designated by the Council to serve as the 'Council Smart Contract’ under this Constitution and (ii) is deployed to a specified public key address on a specified public blockchain and specified blockchain network, each as designated by the Council. There shall be only one Council Smart Contract at any given time
 * **Decentralization Day:** a legal milestone for the decentralization of the Pocket Network, marked by the existence of 100 independently operated Nodes and the passing of the Council’s first vote (9.1)
-* **Decentralized Autonomous Organization (DAO):** a multi-stakeholder organization of Users, Contributors, and/or Stakeholders of the Pocket Network, who collectively govern the public goods that are Pocket Core, the Council On-Chain Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution
-* **Executive:** the functions of the DAO that are responsible for executing the decisions made by the Legislature
+* **Executive:** the functions of the Pocket DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Stake:** POKT deposited with the Council On-Chain Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited.  
 * **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network, including the appointment or removal of directors or supervisors. 
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring Council On-Chain Treasury funds, and/or changing parameters
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy
 * **Legal Proceeding:** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
-* **Legislature:** the functions of the DAO responsible for decision-making
+* **Legislature:** the functions of the Pocket DAO responsible for decision-making
 * **Majority Approval:** 50% Support and 50% Minimum Approval from Voting Token holders
 * **Maturation Period:** the period of 30,240 blocks (~21 days) that must elapse before a Governance Stake may become active
 * **Minimum Approval:** the percentage of the total Voting Token supply that support for a proposal must be greater than for the proposal to be considered valid
@@ -326,11 +321,12 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Ownerless Foundation:** a foundation which has no members, shareholders or other equity holders 
 * **Parameter Update Proposal (PUP):** proposals to change the value of a given parameter, On-Chain or in the Council’s tools or platforms
 * **Parties:** any Person who consents to, is deemed to have consented to or is otherwise a party to or bound by this Constitution.
-* **Permission Holders:** DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
+* **Permission Holders:** Pocket DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
 * **Pocket Blockchain:** at each time, the blockchain with "id:0001" that has been most recently validated by the Validator Nodes on the Pocket Network in accordance with the Pocket Protocol.
 * **Pocket Community Game:** a series of gamified Pocket Network community quests with levels that can be achieved by completing a set of tasks
  **Pocket Core:** at each relevant time, the most up-to-date official release of the Official Golang Implementation of the Pocket Network Protocol available at  https://github.com/pokt-network/pocket-core, without any modification thereto 
+* **Pocket DAO:** means the unincorporated association of the Pocket Network’s Council, Users, Contributors, and Stakeholders. The Pocket DAO governs the public goods that are Pocket Core, the Council On-Chain Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution. 
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation
 * **Pocket Ecosystem Proposal (PEP):** proposals to distribute funds to or form agreements with Contributors to the Pocket Network ecosystem. PEP categories include:
   * **Imbursements:** paying Contributors to fund future work
@@ -422,7 +418,7 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 4.24. If the Foundation disputes the existence of a MAEE, then the Foundation shall promptly deliver a written notice of such non-acceptance, an "Exception Response Notice", to the Sending Party. The Exception Response Notice shall include the same categories of information, statements, evidence and representations and warranties as would be required for an Exception Notice, mutatis mutandis. The Sending Party may then lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
-4.25. If the Foundation agrees with the contents of the Exception Notice, upon receiving an Exception Notice, the Foundation shall deposit the DAO's funds into a multi-signature account owned by all of the Directors of the Foundation, to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the DAO, until the Council enters into an Exception Handling Addendum.
+4.25. If the Foundation agrees with the contents of the Exception Notice, upon receiving an Exception Notice, the Foundation shall deposit the Pocket DAO's funds into a multi-signature account owned by all of the Directors of the Foundation, to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the Pocket DAO, until the Council enters into an Exception Handling Addendum.
 
 4.25. After depositing the funds into the trust, the Foundation must then within 14 days (unless 4.22 applies) publish a planned response to the MAEE (an "Exception Handling Proposal"):
   * Describing in reasonable detail a proposal by the Foundation of the actions to be taken, the agreements to be entered into, and the remedies to be sought by the Users involved;
@@ -435,9 +431,9 @@ The provisions of this Article 4.4 shall continue to apply to a Person who was a
 
 4.27. The term "Exception Handling Addendum" refers to an addendum to this Constitution setting forth the agreement on the existence or non-existence of a MAEE and the actions to be taken, the agreements to be entered into, and the remedies to be sought in response thereto. An Exception Handling Proposal shall become an Exception Handling Addendum once the Council has signaled approval of the Proposal, represented by at least 50% of Stakeholders from the previous Council On-Chain Treasury account depositing an equivalent Governance Stake into the custodial trust. Each Exception Handling Addendum shall automatically and without further action of the Council or Foundation be deemed incorporated into and to form a part of this Constitution.
 
-4.28. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
+4.28. Once the Foundation has executed on the Addendum and the MAEE is resolved, the Foundation shall return all funds in the custodial trust (including Governance Stakes) to a protocol-owned Pocket DAO account and reimburse duplicate Governance Stakes. If the Foundation neglects to return the funds within 14 days, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
-4.29. If the Council disputes the existence of a MAEE, or does not wish to accept all or any part of the Foundation's Exception Handling Proposal, then the Council may simply abstain from depositing a Governance Stake into the Foundation's custodial trust account. If after 14 days at least 50% of the Council has neglected to signal support of the Proposal, and the Foundation refuses to return the DAO's funds to the original account, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
+4.29. If the Council disputes the existence of a MAEE, or does not wish to accept all or any part of the Foundation's Exception Handling Proposal, then the Council may simply abstain from depositing a Governance Stake into the Foundation's custodial trust account. If after 14 days at least 50% of the Council has neglected to signal support of the Proposal, and the Foundation refuses to return the Pocket DAO's funds to the original account, any member of the Council may lodge a complaint against the Foundation to the Cayman Island Summary Court. The decision resulting from the following court proceedings shall be non-appealable, binding and conclusive upon the Foundation and the Users of the Pocket Network.
 
 
 
