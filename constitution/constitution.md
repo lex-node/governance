@@ -67,14 +67,12 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4.5. The Governance Stake of a Person shall be deemed active if and only if: 
     (a) the Maturation Period with respect to such Governance Stake has elapsed; and 
     (b) at least one of the following conditions precedent is satisfied with respect thereto:
-        (i) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Champion [(which voucher has not been revoked)]); or
+        (i) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Council Champion [(which voucher has not been revoked)]); or
         (ii) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the On-Chain Council Treasury (or the relevant temporary trust, if applicable) with respect to which Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Council Members at such time). 
         [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threshold)?]
 
 4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordance with any applicable laws of property escheatment; (iii) left indefinitely in the Council Smart Contract; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
-
 4.8. Each Council Member shall vote his, her or its Voting Shares and otherwise exercise the rights, powers and perquisites of a Council Member on a reasonably informed basis and in good faith, taking into account the Pocket Principles. Each Council Member shall not sell his, her or its Voting Shares or any of the other rights, powers and perquisites of being a Council Member or accept any compensation, reward, reimbursement or incentive for voting such Council Member's Voting Shares or using such rights, powers and perquisites. 
-
 4.9. Additional fees, staking requirements or other conditions or obligations of Council Membership may be approved by the Council at any time, such as in connection with Aragon Agreements.
 
 #### Council Proposals
@@ -248,7 +246,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 9.4. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
-9.5. The option to become a Champion through committing a Trust-Minimized Stake will be in place at least until the Pocket Community Game has been in operation for one full season, after which the Council will hold a majority vote on whether to keep it.
+9.5. The option to become a Council Champion through committing a Trust-Minimized Stake will be in place at least until the Pocket Community Game has been in operation for one full season, after which the Council will hold a majority vote on whether to keep it.
 
 ## Interpretation, Dispute Resolution, Etc. 
 
@@ -303,7 +301,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
-* **Champion:** a who has been voted to become eligible to become a Council Member by a [current] Trusted Account Holder [NOTE: DO THEY HAVE TO CHAMPIONS OR CAN THEY BE ANY COUNCIL MEMBERS?] via Supermajority Approval. The Champion designation is intended to enable trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game. 
 * **Constitution:** has the meaning set forth in the Preamble
 * **Consensus Attack:** an attack that: (a) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Council Blockchain Network; and (b) has the actual or intended effect of: (1) reversing any transaction made to or by the Council Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (2) preventing inclusion in blocks or Confirmation of any transaction made to or by the Council Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
@@ -312,6 +309,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Conviction Funding:** the use of Conviction Voting by the Council to approve PEPs
 * **Council:** the unincorporated nonprofit association of Council Members, also known as "The Pocket Network Council"
 * **Council Blockchain:** the blockchain designated by the Council for deployment of the Council Smart Contract. The initial Council Blockchain is the Ethereum mainnet--i.e., the blockchain with "chainID:1" on "networkID:1" as recognized by a majority of nodes running Go Ethereum, the Official Golang implementation of the Ethereum protocol at https://github.com/ethereum/go-ethereum. There shall be only one Council Blockchain at any given time
+* **Council Champion:** a person who has been voted to become eligible to become a Council Member by a [current] Trusted Account Holder [NOTE: DO THEY HAVE TO CHAMPIONS OR CAN THEY BE ANY COUNCIL MEMBERS?] via Supermajority Approval. The Council Champion designation is intended to enable trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game. 
 * **Council Member:** has the definition set forth in Section 4.4.
 * **Council Member Distribution:** the demographic of Voting Token holders
 * **Council Protocol:** the voting, accounting and other rules and procedures embodied in the Council Smart Contract
