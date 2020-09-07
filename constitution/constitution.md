@@ -18,16 +18,13 @@
 
     9. has the foundation board passed the resolution called for by 1.6(a) of the foundation articles (" a resolution of the board determining that the DAO is operational and is able to pass DAO resolutions"?)
 
-]
-
-
 # THE POCKET NETWORK CONSTITUTION
 
-This Pocket Network Constitution (this **Constitution** ) is a legally binding agreement governing the Pocket Network and Pocket Blockchain and the use of the Pocket Technologies in connection therewith. 
+This Pocket Network Constitution (this **Constitution** ) is a legally binding agreement governing the Pocket DAO. The Pocket DAO governs the Pocket Network and Pocket Blockchain and the use of the Pocket Technologies in connection therewith. 
 
 # Mission Statement
 
-We, the Contributors to Pocket Network and Pocket Technologies, are united together in the mission to build censorship-resistant technology that will lay the foundation for reorganizing the world’s institutions towards a more equitable, hyper-connected, interplanetary future.
+The members of the Pocket DAO are united together in the mission to build censorship-resistant technology that will lay the foundation for reorganizing the world’s institutions towards a more equitable, hyper-connected, interplanetary future.
 
 # Principles
 
@@ -36,9 +33,9 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 3. **User-Centrism:** The Pocket Network is specialized to provide reliable decentralized infrastructure to Users. We must therefore continue to optimize for 1) User adoption and 2) the qualities that contribute to reliable infrastructure: network redundancy, robust data integrity, data sovereignty, minimal latency, minimal downtime, and minimalist engineering.
 4. **Freedom of Movement:** The Pocket Network should be accessible to both Apps and Nodes. Equally, all Pocket Network stakeholders or participants should enjoy the right to exit.
 5. **Optionality:** Operating a Node should incur no more costs than the cost of operation. All other responsibilities, e.g. participation in the Council, should be optional.
-6. **Agnosticism:** Pocket Network should maintain neutrality as a middleware protocol. While the governance of Pocket Network may be reliant from time to time on other networks or tools, the system itself should retain a level of modularity that facilitates switching out components with minimal friction.
-7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means our community members will come from a wide range of blockchain communities. Pocket DAO participants should leave tribalism at the door: i.e., they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
-8. **Consensual Collaboration:** While the Pocket Network Council is relatively permissionless, this does not mean anyone is entitled to work. Proposals will be assessed on their merits alone, including Contributors’ fitness to fulfill the proposal. Likewise, Contributors are not required to let any other Contributor work with them, unless the Council has approved a proposal to that effect.
+6. **Agnosticism:** The Pocket Protocol should maintain neutrality as a middleware protocol. While the governance of Pocket Network may be reliant from time to time on other networks or tools, the system itself should retain a level of modularity that facilitates switching out components with minimal friction.
+7. **Cross-Chain Diplomacy:** The Pocket Protocol is a middleware protocol, which means the members of the Pocket DAO will come from a wide range of blockchain communities. Pocket DAO participants should leave tribalism at the door: i.e., they should refrain from engaging in political debates that are not directly relevant to improving the Pocket Technologies, Pocket Protocol or Pocket Network.
+8. **Consensual Collaboration:** While the Pocket Network Council is relatively permissionless, this does not mean anyone is owed any duties by the Council or has any rights with respect to the Council. Proposals will be assessed on their merits alone, including Contributors’ fitness to fulfill the proposal. Likewise, Contributors are not required to let any other Contributor work with them, unless the Council has approved a proposal to that effect.
 
 * The Principles are ranked in order of priority.
 * Decisions [of???] must be made according to their furtherance of the Principles. 
@@ -46,19 +43,18 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 * Lower-ranking Principles should only be sacrificed in favor of higher-ranking Principles if a Pareto optimal state has been achieved, i.e. it is not possible to improve one Principle without making another Principle worse off. Until then, the Council shall seek to make only Pareto improvements, where Principles are improved without making any other Principles worse off.3
 * Once it is no longer possible to optimize any Principle without sacrificing another, this Constitution should be amended to introduce minimum satisfaction thresholds on each Principle.
 * Stakeholder rights at any given moment, as defined by the values of On-Chain parameters, may justifiably be sacrificed in the furtherance of the Principles, because it is intended that the Principles, if achieved, will ensure maximum utility to maximum stakeholders.
-* The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of the Pocket Technologies and Pocket Network stated under "Mission Statement" above.
+* The Principles should be designed, in all future iterations of this Constitution, to optimally achieve the mission of the Pocket DAO stated under "Mission Statement" above.
 # Covenants
-## 4. Pocket Network Governance
-4.1. Governance of the Pocket Network is an emergent phenomenon arising from the decision-making and activities of a variety of User demographics and other Persons, including: 
+## 4. Pocket DAO Governance
+4.1. Governance of the Pocket DAO is an emergent phenomenon arising from the decision-making and activities of a variety of User demographics and other Persons, including: 
 * the Pocket Network Foundation;
 * the Pocket Network Council and Council Members; 
 * the Pocket Development Company and other developers of Pocket Core and other Pocket Technologies; 
 * POKT holders; and
 * Node operators.
-
 ### Legislature / Council
 #### Nature & Functions of Council
-4.2. The legislative function of the Pocket Network is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Council Members [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Section [] hereof; (b) holds and governs the Council On-Chain Treasury, which is the aggregate of all unspent POKT DevFund Awards allocated from POKT Block Awards; and (c) considers, holds votes with respect to and approves or denies Pocket Improvement Proposals (PIPs), Pocket Ecosystem Proposals (PEPs) and Parameter Update Proposals (PUPs). 
+4.2. The legislative function of the Pocket DAO is performed by the Pocket Network Council, which is the unincorporated nonprofit association of Council Members [NOTE TO DRAFT: DISCUSS "UNINCORPORATED NONPROFIT ASSOCIATION" & JURISDICTIONAL ISSUES]. The Council: (a) monitors, supervises and governs the Foundation, as further set forth in Section [] hereof; (b) holds and governs the Council On-Chain Treasury, which is the aggregate of all unspent POKT DevFund Awards allocated from POKT Block Awards; and (c) considers, holds votes with respect to and approves or denies Pocket Improvement Proposals (PIPs), Pocket Ecosystem Proposals (PEPs) and Parameter Update Proposals (PUPs). 
 
 #### Council Membership
 4.4. A Person shall be deemed a **Council Member** if and only if: (a) such Person has deposited POKT into the Council Smart Contract to create a Governance Stake; (b) such Governance Stake is active; and (c) such Person has minted and continues to hold and control one or more Voting Tokens with respect to such Governance Stake. 
@@ -86,7 +82,7 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4.15. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
 4.16. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
 ### PEPs
-4.17. **Pocket Ecosystem Proposals (PEPs)** are proposals to provide funding out of the Council On-Chain Treasury to or form agreements with contributors to the Pocket Network ecosystem. 
+4.17. **Pocket Ecosystem Proposals (PEPs)** are proposals to provide funding out of the Council On-Chain Treasury to or form agreements with other Pocket DAO participants. 
 4.18. If a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
 4.19. Because the Pocket DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
 ### PUPs
@@ -126,10 +122,10 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 
 ### Executive / Foundation
 #### Nature & Functions of Foundation
-4.31. The executive function of the Pocket Network is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf (the **Foundation Articles**). Without limiting the generality of the immediately following Article [4.x], the Foundation's objectives include:
+4.31. The executive function of the Pocket DAO is performed by the Pocket Network Foundation, which is a Cayman Islands foundation company limited by guarantee. The Foundation is governed by its Articles of Association, a copy of which is available at https://github.com/pokt-network/governance/blob/master/foundation/Pocket-Network-Foundation-Articles-of-Association-Highlighted.pdf (the **Foundation Articles**). Without limiting the generality of the immediately following Article [4.x], the Foundation's objectives include:
   * serving as a fiduciary agent of the Council
   * stewarding the Pocket Technologies and Pocket Network, including Pocket Core
-  * requesting funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket Network ecosystem, by submitting PEPs.
+  * requesting funds from the Council for specific projects that have strategic value to the Pocket Technologies or Pocket DAO, by submitting PEPs.
 
 #### Foundation Articles; Responsibility to Council
 
@@ -141,28 +137,23 @@ The Foundation will anchor around the Council’s targets according to a 14-day 
 
 ### Judiciary
 
-4.33. The judiciary functions of the Pocket Network are performed by Aragon Court. 
+4.33. The judiciary functions of the Pocket DAO are performed by Aragon Court. 
 
 4.34. Any Council Member may challenge actions, if they think the action violates this Constitution, and offer a settlement up to the amount staked by the proposer of the action. The proposer of the action can then choose to either accept the settlement, cancelling their action, or stake more collateral to raise a dispute. The outcome of disputes under this Judiciary function will be determined per ‘3. Arbitration’.
 
 ### Diplomatic & Regulatory / Nodes
 
-4.35. The diplomatic and regulatory functions of the Pocket Network are performed by the Nodes. Nodes receive, transmit and propagate transactions and data through the Pocket Network, between the Pocket Network and other blockchain networks and between applications and the Pocket Network and other blockchain networks. Validator Nodes enforce the Pocket Protocol and ensure the Pocket Blockchain conforms to its rules by proposing blocks and validating the blocks proposed by other Validator Nodes. 
+4.35. The diplomatic and regulatory functions of the Pocket DAO are performed by the Nodes. Nodes receive, transmit and propagate transactions and data through the Pocket Network, between the Pocket Network and other blockchain networks and between applications and the Pocket Network and other blockchain networks. Validator Nodes enforce the Pocket Protocol and ensure the Pocket Blockchain conforms to its rules by proposing blocks and validating the blocks proposed by other Validator Nodes. 
 
 4.36. Each Node, solely by connecting to the Pocket Network, shall be deemed to consent in all respects to the Pocket Protocol, the results of operations of which shall be final and binding upon each Node. Without limiting the foregoing, each Validator Node shall be deemed to consent in all respects to the slashing of such Validator Node's staked POKT in accordance with the Pocket Protocol and hereby waives, relinquishes and releases any and all claim against any Person arising from the loss of staked POKT in accordance with the Pocket Protocol. 
 
 ### Citizenry / Users
 
-4.37. The citizenry of the Pocket Network are End-Users in their capacities as such. End-Users utilize, rely upon and enjoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. **End-Users** may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Pocket Network or its Nodes.   [NOTE: consider just making it *Users*. I think the only delta is that Users would include persons who run Nodes, which seems okay].
+4.37. The citizenry of the Pocket DAO are End-Users in their capacities as such. End-Users utilize, rely upon and enjoy the benefits of the Pocket Network, and pay transaction fees and taxes (dilution through Block Rewards) where applicable. **End-Users** may be POKT holders, Persons who relay transactions to POKT Nodes for transmission to other blockchain networks or applications that rely on the Pocket Network or its Nodes.   [NOTE: consider just making it *Users*. I think the only delta is that Users would include persons who run Nodes, which seems okay].
 ## 5. Liability
-
-5.1. The Foundation is a distinct legal entity representing the Pocket DAO in various matters. This means the Pocket DAO accepts no liability and all disputes, including claims of tort, must be directed to the Foundation.
-
+5.1. The Foundation is a distinct legal entity representing the Pocket DAO in various matters, under supervision of the Council. This means the Pocket DAO accepts no liability and all disputes, including claims of tort, must be directed to the Foundation.
 5.2. Users shall be liable for losses caused by false or misleading attestations, such as fraudulent relay proofs, and shall forfeit any stake thereby according to the consensus rules of Pocket Core.
-
 5.3. Software developers (such as the Pocket Development Company) are contracted by the Foundation on behalf of the Pocket DAO to develop Pocket Core. Because the Foundation defer to the Council, the Council is ultimately responsible for reviewing new software and approving Protocol Upgrades. Further, the Validator Nodes are responsible for accepting Protocol Upgrade Governance Transactions approved by the Council, and Users consent to the Validator Nodes' decisions through their use of the blockchain in accordance with Article 2.1. Therefore, the Users agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
-
-
 
 ## 7. Finances
 
@@ -227,7 +218,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 ## 9. Initialization
 
-9.1. No decision by the Council shall be legitimate until the founding Council Members of the Council have unanimously approved this Constitution.
+9.1. No decision by the Council shall be legitimate until the founding Council Members have unanimously approved this Constitution. [NOTE: HAS THIS OCCURRED?]
 
 9.2. The following bootstrap measures will be in place until a Majority vote overrules them:
   * The Council shall use the Ethereum Rinkeby testnet;
@@ -252,11 +243,8 @@ For outgoing payments to recipients who may have not consented to this Constitut
 1.3. Any rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be applied in the construction or interpretation of this Constitution. 
 
 ### Binding Nature of Constitution
-
 2.1. Each Person who directly or indirectly uses, operates, executes, installs, sends transactions to or receives transactions from or accesses: (a) the Pocket Network (whether through Pocket Core or any other software); (b) the Pocket Blockchain; or (c) any of the other Pocket Technologies in connection with the Pocket Network or Pocket Blockchain (each such Person, a ***User**) is, without any further any action or agreement, automatically deemed to have consented to and agreed to be bound by and become a party to this Constitution.
-
 2.2. Without limiting the generality of Section 2.1, entry into the Council, and the signing of this Constitution required to mint oneself a Voting Token, or to submit any other action to the Council, shall constitute consent to the terms of this Constitution.
-
 2.3. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
 
 ### Entire Agreement
@@ -311,7 +299,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Executive:** the functions of the Pocket DAO that are responsible for executing the decisions made by the Legislature
 * **Executive Vote:** any vote made by the Council with the intent of executing an action, both On-Chain and within the Council’s platforms
 * **Governance Stake:** POKT deposited with the Council On-Chain Treasury (or a temporary trust, if the funds have been transferred to the trust by the Foundation), for so long as such POKT remains so deposited.  
-* **Governance Upgrades:** any amendment to the government apparatus of the Pocket Network, including the appointment or removal of directors or supervisors. 
+* **Governance Upgrades:** any amendment to the government apparatus of the Pocket DAO, including the appointment or removal of directors or supervisors. 
 * **Governance Transactions:** transactions executing the Council’s decisions in Pocket Core, by activating Protocol Upgrades, transferring Council On-Chain Treasury funds, and/or changing parameters
 * **Legal Order:** any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy
 * **Legal Proceeding:** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
@@ -327,11 +315,11 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Permission Holders:** Pocket DAO participants who possess permissions as defined by the ACL of Pocket Core or an external Council platform such as Aragon
 * **Person:** any (i) individual, corporation, company, general partnership, unincorporated association, group, organization, joint venture, limited partnership, limited liability partnership, estate, trust  or entity or legal person or (ii) (A) nation or international or multinational sovereignty, (B) government or instrumentality, subdivision, department, ministry, board, court or agency of any government or (C) quasi-governmental or private body exercising any executive, legislative, judicial, regulatory, taxing, importing or other governmental functions.
 * **Pocket Blockchain:** at each time, the blockchain with "id:0001" that has been most recently validated by the Validator Nodes on the Pocket Network in accordance with the Pocket Protocol.
-* **Pocket Community Game:** a series of gamified Pocket Network community quests with levels that can be achieved by completing a set of tasks
+* **Pocket Community Game:** a series of gamified Pocket DAO community quests with levels that can be achieved by completing a set of tasks
  **Pocket Core:** at each relevant time, the most up-to-date official release of the Official Golang Implementation of the Pocket Network Protocol available at  https://github.com/pokt-network/pocket-core, without any modification thereto 
 * **Pocket DAO:** means the unincorporated association of the Pocket Network’s Council, Users, Contributors, and Stakeholders. The Pocket DAO governs the public goods that are Pocket Core, the Council On-Chain Treasury, and all associated ecosystem resources, according to the structures, rules and procedures outlined in this Constitution. 
 * **Pocket Development Company:** Pocket Network Inc., a Delaware corporation
-* **Pocket Ecosystem Proposal (PEP):** proposals to distribute funds to or form agreements with Contributors to the Pocket Network ecosystem. PEP categories include:
+* **Pocket Ecosystem Proposal (PEP):** has the definition set forth in Section ____. :
   * **Imbursements:** paying Contributors to fund future work
   * **Reimbursements:** paying Contributors for previous work
   * **Bounties:** funding work that has yet to be claimed by Contributors
