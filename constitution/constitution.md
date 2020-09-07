@@ -92,8 +92,9 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 ### PUPs
 4.20.**Parameter Update Proposals (PUPs)**  are proposals to change the value of a given parameter of the Pocket Blockchain, including proposals to change: 
     (a) the monetary policy of the Pocket Blockchain (i.e., economic parameters such as BaseRelaysPerPOKT and StabilityAdjustment);
-    (b) the whitelist of blockchain networks supported by the Pocket Blockchain (i.e., ____________); and
+    (b) the whitelist of blockchain networks supported by the Pocket Blockchain (i.e., the SupportedBlockchains parameter); and
     (c) the consensus mechanisms of the Pocket Blockchain (i.e., consensus parameters such as UnstakingTime, MaximumChains and FraudulentRelayBatchPenalty).
+A full list of parameters is maintained at : https://governance.docs.pokt.network/docs/submit-a-pup
 4.21. Each PUP should specify: 
     (a) Current Value: What is the current value of the parameter? For whitelists, just leave this field blank
     (b) New Value: What is the proposed value of the parameter? For whitelists, just list the addresses/IDs you wish to add or remove
@@ -105,9 +106,8 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 4.22. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
 4.23. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council: BaseRelaysPerPOKT and StabilityAdjustment. 
 The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation may ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
-4.24. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Council Members. The Foundation will add Network IDs to the whitelist if 5% of Council Members have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
+4.24. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of [Council Members] [SHOULD THIS INSTEAD REFER TO VALIDATOR NODES?]. The Foundation will add Network IDs to the whitelist if 5% of [Council Members] have configured their App or Node to include the Network ID. [HOW DO WE KNOW ALL COUNCIL MEMBERS HAVE AN ‘APP OR NODE’? SEEMS LIKE THIS SHOULD JUST BE DECIDED BY VALIDATOR NODES, NOT NECESSARILY ONES THAT ALSO ARE COUNCIL MEMBERS] PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
 4.25. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
-
 #### Removing Council Members
 4.11. Council Members can be removed by the Council for 5 violations of this Constitution. A Council Member’s violation count is inclusive of:
   * **settlements** = 0.5 violations
