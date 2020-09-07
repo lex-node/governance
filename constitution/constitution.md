@@ -259,7 +259,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 9.4. The App and Node UnstakingTime parameters will be changed from 21 days to 1 hour once Decentralization Day has been achieved, subject to Majority Approval.
 
-9.5. The Champion option for the Trusted Stake will be in place at least until the Pocket Community Game has been in operation for one full season, after which the Council will hold a majority vote on whether to keep it.
+9.5. The option to become a Champion through committing a Trust-Minimized Stake will be in place at least until the Pocket Community Game has been in operation for one full season, after which the Council will hold a majority vote on whether to keep it.
 
 ## Interpretation, Dispute Resolution, Etc. 
 
@@ -314,7 +314,7 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * **Apps:** Pocket Network accounts that stake POKT to submit API requests (relays) to the Pocket Network
 * **Bonded:** the state of an App or Node that has staked POKT
 * **Burning Tokens:** the permanent removal of POKT from circulation
-* **Champion:** a who has been voted to become eligible to become a Council Member by existing Champions [NOTE: DO THEY HAVE TO CHAMPIONS OR CAN THEY BE ANY COUNCIL MEMBERS?] via Supermajority Approval. The Champion designated is intended to enable trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game. 
+* **Champion:** a who has been voted to become eligible to become a Council Member by a [current] Trusted Account Holder [NOTE: DO THEY HAVE TO CHAMPIONS OR CAN THEY BE ANY COUNCIL MEMBERS?] via Supermajority Approval. The Champion designation is intended to enable trusted community members to access a cheaper Governance Stake without having to play the Pocket Community Game. 
 * **Constitution:** has the meaning set forth in the Preamble
 * **Consensus Attack:** an attack that: (a) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Council Blockchain Network; and (b) has the actual or intended effect of: (1) reversing any transaction made to or by the Council Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (2) preventing inclusion in blocks or Confirmation of any transaction made to or by the Council Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect
 * **Contributors:** anyone who is doing work in service of the DAO and/or the Pocket Network ecosystem or Pocket Technologies, such as proposal recipients, bounty recipients, and protocol developers
