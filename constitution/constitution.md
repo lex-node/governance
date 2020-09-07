@@ -89,38 +89,38 @@ We, the Contributors to Pocket Network and Pocket Technologies, are united toget
 
 4.10. Proposals to be voted upon by the Council must be submitted solely by Council members. The immediately preceding sentence shall not be deemed to limit the right, power or discretion of a Council member to submit such a proposal on behalf of or in cooperation with another User or User demographic, provided that such Council member independently supports such proposal on its own merits without regard to any personal or business-related affiliation or pecuniary gain with respect to such other User(s) or such proposal and has not breached Article 4.8. 
 
-4.11 Proposals are of three main types: 
+4.11. Proposals are of three main types: 
 (a) Pocket Improvement Proposals (PIPs), which are proposals to improve Pocket Core or the other Pocket Technologies or the Pocket Network or Pocket Blockchain or governance procedures, including Protocol Upgrades and Governance Upgrades.
 (b) Pocket Ecosystem Proposals (PEPs), which are proposals to provide funding out of the On-Chain Council Treasury to or form agreements with contributors to the Pocket Network ecosystem. 
 (c) Parameter Update Proposals (PUPs), which are proposals to change the value of a given parameter of the Council Smart Contract
 
 4.12 Each proposal shall be made by any Council member initiating Signaling or an Executive Vote with respect to such proposal, properly identified as a PIP, PEP or PUP. 
 
-6.2. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of the Pocket Development Company will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
+4.13. Moderators may edit proposal forum posts only for the purpose of assigning numbers, categorizing, and updating the phases/statuses of proposals. Contractors of the Pocket Development Company will be the first Moderators, but anyone can apply to become a Moderator, or propose the removal of existing Moderators, by submitting a PIP.
 
 ### PIPs
 
-6.3. PIPs will not be permissible if they contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This is in place to prevent omnibus proposals, whereby unpopular proposals are pushed through by bundling them with popular proposals.
+4.14. PIPs will not be permissible if they contain multiple new specifications that could feasibly be divided into separate proposals without losing their meaning. This is in place to prevent omnibus proposals, whereby unpopular proposals are pushed through by bundling them with popular proposals.
 
-6.4. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
+4.15. PIP votes will last 7 days and pass with Majority Approval, unless otherwise specified in this Constitution (e.g. see Supermajority Approval requirement in ‘Constitutional Amendments’).
 
-6.5. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
+4.16. The execution of successful PIPs will be delayed by a period equal to the Unbonding Period plus one day, to give Bonded Users time to unbond and exit the network before the upgrade is executed, unless they are responses to MAEEs.
 
 ### PEPs
 
-6.6. Where a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
+4.17. Where a PEP involves a transfer of funds, the threshold for PEP approval will be dynamic based on the budget of the proposal according to the parameters and formula of the Council’s Conviction Voting app(s).
 
-6.7. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
+4.18. Because the DAO is a non-profit multi-stakeholder organization, the Council shall only approve PEPs in the form of grants.
 
 ### PUPs
 
-6.8. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
+4.19. Off-chain parameters signaling the pricing preferences of the Council (the USDRelayTargetRange and the ReturnOnInvestmentTarget) will be governed using Conviction Signaling, whereby the Conviction-weighted average of all values will be submitted.
 
-6.9. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council in 6.8: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
+4.20. The following discretionary On-Chain parameters will be governed by the Foundation in order to fulfil the targets set by the Council in 6.8: BaseRelaysPerPOKT & StabilityAdjustment. The Foundation will anchor around the Council’s targets according to a 14-day average; if the actual relay price exceeds this target range temporarily, the Foundation can ignore it, but if the range is exceeded on average for 14 days, the Foundation must respond.
 
-6.10. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Voters. The Foundation will add Network IDs to the whitelist if 5% of Voters have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
+4.21. The SupportedBlockchains parameter will not be governed through voting, but instead according to the Network ID configuration choices of Voters. The Foundation will add Network IDs to the whitelist if 5% of Voters have configured their App or Node to include the Network ID. PUPs can still be submitted for this parameter to draw attention to new eligible Network IDs.
 
-6.11. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
+4.22. All other On-Chain parameters not specified above will be governed using Majority Approval, in votes lasting 7 days.
 
 
 #### Removing Voters
