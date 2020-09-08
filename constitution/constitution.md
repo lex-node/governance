@@ -1,17 +1,12 @@
 [DRAFTING NOTES:
 
-    1. waiting for feedback from team, but I likely need to revise the new  code deference provisions re: Council smart contract since they are currently using Rinkelby smart contract with manual approval of vote minting, etc.; possibly will bifurcate between current and future arrangement and provide code-deference structure for the latter that kicks in if/when activated by council 
-
-    2. fix clause / section numbering periodically
-    3. should have section on nodes and providing that persons operating nodes consent to being slashed (can also later repurpose some of that language re: slashing for Constitutional violations if that eventually becomes a thing)
-    4. discuss/research possibilities re: Council as unincorporated nonprofit association and best jurisdiction (some U.S. states provide limited liability for members of such an association)
-    5. get feedback from team re: what happens with voting tokens when a governance stake that formerly satisfied criteria for minting voting tokens become un-satisfied (e.g., due to large aggregate council-wide governance stake increase after voting tokens minted on basis of lower aggregate governance stake)
-    6. tighten up contract boilerplate, arbitration provisions (class action waiver), choice of law question, etc. 
-    7. has the first member of the foundation resigned so that it is in fact ownerless?
-    8. has the foundation board passed the resolution called for by 1.6(a) of the foundation articles (" a resolution of the board determining that the DAO is operational and is able to pass DAO resolutions"?)
+    1. fix clause / section numbering periodically
+    2. discuss/research possibilities re: Council as unincorporated nonprofit association and best jurisdiction (some U.S. states provide limited liability for members of such an association)
+    3. get feedback from team re: what happens with voting tokens when a governance stake that formerly satisfied criteria for minting voting tokens become un-satisfied (e.g., due to large aggregate council-wide governance stake increase after voting tokens minted on basis of lower aggregate governance stake)
+    4. tighten up contract boilerplate, arbitration provisions (class action waiver), choice of law question, etc. 
+    5. has the first member of the foundation resigned so that it is in fact ownerless?
 
 # THE POCKET NETWORK CONSTITUTION
-
 This Pocket Network Constitution (this **Constitution** ) is a legally binding agreement governing the Pocket DAO. The Pocket DAO governs the Pocket Network and Pocket Blockchain and the use of the Pocket Technologies in connection therewith. 
 
 # Mission Statement
