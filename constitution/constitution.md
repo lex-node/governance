@@ -48,7 +48,6 @@ The members of the Pocket DAO are united together in the mission to build censor
         (a) Such Person is a **Trusted Account Holder** (i.e., such Person has achieved [(and at each relevant time, maintains)] an Elite level in the Pocket Community Game or has been vouched for by a Council Champion [(which voucher has not been revoked)]); or
         (b) such Governance Stake is a **Trust-Minimized Stake** (i.e., [at each relevant time,] such Governance Stake comprises a number of POKT at least equal to (A) the total aggregate number of POKT on deposit in the Council On-Chain Treasury (or the relevant temporary trust, if applicable) with respect to which Voting Tokens have been minted and remain outstanding at such time; divided by (B) the number of Council Members at such time). 
         [NOTE TO SELF/DRAFT: what happens if someone holds Voting Tokens and their Governance Stake subsequently becomes 'inactive' (e.g., due to staked POKT dipping below the variable trust-minimization threshold)?]
-
 4.7. POKT comprising: (a) an active Governance Stake that has not been promptly utilized to mint Voting Tokens; or (b) a Governance Stake that has not promptly been activated may, in the sole and absolute discretion of the Council, be deemed abandoned. In the sole and absolute discretion of the Council, POKT deemed to be abandoned may be: (i) returned to the depositing address (less applicable transaction fees and setoffs, if any); (ii) treated in accordance with any applicable laws of property escheatment; (iii) left indefinitely in the Council Multisig; or (iv) treated in any other manner that does not violate this Constitution or applicable law. 
 4.8. Each Council Member shall vote his, her or its Voting Shares and otherwise exercise the rights, powers and perquisites of a Council Member on a reasonably informed basis and in good faith, taking into account the Pocket Principles. Each Council Member shall not sell his, her or its Voting Shares or any of the other rights, powers and perquisites of being a Council Member or accept any compensation, reward, reimbursement or incentive for voting such Council Member's Voting Shares or using such rights, powers and perquisites. 
 #### Council Proposals
@@ -204,7 +203,6 @@ For outgoing payments to recipients who may have not consented to this Constitut
 2.3. All service providers who stake or sign transactions on behalf of Users, or develop tools to facilitate staking or signing by Users, shall make every effort to inform said Users of this Constitution's terms. Service providers shall be liable for losses resulting from failure to do this.
 
 ### Entire Agreement
-
 2.4. This Constitution constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the Parties (or any of them) with respect to the subject matter hereof.
 
 ### Severability
@@ -225,9 +223,12 @@ For outgoing payments to recipients who may have not consented to this Constitut
 
 3.4. By consenting to this Constitution, all Parties waive their right to resolve any controversy in any manner other than defined in this Constitution. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR RELATING TO THIS CONSTITUTION, THE DAO, OR THE MATTERS CONTEMPLATED HEREBY OR THE ACTIONS OF SUCH PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT HEREOF.
 
+
 [NOTE TO SELF: CHOICE OF LAW?]
 [NOTE TO SELF: BEEF UP ARBITRATION PROVISIONS ('final, binding and determinative resolution' etc.)]
-
+###LIABILITY LIMITATIONS
+No Personal Liability. Except as otherwise provided by applicable Legal Requirement or expressly in Constitution, no Council Member or other participant in the Pocket DAO will be obligated personally for any debt, obligation, or other Liability of the Pocket DAO or the Council, whether arising in contract, tort, or otherwise, solely by reason of being a Council Member, participant in the Pocket DAO or User. To the extent that any Council Member has any liability in connection with the Council, all of such Council Member’s liabilities shall be limited to such Council Member’s Governance Stake. The immediately preceding sentence shall constitute a compromise to which all Council Members, Pocket DAO participants and other Users have consented. Notwithstanding anything contained herein to the contrary, the foregoing limitations shall not apply with respect to any fraud or a knowing and intentional violation of this Constitution or any applicable Legal Requirement by a Council Member.
+No Right of Partition. No Council Member, Pocket DAO Participant or other User shall have the right to seek or obtain partition by court decree or operation of law of, or the right to personally own or use, any of the Council On-Chain Treasury or funds of the Pocket Foundation. 
 
 # Definitions
 * **Access Control List (ACL):** a permission framework used by Pocket Core to control which accounts can submit Governance Transactions, such as transferring funds from the Council On-Chain Treasury, burning funds in the Council On-Chain Treasury, updating On-Chain parameters, and activating Protocol Upgrades.
